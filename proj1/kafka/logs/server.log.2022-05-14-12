@@ -1,3 +1,988 @@
+[2022-05-14 12:17:15,828] INFO Reading configuration from: kafka/config/zookeeper.properties (org.apache.zookeeper.server.quorum.QuorumPeerConfig)
+[2022-05-14 12:17:15,829] WARN kafka/config/zookeeper.properties is relative. Prepend ./ to indicate that you're sure! (org.apache.zookeeper.server.quorum.QuorumPeerConfig)
+[2022-05-14 12:17:15,831] INFO clientPortAddress is 0.0.0.0:2181 (org.apache.zookeeper.server.quorum.QuorumPeerConfig)
+[2022-05-14 12:17:15,831] INFO secureClientPort is not set (org.apache.zookeeper.server.quorum.QuorumPeerConfig)
+[2022-05-14 12:17:15,832] INFO autopurge.snapRetainCount set to 3 (org.apache.zookeeper.server.DatadirCleanupManager)
+[2022-05-14 12:17:15,832] INFO autopurge.purgeInterval set to 0 (org.apache.zookeeper.server.DatadirCleanupManager)
+[2022-05-14 12:17:15,832] INFO Purge task is not scheduled. (org.apache.zookeeper.server.DatadirCleanupManager)
+[2022-05-14 12:17:15,833] WARN Either no config or no quorum defined in config, running  in standalone mode (org.apache.zookeeper.server.quorum.QuorumPeerMain)
+[2022-05-14 12:17:15,834] INFO Log4j 1.2 jmx support found and enabled. (org.apache.zookeeper.jmx.ManagedUtil)
+[2022-05-14 12:17:15,841] INFO Reading configuration from: kafka/config/zookeeper.properties (org.apache.zookeeper.server.quorum.QuorumPeerConfig)
+[2022-05-14 12:17:15,841] WARN kafka/config/zookeeper.properties is relative. Prepend ./ to indicate that you're sure! (org.apache.zookeeper.server.quorum.QuorumPeerConfig)
+[2022-05-14 12:17:15,841] INFO clientPortAddress is 0.0.0.0:2181 (org.apache.zookeeper.server.quorum.QuorumPeerConfig)
+[2022-05-14 12:17:15,841] INFO secureClientPort is not set (org.apache.zookeeper.server.quorum.QuorumPeerConfig)
+[2022-05-14 12:17:15,841] INFO Starting server (org.apache.zookeeper.server.ZooKeeperServerMain)
+[2022-05-14 12:17:15,842] INFO zookeeper.snapshot.trust.empty : false (org.apache.zookeeper.server.persistence.FileTxnSnapLog)
+[2022-05-14 12:17:15,847] INFO Server environment:zookeeper.version=3.5.9-83df9301aa5c2a5d284a9940177808c01bc35cef, built on 01/06/2021 20:03 GMT (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:17:15,847] INFO Server environment:host.name=copia-ml (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:17:15,847] INFO Server environment:java.version=11.0.15 (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:17:15,847] INFO Server environment:java.vendor=Private Build (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:17:15,847] INFO Server environment:java.home=/usr/lib/jvm/java-11-openjdk-amd64 (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:17:15,848] INFO Server environment:java.class.path=/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/activation-1.1.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/aopalliance-repackaged-2.6.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/argparse4j-0.7.0.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/audience-annotations-0.5.0.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/commons-cli-1.4.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/commons-lang3-3.8.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/connect-api-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/connect-basic-auth-extension-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/connect-file-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/connect-json-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/connect-mirror-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/connect-mirror-client-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/connect-runtime-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/connect-transforms-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/hk2-api-2.6.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/hk2-locator-2.6.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/hk2-utils-2.6.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jackson-annotations-2.10.5.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jackson-core-2.10.5.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jackson-databind-2.10.5.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jackson-dataformat-csv-2.10.5.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jackson-datatype-jdk8-2.10.5.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jackson-jaxrs-base-2.10.5.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jackson-jaxrs-json-provider-2.10.5.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jackson-module-jaxb-annotations-2.10.5.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jackson-module-paranamer-2.10.5.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jackson-module-scala_2.12-2.10.5.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jakarta.activation-api-1.2.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jakarta.annotation-api-1.3.5.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jakarta.inject-2.6.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jakarta.validation-api-2.0.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jakarta.ws.rs-api-2.1.6.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jakarta.xml.bind-api-2.3.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/javassist-3.25.0-GA.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/javassist-3.26.0-GA.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/javax.servlet-api-3.1.0.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/javax.ws.rs-api-2.1.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jaxb-api-2.3.0.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jersey-client-2.31.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jersey-common-2.31.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jersey-container-servlet-2.31.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jersey-container-servlet-core-2.31.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jersey-hk2-2.31.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jersey-media-jaxb-2.31.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jersey-server-2.31.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jetty-client-9.4.38.v20210224.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jetty-continuation-9.4.38.v20210224.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jetty-http-9.4.38.v20210224.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jetty-io-9.4.38.v20210224.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jetty-security-9.4.38.v20210224.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jetty-server-9.4.38.v20210224.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jetty-servlet-9.4.38.v20210224.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jetty-servlets-9.4.38.v20210224.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jetty-util-9.4.38.v20210224.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jetty-util-ajax-9.4.38.v20210224.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jopt-simple-5.0.4.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/kafka_2.12-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/kafka_2.12-2.6.2-sources.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/kafka-clients-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/kafka-log4j-appender-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/kafka-streams-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/kafka-streams-examples-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/kafka-streams-scala_2.12-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/kafka-streams-test-utils-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/kafka-tools-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/log4j-1.2.17.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/lz4-java-1.7.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/maven-artifact-3.6.3.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/metrics-core-2.2.0.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/netty-buffer-4.1.59.Final.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/netty-codec-4.1.59.Final.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/netty-common-4.1.59.Final.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/netty-handler-4.1.59.Final.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/netty-resolver-4.1.59.Final.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/netty-transport-4.1.59.Final.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/netty-transport-native-epoll-4.1.59.Final.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/netty-transport-native-unix-common-4.1.59.Final.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/osgi-resource-locator-1.0.3.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/paranamer-2.8.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/plexus-utils-3.2.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/reflections-0.9.12.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/rocksdbjni-5.18.4.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/scala-collection-compat_2.12-2.1.6.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/scala-java8-compat_2.12-0.9.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/scala-library-2.12.11.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/scala-logging_2.12-3.9.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/scala-reflect-2.12.11.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/slf4j-api-1.7.30.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/slf4j-log4j12-1.7.30.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/snappy-java-1.1.7.3.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/zookeeper-3.5.9.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/zookeeper-jute-3.5.9.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/zstd-jni-1.4.4-7.jar (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:17:15,848] INFO Server environment:java.library.path=/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:17:15,848] INFO Server environment:java.io.tmpdir=/tmp (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:17:15,848] INFO Server environment:java.compiler=<NA> (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:17:15,848] INFO Server environment:os.name=Linux (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:17:15,848] INFO Server environment:os.arch=amd64 (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:17:15,848] INFO Server environment:os.version=5.15.0-27-generic (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:17:15,848] INFO Server environment:user.name=root (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:17:15,848] INFO Server environment:user.home=/root (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:17:15,848] INFO Server environment:user.dir=/home/copia-ml/GitHub/cloud_computing/proj1 (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:17:15,848] INFO Server environment:os.memory.free=494MB (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:17:15,848] INFO Server environment:os.memory.max=512MB (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:17:15,848] INFO Server environment:os.memory.total=512MB (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:17:15,849] INFO minSessionTimeout set to 6000 (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:17:15,849] INFO maxSessionTimeout set to 60000 (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:17:15,849] INFO Created server with tickTime 3000 minSessionTimeout 6000 maxSessionTimeout 60000 datadir /tmp/zookeeper/version-2 snapdir /tmp/zookeeper/version-2 (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:17:15,853] INFO Using org.apache.zookeeper.server.NIOServerCnxnFactory as server connection factory (org.apache.zookeeper.server.ServerCnxnFactory)
+[2022-05-14 12:17:15,854] INFO Configuring NIO connection handler with 10s sessionless connection timeout, 4 selector thread(s), 96 worker threads, and 64 kB direct buffers. (org.apache.zookeeper.server.NIOServerCnxnFactory)
+[2022-05-14 12:17:15,857] INFO binding to port 0.0.0.0/0.0.0.0:2181 (org.apache.zookeeper.server.NIOServerCnxnFactory)
+[2022-05-14 12:17:15,864] INFO zookeeper.snapshotSizeFactor = 0.33 (org.apache.zookeeper.server.ZKDatabase)
+[2022-05-14 12:17:15,866] INFO Snapshotting: 0x0 to /tmp/zookeeper/version-2/snapshot.0 (org.apache.zookeeper.server.persistence.FileTxnSnapLog)
+[2022-05-14 12:17:15,867] INFO Snapshotting: 0x0 to /tmp/zookeeper/version-2/snapshot.0 (org.apache.zookeeper.server.persistence.FileTxnSnapLog)
+[2022-05-14 12:17:15,873] INFO PrepRequestProcessor (sid:0) started, reconfigEnabled=false (org.apache.zookeeper.server.PrepRequestProcessor)
+[2022-05-14 12:17:15,876] INFO Using checkIntervalMs=60000 maxPerMinute=10000 (org.apache.zookeeper.server.ContainerManager)
+[2022-05-14 12:17:35,905] INFO Registered kafka:type=kafka.Log4jController MBean (kafka.utils.Log4jControllerRegistration$)
+[2022-05-14 12:17:36,147] INFO Setting -D jdk.tls.rejectClientInitiatedRenegotiation=true to disable client-initiated TLS renegotiation (org.apache.zookeeper.common.X509Util)
+[2022-05-14 12:17:36,171] INFO Registered signal handlers for TERM, INT, HUP (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:17:36,172] INFO starting (kafka.server.KafkaServer)
+[2022-05-14 12:17:36,173] INFO Connecting to zookeeper on localhost:2181 (kafka.server.KafkaServer)
+[2022-05-14 12:17:36,182] INFO [ZooKeeperClient Kafka server] Initializing a new session to localhost:2181. (kafka.zookeeper.ZooKeeperClient)
+[2022-05-14 12:17:36,185] INFO Client environment:zookeeper.version=3.5.9-83df9301aa5c2a5d284a9940177808c01bc35cef, built on 01/06/2021 20:03 GMT (org.apache.zookeeper.ZooKeeper)
+[2022-05-14 12:17:36,185] INFO Client environment:host.name=copia-ml (org.apache.zookeeper.ZooKeeper)
+[2022-05-14 12:17:36,185] INFO Client environment:java.version=11.0.15 (org.apache.zookeeper.ZooKeeper)
+[2022-05-14 12:17:36,185] INFO Client environment:java.vendor=Private Build (org.apache.zookeeper.ZooKeeper)
+[2022-05-14 12:17:36,185] INFO Client environment:java.home=/usr/lib/jvm/java-11-openjdk-amd64 (org.apache.zookeeper.ZooKeeper)
+[2022-05-14 12:17:36,185] INFO Client environment:java.class.path=/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/activation-1.1.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/aopalliance-repackaged-2.6.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/argparse4j-0.7.0.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/audience-annotations-0.5.0.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/commons-cli-1.4.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/commons-lang3-3.8.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/connect-api-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/connect-basic-auth-extension-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/connect-file-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/connect-json-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/connect-mirror-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/connect-mirror-client-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/connect-runtime-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/connect-transforms-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/hk2-api-2.6.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/hk2-locator-2.6.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/hk2-utils-2.6.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jackson-annotations-2.10.5.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jackson-core-2.10.5.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jackson-databind-2.10.5.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jackson-dataformat-csv-2.10.5.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jackson-datatype-jdk8-2.10.5.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jackson-jaxrs-base-2.10.5.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jackson-jaxrs-json-provider-2.10.5.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jackson-module-jaxb-annotations-2.10.5.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jackson-module-paranamer-2.10.5.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jackson-module-scala_2.12-2.10.5.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jakarta.activation-api-1.2.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jakarta.annotation-api-1.3.5.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jakarta.inject-2.6.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jakarta.validation-api-2.0.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jakarta.ws.rs-api-2.1.6.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jakarta.xml.bind-api-2.3.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/javassist-3.25.0-GA.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/javassist-3.26.0-GA.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/javax.servlet-api-3.1.0.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/javax.ws.rs-api-2.1.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jaxb-api-2.3.0.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jersey-client-2.31.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jersey-common-2.31.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jersey-container-servlet-2.31.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jersey-container-servlet-core-2.31.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jersey-hk2-2.31.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jersey-media-jaxb-2.31.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jersey-server-2.31.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jetty-client-9.4.38.v20210224.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jetty-continuation-9.4.38.v20210224.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jetty-http-9.4.38.v20210224.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jetty-io-9.4.38.v20210224.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jetty-security-9.4.38.v20210224.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jetty-server-9.4.38.v20210224.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jetty-servlet-9.4.38.v20210224.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jetty-servlets-9.4.38.v20210224.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jetty-util-9.4.38.v20210224.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jetty-util-ajax-9.4.38.v20210224.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jopt-simple-5.0.4.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/kafka_2.12-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/kafka_2.12-2.6.2-sources.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/kafka-clients-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/kafka-log4j-appender-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/kafka-streams-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/kafka-streams-examples-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/kafka-streams-scala_2.12-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/kafka-streams-test-utils-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/kafka-tools-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/log4j-1.2.17.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/lz4-java-1.7.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/maven-artifact-3.6.3.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/metrics-core-2.2.0.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/netty-buffer-4.1.59.Final.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/netty-codec-4.1.59.Final.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/netty-common-4.1.59.Final.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/netty-handler-4.1.59.Final.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/netty-resolver-4.1.59.Final.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/netty-transport-4.1.59.Final.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/netty-transport-native-epoll-4.1.59.Final.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/netty-transport-native-unix-common-4.1.59.Final.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/osgi-resource-locator-1.0.3.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/paranamer-2.8.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/plexus-utils-3.2.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/reflections-0.9.12.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/rocksdbjni-5.18.4.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/scala-collection-compat_2.12-2.1.6.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/scala-java8-compat_2.12-0.9.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/scala-library-2.12.11.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/scala-logging_2.12-3.9.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/scala-reflect-2.12.11.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/slf4j-api-1.7.30.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/slf4j-log4j12-1.7.30.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/snappy-java-1.1.7.3.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/zookeeper-3.5.9.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/zookeeper-jute-3.5.9.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/zstd-jni-1.4.4-7.jar (org.apache.zookeeper.ZooKeeper)
+[2022-05-14 12:17:36,185] INFO Client environment:java.library.path=/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib (org.apache.zookeeper.ZooKeeper)
+[2022-05-14 12:17:36,186] INFO Client environment:java.io.tmpdir=/tmp (org.apache.zookeeper.ZooKeeper)
+[2022-05-14 12:17:36,186] INFO Client environment:java.compiler=<NA> (org.apache.zookeeper.ZooKeeper)
+[2022-05-14 12:17:36,186] INFO Client environment:os.name=Linux (org.apache.zookeeper.ZooKeeper)
+[2022-05-14 12:17:36,186] INFO Client environment:os.arch=amd64 (org.apache.zookeeper.ZooKeeper)
+[2022-05-14 12:17:36,186] INFO Client environment:os.version=5.15.0-27-generic (org.apache.zookeeper.ZooKeeper)
+[2022-05-14 12:17:36,186] INFO Client environment:user.name=root (org.apache.zookeeper.ZooKeeper)
+[2022-05-14 12:17:36,186] INFO Client environment:user.home=/root (org.apache.zookeeper.ZooKeeper)
+[2022-05-14 12:17:36,186] INFO Client environment:user.dir=/home/copia-ml/GitHub/cloud_computing/proj1 (org.apache.zookeeper.ZooKeeper)
+[2022-05-14 12:17:36,186] INFO Client environment:os.memory.free=980MB (org.apache.zookeeper.ZooKeeper)
+[2022-05-14 12:17:36,186] INFO Client environment:os.memory.max=1024MB (org.apache.zookeeper.ZooKeeper)
+[2022-05-14 12:17:36,186] INFO Client environment:os.memory.total=1024MB (org.apache.zookeeper.ZooKeeper)
+[2022-05-14 12:17:36,187] INFO Initiating client connection, connectString=localhost:2181 sessionTimeout=18000 watcher=kafka.zookeeper.ZooKeeperClient$ZooKeeperClientWatcher$@1cf56a1c (org.apache.zookeeper.ZooKeeper)
+[2022-05-14 12:17:36,190] INFO jute.maxbuffer value is 4194304 Bytes (org.apache.zookeeper.ClientCnxnSocket)
+[2022-05-14 12:17:36,193] INFO zookeeper.request.timeout value is 0. feature enabled= (org.apache.zookeeper.ClientCnxn)
+[2022-05-14 12:17:36,194] INFO [ZooKeeperClient Kafka server] Waiting until connected. (kafka.zookeeper.ZooKeeperClient)
+[2022-05-14 12:17:36,197] INFO Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error) (org.apache.zookeeper.ClientCnxn)
+[2022-05-14 12:17:36,200] INFO Socket connection established, initiating session, client: /127.0.0.1:59050, server: localhost/127.0.0.1:2181 (org.apache.zookeeper.ClientCnxn)
+[2022-05-14 12:17:36,207] INFO Creating new log file: log.1 (org.apache.zookeeper.server.persistence.FileTxnLog)
+[2022-05-14 12:17:36,222] INFO Session establishment complete on server localhost/127.0.0.1:2181, sessionid = 0x10008eb93fc0000, negotiated timeout = 18000 (org.apache.zookeeper.ClientCnxn)
+[2022-05-14 12:17:36,223] INFO [ZooKeeperClient Kafka server] Connected. (kafka.zookeeper.ZooKeeperClient)
+[2022-05-14 12:17:36,372] INFO Cluster ID = jlNiwl7CTCGxad68H7c0hg (kafka.server.KafkaServer)
+[2022-05-14 12:17:36,375] WARN No meta.properties file under dir /tmp/kafka-logs/meta.properties (kafka.server.BrokerMetadataCheckpoint)
+[2022-05-14 12:17:36,401] INFO KafkaConfig values: 
+	advertised.host.name = null
+	advertised.listeners = PLAINTEXT://10.0.0.1:9092
+	advertised.port = null
+	alter.config.policy.class.name = null
+	alter.log.dirs.replication.quota.window.num = 11
+	alter.log.dirs.replication.quota.window.size.seconds = 1
+	authorizer.class.name = 
+	auto.create.topics.enable = true
+	auto.leader.rebalance.enable = true
+	background.threads = 10
+	broker.id = 0
+	broker.id.generation.enable = true
+	broker.rack = null
+	client.quota.callback.class = null
+	compression.type = producer
+	connection.failed.authentication.delay.ms = 100
+	connections.max.idle.ms = 600000
+	connections.max.reauth.ms = 0
+	control.plane.listener.name = null
+	controlled.shutdown.enable = true
+	controlled.shutdown.max.retries = 3
+	controlled.shutdown.retry.backoff.ms = 5000
+	controller.socket.timeout.ms = 30000
+	create.topic.policy.class.name = null
+	default.replication.factor = 1
+	delegation.token.expiry.check.interval.ms = 3600000
+	delegation.token.expiry.time.ms = 86400000
+	delegation.token.master.key = null
+	delegation.token.max.lifetime.ms = 604800000
+	delete.records.purgatory.purge.interval.requests = 1
+	delete.topic.enable = true
+	fetch.max.bytes = 57671680
+	fetch.purgatory.purge.interval.requests = 1000
+	group.initial.rebalance.delay.ms = 0
+	group.max.session.timeout.ms = 1800000
+	group.max.size = 2147483647
+	group.min.session.timeout.ms = 6000
+	host.name = 
+	inter.broker.listener.name = null
+	inter.broker.protocol.version = 2.6-IV0
+	kafka.metrics.polling.interval.secs = 10
+	kafka.metrics.reporters = []
+	leader.imbalance.check.interval.seconds = 300
+	leader.imbalance.per.broker.percentage = 10
+	listener.security.protocol.map = PLAINTEXT:PLAINTEXT,SSL:SSL,SASL_PLAINTEXT:SASL_PLAINTEXT,SASL_SSL:SASL_SSL
+	listeners = null
+	log.cleaner.backoff.ms = 15000
+	log.cleaner.dedupe.buffer.size = 134217728
+	log.cleaner.delete.retention.ms = 86400000
+	log.cleaner.enable = true
+	log.cleaner.io.buffer.load.factor = 0.9
+	log.cleaner.io.buffer.size = 524288
+	log.cleaner.io.max.bytes.per.second = 1.7976931348623157E308
+	log.cleaner.max.compaction.lag.ms = 9223372036854775807
+	log.cleaner.min.cleanable.ratio = 0.5
+	log.cleaner.min.compaction.lag.ms = 0
+	log.cleaner.threads = 1
+	log.cleanup.policy = [delete]
+	log.dir = /tmp/kafka-logs
+	log.dirs = /tmp/kafka-logs
+	log.flush.interval.messages = 9223372036854775807
+	log.flush.interval.ms = null
+	log.flush.offset.checkpoint.interval.ms = 60000
+	log.flush.scheduler.interval.ms = 9223372036854775807
+	log.flush.start.offset.checkpoint.interval.ms = 60000
+	log.index.interval.bytes = 4096
+	log.index.size.max.bytes = 10485760
+	log.message.downconversion.enable = true
+	log.message.format.version = 2.6-IV0
+	log.message.timestamp.difference.max.ms = 9223372036854775807
+	log.message.timestamp.type = CreateTime
+	log.preallocate = false
+	log.retention.bytes = -1
+	log.retention.check.interval.ms = 300000
+	log.retention.hours = 168
+	log.retention.minutes = null
+	log.retention.ms = null
+	log.roll.hours = 168
+	log.roll.jitter.hours = 0
+	log.roll.jitter.ms = null
+	log.roll.ms = null
+	log.segment.bytes = 1073741824
+	log.segment.delete.delay.ms = 60000
+	max.connections = 2147483647
+	max.connections.per.ip = 2147483647
+	max.connections.per.ip.overrides = 
+	max.incremental.fetch.session.cache.slots = 1000
+	message.max.bytes = 1048588
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	min.insync.replicas = 1
+	num.io.threads = 8
+	num.network.threads = 3
+	num.partitions = 1
+	num.recovery.threads.per.data.dir = 1
+	num.replica.alter.log.dirs.threads = null
+	num.replica.fetchers = 1
+	offset.metadata.max.bytes = 4096
+	offsets.commit.required.acks = -1
+	offsets.commit.timeout.ms = 5000
+	offsets.load.buffer.size = 5242880
+	offsets.retention.check.interval.ms = 600000
+	offsets.retention.minutes = 10080
+	offsets.topic.compression.codec = 0
+	offsets.topic.num.partitions = 50
+	offsets.topic.replication.factor = 1
+	offsets.topic.segment.bytes = 104857600
+	password.encoder.cipher.algorithm = AES/CBC/PKCS5Padding
+	password.encoder.iterations = 4096
+	password.encoder.key.length = 128
+	password.encoder.keyfactory.algorithm = null
+	password.encoder.old.secret = null
+	password.encoder.secret = null
+	port = 9092
+	principal.builder.class = null
+	producer.purgatory.purge.interval.requests = 1000
+	queued.max.request.bytes = -1
+	queued.max.requests = 500
+	quota.consumer.default = 9223372036854775807
+	quota.producer.default = 9223372036854775807
+	quota.window.num = 11
+	quota.window.size.seconds = 1
+	replica.fetch.backoff.ms = 1000
+	replica.fetch.max.bytes = 1048576
+	replica.fetch.min.bytes = 1
+	replica.fetch.response.max.bytes = 10485760
+	replica.fetch.wait.max.ms = 500
+	replica.high.watermark.checkpoint.interval.ms = 5000
+	replica.lag.time.max.ms = 30000
+	replica.selector.class = null
+	replica.socket.receive.buffer.bytes = 65536
+	replica.socket.timeout.ms = 30000
+	replication.quota.window.num = 11
+	replication.quota.window.size.seconds = 1
+	request.timeout.ms = 30000
+	reserved.broker.max.id = 1000
+	sasl.client.callback.handler.class = null
+	sasl.enabled.mechanisms = [GSSAPI]
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.principal.to.local.rules = [DEFAULT]
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.mechanism.inter.broker.protocol = GSSAPI
+	sasl.server.callback.handler.class = null
+	security.inter.broker.protocol = PLAINTEXT
+	security.providers = null
+	socket.receive.buffer.bytes = 102400
+	socket.request.max.bytes = 104857600
+	socket.send.buffer.bytes = 102400
+	ssl.cipher.suites = []
+	ssl.client.auth = none
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.principal.mapping.rules = DEFAULT
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.abort.timed.out.transaction.cleanup.interval.ms = 10000
+	transaction.max.timeout.ms = 900000
+	transaction.remove.expired.transaction.cleanup.interval.ms = 3600000
+	transaction.state.log.load.buffer.size = 5242880
+	transaction.state.log.min.isr = 1
+	transaction.state.log.num.partitions = 50
+	transaction.state.log.replication.factor = 1
+	transaction.state.log.segment.bytes = 104857600
+	transactional.id.expiration.ms = 604800000
+	unclean.leader.election.enable = false
+	zookeeper.clientCnxnSocket = null
+	zookeeper.connect = localhost:2181
+	zookeeper.connection.timeout.ms = 18000
+	zookeeper.max.in.flight.requests = 10
+	zookeeper.session.timeout.ms = 18000
+	zookeeper.set.acl = false
+	zookeeper.ssl.cipher.suites = null
+	zookeeper.ssl.client.enable = false
+	zookeeper.ssl.crl.enable = false
+	zookeeper.ssl.enabled.protocols = null
+	zookeeper.ssl.endpoint.identification.algorithm = HTTPS
+	zookeeper.ssl.keystore.location = null
+	zookeeper.ssl.keystore.password = null
+	zookeeper.ssl.keystore.type = null
+	zookeeper.ssl.ocsp.enable = false
+	zookeeper.ssl.protocol = TLSv1.2
+	zookeeper.ssl.truststore.location = null
+	zookeeper.ssl.truststore.password = null
+	zookeeper.ssl.truststore.type = null
+	zookeeper.sync.time.ms = 2000
+ (kafka.server.KafkaConfig)
+[2022-05-14 12:17:36,407] INFO KafkaConfig values: 
+	advertised.host.name = null
+	advertised.listeners = PLAINTEXT://10.0.0.1:9092
+	advertised.port = null
+	alter.config.policy.class.name = null
+	alter.log.dirs.replication.quota.window.num = 11
+	alter.log.dirs.replication.quota.window.size.seconds = 1
+	authorizer.class.name = 
+	auto.create.topics.enable = true
+	auto.leader.rebalance.enable = true
+	background.threads = 10
+	broker.id = 0
+	broker.id.generation.enable = true
+	broker.rack = null
+	client.quota.callback.class = null
+	compression.type = producer
+	connection.failed.authentication.delay.ms = 100
+	connections.max.idle.ms = 600000
+	connections.max.reauth.ms = 0
+	control.plane.listener.name = null
+	controlled.shutdown.enable = true
+	controlled.shutdown.max.retries = 3
+	controlled.shutdown.retry.backoff.ms = 5000
+	controller.socket.timeout.ms = 30000
+	create.topic.policy.class.name = null
+	default.replication.factor = 1
+	delegation.token.expiry.check.interval.ms = 3600000
+	delegation.token.expiry.time.ms = 86400000
+	delegation.token.master.key = null
+	delegation.token.max.lifetime.ms = 604800000
+	delete.records.purgatory.purge.interval.requests = 1
+	delete.topic.enable = true
+	fetch.max.bytes = 57671680
+	fetch.purgatory.purge.interval.requests = 1000
+	group.initial.rebalance.delay.ms = 0
+	group.max.session.timeout.ms = 1800000
+	group.max.size = 2147483647
+	group.min.session.timeout.ms = 6000
+	host.name = 
+	inter.broker.listener.name = null
+	inter.broker.protocol.version = 2.6-IV0
+	kafka.metrics.polling.interval.secs = 10
+	kafka.metrics.reporters = []
+	leader.imbalance.check.interval.seconds = 300
+	leader.imbalance.per.broker.percentage = 10
+	listener.security.protocol.map = PLAINTEXT:PLAINTEXT,SSL:SSL,SASL_PLAINTEXT:SASL_PLAINTEXT,SASL_SSL:SASL_SSL
+	listeners = null
+	log.cleaner.backoff.ms = 15000
+	log.cleaner.dedupe.buffer.size = 134217728
+	log.cleaner.delete.retention.ms = 86400000
+	log.cleaner.enable = true
+	log.cleaner.io.buffer.load.factor = 0.9
+	log.cleaner.io.buffer.size = 524288
+	log.cleaner.io.max.bytes.per.second = 1.7976931348623157E308
+	log.cleaner.max.compaction.lag.ms = 9223372036854775807
+	log.cleaner.min.cleanable.ratio = 0.5
+	log.cleaner.min.compaction.lag.ms = 0
+	log.cleaner.threads = 1
+	log.cleanup.policy = [delete]
+	log.dir = /tmp/kafka-logs
+	log.dirs = /tmp/kafka-logs
+	log.flush.interval.messages = 9223372036854775807
+	log.flush.interval.ms = null
+	log.flush.offset.checkpoint.interval.ms = 60000
+	log.flush.scheduler.interval.ms = 9223372036854775807
+	log.flush.start.offset.checkpoint.interval.ms = 60000
+	log.index.interval.bytes = 4096
+	log.index.size.max.bytes = 10485760
+	log.message.downconversion.enable = true
+	log.message.format.version = 2.6-IV0
+	log.message.timestamp.difference.max.ms = 9223372036854775807
+	log.message.timestamp.type = CreateTime
+	log.preallocate = false
+	log.retention.bytes = -1
+	log.retention.check.interval.ms = 300000
+	log.retention.hours = 168
+	log.retention.minutes = null
+	log.retention.ms = null
+	log.roll.hours = 168
+	log.roll.jitter.hours = 0
+	log.roll.jitter.ms = null
+	log.roll.ms = null
+	log.segment.bytes = 1073741824
+	log.segment.delete.delay.ms = 60000
+	max.connections = 2147483647
+	max.connections.per.ip = 2147483647
+	max.connections.per.ip.overrides = 
+	max.incremental.fetch.session.cache.slots = 1000
+	message.max.bytes = 1048588
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	min.insync.replicas = 1
+	num.io.threads = 8
+	num.network.threads = 3
+	num.partitions = 1
+	num.recovery.threads.per.data.dir = 1
+	num.replica.alter.log.dirs.threads = null
+	num.replica.fetchers = 1
+	offset.metadata.max.bytes = 4096
+	offsets.commit.required.acks = -1
+	offsets.commit.timeout.ms = 5000
+	offsets.load.buffer.size = 5242880
+	offsets.retention.check.interval.ms = 600000
+	offsets.retention.minutes = 10080
+	offsets.topic.compression.codec = 0
+	offsets.topic.num.partitions = 50
+	offsets.topic.replication.factor = 1
+	offsets.topic.segment.bytes = 104857600
+	password.encoder.cipher.algorithm = AES/CBC/PKCS5Padding
+	password.encoder.iterations = 4096
+	password.encoder.key.length = 128
+	password.encoder.keyfactory.algorithm = null
+	password.encoder.old.secret = null
+	password.encoder.secret = null
+	port = 9092
+	principal.builder.class = null
+	producer.purgatory.purge.interval.requests = 1000
+	queued.max.request.bytes = -1
+	queued.max.requests = 500
+	quota.consumer.default = 9223372036854775807
+	quota.producer.default = 9223372036854775807
+	quota.window.num = 11
+	quota.window.size.seconds = 1
+	replica.fetch.backoff.ms = 1000
+	replica.fetch.max.bytes = 1048576
+	replica.fetch.min.bytes = 1
+	replica.fetch.response.max.bytes = 10485760
+	replica.fetch.wait.max.ms = 500
+	replica.high.watermark.checkpoint.interval.ms = 5000
+	replica.lag.time.max.ms = 30000
+	replica.selector.class = null
+	replica.socket.receive.buffer.bytes = 65536
+	replica.socket.timeout.ms = 30000
+	replication.quota.window.num = 11
+	replication.quota.window.size.seconds = 1
+	request.timeout.ms = 30000
+	reserved.broker.max.id = 1000
+	sasl.client.callback.handler.class = null
+	sasl.enabled.mechanisms = [GSSAPI]
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.principal.to.local.rules = [DEFAULT]
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.mechanism.inter.broker.protocol = GSSAPI
+	sasl.server.callback.handler.class = null
+	security.inter.broker.protocol = PLAINTEXT
+	security.providers = null
+	socket.receive.buffer.bytes = 102400
+	socket.request.max.bytes = 104857600
+	socket.send.buffer.bytes = 102400
+	ssl.cipher.suites = []
+	ssl.client.auth = none
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.principal.mapping.rules = DEFAULT
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.abort.timed.out.transaction.cleanup.interval.ms = 10000
+	transaction.max.timeout.ms = 900000
+	transaction.remove.expired.transaction.cleanup.interval.ms = 3600000
+	transaction.state.log.load.buffer.size = 5242880
+	transaction.state.log.min.isr = 1
+	transaction.state.log.num.partitions = 50
+	transaction.state.log.replication.factor = 1
+	transaction.state.log.segment.bytes = 104857600
+	transactional.id.expiration.ms = 604800000
+	unclean.leader.election.enable = false
+	zookeeper.clientCnxnSocket = null
+	zookeeper.connect = localhost:2181
+	zookeeper.connection.timeout.ms = 18000
+	zookeeper.max.in.flight.requests = 10
+	zookeeper.session.timeout.ms = 18000
+	zookeeper.set.acl = false
+	zookeeper.ssl.cipher.suites = null
+	zookeeper.ssl.client.enable = false
+	zookeeper.ssl.crl.enable = false
+	zookeeper.ssl.enabled.protocols = null
+	zookeeper.ssl.endpoint.identification.algorithm = HTTPS
+	zookeeper.ssl.keystore.location = null
+	zookeeper.ssl.keystore.password = null
+	zookeeper.ssl.keystore.type = null
+	zookeeper.ssl.ocsp.enable = false
+	zookeeper.ssl.protocol = TLSv1.2
+	zookeeper.ssl.truststore.location = null
+	zookeeper.ssl.truststore.password = null
+	zookeeper.ssl.truststore.type = null
+	zookeeper.sync.time.ms = 2000
+ (kafka.server.KafkaConfig)
+[2022-05-14 12:17:36,424] INFO [ThrottledChannelReaper-Fetch]: Starting (kafka.server.ClientQuotaManager$ThrottledChannelReaper)
+[2022-05-14 12:17:36,424] INFO [ThrottledChannelReaper-Produce]: Starting (kafka.server.ClientQuotaManager$ThrottledChannelReaper)
+[2022-05-14 12:17:36,425] INFO [ThrottledChannelReaper-Request]: Starting (kafka.server.ClientQuotaManager$ThrottledChannelReaper)
+[2022-05-14 12:17:36,439] INFO Log directory /tmp/kafka-logs not found, creating it. (kafka.log.LogManager)
+[2022-05-14 12:17:36,442] INFO Loading logs from log dirs ArrayBuffer(/tmp/kafka-logs) (kafka.log.LogManager)
+[2022-05-14 12:17:36,443] INFO Attempting recovery for all logs in /tmp/kafka-logs since no clean shutdown file was found (kafka.log.LogManager)
+[2022-05-14 12:17:36,451] INFO Loaded 0 logs in 8ms. (kafka.log.LogManager)
+[2022-05-14 12:17:36,467] INFO Starting log cleanup with a period of 300000 ms. (kafka.log.LogManager)
+[2022-05-14 12:17:36,469] INFO Starting log flusher with a default period of 9223372036854775807 ms. (kafka.log.LogManager)
+[2022-05-14 12:17:36,666] INFO Awaiting socket connections on 0.0.0.0:9092. (kafka.network.Acceptor)
+[2022-05-14 12:17:36,681] INFO [SocketServer brokerId=0] Created data-plane acceptor and processors for endpoint : ListenerName(PLAINTEXT) (kafka.network.SocketServer)
+[2022-05-14 12:17:36,693] INFO [ExpirationReaper-0-Produce]: Starting (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+[2022-05-14 12:17:36,693] INFO [ExpirationReaper-0-Fetch]: Starting (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+[2022-05-14 12:17:36,694] INFO [ExpirationReaper-0-DeleteRecords]: Starting (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+[2022-05-14 12:17:36,694] INFO [ExpirationReaper-0-ElectLeader]: Starting (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+[2022-05-14 12:17:36,702] INFO [LogDirFailureHandler]: Starting (kafka.server.ReplicaManager$LogDirFailureHandler)
+[2022-05-14 12:17:36,715] INFO Creating /brokers/ids/0 (is it secure? false) (kafka.zk.KafkaZkClient)
+[2022-05-14 12:17:36,736] INFO Stat of the created znode at /brokers/ids/0 is: 24,24,1652548656723,1652548656723,1,0,0,72067401931030528,186,0,24
+ (kafka.zk.KafkaZkClient)
+[2022-05-14 12:17:36,736] INFO Registered broker 0 at path /brokers/ids/0 with addresses: PLAINTEXT://10.0.0.1:9092, czxid (broker epoch): 24 (kafka.zk.KafkaZkClient)
+[2022-05-14 12:17:36,766] INFO [ExpirationReaper-0-topic]: Starting (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+[2022-05-14 12:17:36,768] INFO [ExpirationReaper-0-Heartbeat]: Starting (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+[2022-05-14 12:17:36,769] INFO [ExpirationReaper-0-Rebalance]: Starting (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+[2022-05-14 12:17:36,772] INFO Successfully created /controller_epoch with initial epoch 0 (kafka.zk.KafkaZkClient)
+[2022-05-14 12:17:36,782] INFO [GroupCoordinator 0]: Starting up. (kafka.coordinator.group.GroupCoordinator)
+[2022-05-14 12:17:36,783] INFO [GroupCoordinator 0]: Startup complete. (kafka.coordinator.group.GroupCoordinator)
+[2022-05-14 12:17:36,786] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 3 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2022-05-14 12:17:36,791] INFO [ProducerId Manager 0]: Acquired new producerId block (brokerId:0,blockStartProducerId:0,blockEndProducerId:999) by writing to Zk with path version 1 (kafka.coordinator.transaction.ProducerIdManager)
+[2022-05-14 12:17:36,802] INFO [TransactionCoordinator id=0] Starting up. (kafka.coordinator.transaction.TransactionCoordinator)
+[2022-05-14 12:17:36,803] INFO [Transaction Marker Channel Manager 0]: Starting (kafka.coordinator.transaction.TransactionMarkerChannelManager)
+[2022-05-14 12:17:36,803] INFO [TransactionCoordinator id=0] Startup complete. (kafka.coordinator.transaction.TransactionCoordinator)
+[2022-05-14 12:17:36,822] INFO [ExpirationReaper-0-AlterAcls]: Starting (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+[2022-05-14 12:17:36,832] INFO [/config/changes-event-process-thread]: Starting (kafka.common.ZkNodeChangeNotificationListener$ChangeEventProcessThread)
+[2022-05-14 12:17:36,837] INFO [SocketServer brokerId=0] Starting socket server acceptors and processors (kafka.network.SocketServer)
+[2022-05-14 12:17:36,839] INFO [SocketServer brokerId=0] Started data-plane acceptor and processor(s) for endpoint : ListenerName(PLAINTEXT) (kafka.network.SocketServer)
+[2022-05-14 12:17:36,839] INFO [SocketServer brokerId=0] Started socket server acceptors and processors (kafka.network.SocketServer)
+[2022-05-14 12:17:36,845] INFO Kafka version: 2.6.2 (org.apache.kafka.common.utils.AppInfoParser)
+[2022-05-14 12:17:36,845] INFO Kafka commitId: da65af02e5856e34 (org.apache.kafka.common.utils.AppInfoParser)
+[2022-05-14 12:17:36,845] INFO Kafka startTimeMs: 1652548656839 (org.apache.kafka.common.utils.AppInfoParser)
+[2022-05-14 12:17:36,845] INFO [KafkaServer id=0] started (kafka.server.KafkaServer)
+[2022-05-14 12:26:58,223] INFO Unable to read additional data from server sessionid 0x10008eb93fc0000, likely server has closed socket, closing socket connection and attempting reconnect (org.apache.zookeeper.ClientCnxn)
+[2022-05-14 12:26:58,264] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:58,265] INFO [KafkaServer id=0] shutting down (kafka.server.KafkaServer)
+[2022-05-14 12:26:58,266] INFO [KafkaServer id=0] Starting controlled shutdown (kafka.server.KafkaServer)
+[2022-05-14 12:26:58,289] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:58,313] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:58,325] INFO [ZooKeeperClient Kafka server] Waiting until connected. (kafka.zookeeper.ZooKeeperClient)
+[2022-05-14 12:26:58,325] INFO [ZooKeeperClient Kafka server] Connected. (kafka.zookeeper.ZooKeeperClient)
+[2022-05-14 12:26:58,337] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:58,361] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:58,386] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:58,410] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:58,434] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:58,458] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:58,481] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:58,506] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:58,529] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:58,554] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:58,578] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:58,600] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:58,623] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:58,647] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:58,669] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:58,691] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:58,715] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:58,739] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:58,763] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:58,786] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:58,810] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:58,834] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:58,857] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:58,882] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:58,906] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:58,930] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:58,953] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:58,977] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,000] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,022] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,045] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,069] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,093] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,116] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,140] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,165] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,188] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,212] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,235] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,260] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,284] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,308] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,332] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,357] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,381] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,405] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,430] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,454] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,479] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,501] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,526] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,549] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,572] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,597] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,620] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,644] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,668] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,691] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,715] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,738] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,761] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,784] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,808] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,831] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,853] INFO Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error) (org.apache.zookeeper.ClientCnxn)
+[2022-05-14 12:26:59,854] INFO Socket error occurred: localhost/127.0.0.1:2181: Connection refused (org.apache.zookeeper.ClientCnxn)
+[2022-05-14 12:26:59,855] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,879] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,903] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,926] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,950] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,954] INFO [ZooKeeperClient Kafka server] Waiting until connected. (kafka.zookeeper.ZooKeeperClient)
+[2022-05-14 12:26:59,973] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:26:59,998] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,020] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,043] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,068] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,091] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,114] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,137] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,161] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,185] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,210] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,232] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,256] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,281] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,305] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,329] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,353] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,377] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,401] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,424] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,446] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,470] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,493] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,517] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,541] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,564] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,588] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,612] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,635] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,658] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,683] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,707] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,731] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,753] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,777] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,802] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,826] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,849] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,873] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,897] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,919] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,943] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,966] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:00,991] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,013] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,038] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,062] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,086] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,110] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,133] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,156] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,181] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,205] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,228] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,232] INFO Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error) (org.apache.zookeeper.ClientCnxn)
+[2022-05-14 12:27:01,233] INFO Socket error occurred: localhost/127.0.0.1:2181: Connection refused (org.apache.zookeeper.ClientCnxn)
+[2022-05-14 12:27:01,252] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,275] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,301] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,325] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,350] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,374] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,400] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,424] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,448] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,473] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,497] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,520] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,545] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,568] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,592] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,615] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,638] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,662] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,688] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,712] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,737] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,762] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,786] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,809] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,833] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,857] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,881] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,905] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,930] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,954] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:01,979] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,002] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,026] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,049] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,073] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,098] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,122] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,147] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,170] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,195] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,219] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,242] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,264] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,288] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,313] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,337] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,361] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,386] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,410] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,433] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,456] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,480] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,504] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,527] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,551] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,575] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,598] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,623] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,647] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,670] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,693] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,717] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,740] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,763] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,787] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,811] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,834] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,858] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,882] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,907] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,923] INFO Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error) (org.apache.zookeeper.ClientCnxn)
+[2022-05-14 12:27:02,923] INFO Socket error occurred: localhost/127.0.0.1:2181: Connection refused (org.apache.zookeeper.ClientCnxn)
+[2022-05-14 12:27:02,930] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,954] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:02,977] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,002] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,026] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,050] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,075] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,099] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,122] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,146] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,169] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,192] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,216] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,239] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,262] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,285] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,309] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,334] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,357] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,380] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,405] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,428] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,452] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,476] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,499] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,523] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,546] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,568] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,593] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,617] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,641] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,664] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,687] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,711] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,734] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,757] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,781] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,805] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,827] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,850] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,874] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,898] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,923] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,945] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,969] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:03,993] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,017] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,041] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,065] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,089] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,111] INFO Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error) (org.apache.zookeeper.ClientCnxn)
+[2022-05-14 12:27:04,111] INFO Socket error occurred: localhost/127.0.0.1:2181: Connection refused (org.apache.zookeeper.ClientCnxn)
+[2022-05-14 12:27:04,113] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,138] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,162] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,186] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,211] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,235] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,260] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,283] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,308] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,332] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,357] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,380] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,404] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,429] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,452] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,476] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,500] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,523] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,547] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,572] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,595] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,618] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,642] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,666] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,689] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,713] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,737] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,761] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,785] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,809] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,832] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,855] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,879] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,902] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,925] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,949] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,973] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:04,996] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,021] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,044] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,068] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,092] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,116] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,139] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,164] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,187] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,210] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,232] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,256] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,259] INFO Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error) (org.apache.zookeeper.ClientCnxn)
+[2022-05-14 12:27:05,259] INFO Socket error occurred: localhost/127.0.0.1:2181: Connection refused (org.apache.zookeeper.ClientCnxn)
+[2022-05-14 12:27:05,280] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,304] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,328] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,352] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,376] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,399] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,424] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,449] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,471] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,495] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,519] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,544] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,567] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,591] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,614] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,638] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,661] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,685] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,710] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,733] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,758] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,782] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,807] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,831] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,855] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,878] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,902] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,924] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,948] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,972] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:05,996] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:06,020] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:06,044] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:06,069] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:06,093] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:06,117] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:06,141] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:06,165] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:06,190] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:06,214] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:06,238] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:06,263] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:06,287] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:06,312] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:06,336] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:06,360] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:06,384] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:06,407] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:06,431] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:06,456] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:06,479] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:06,502] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:06,525] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2022-05-14 12:27:06,526] ERROR Error while reading checkpoint file /tmp/kafka-logs/cleaner-offset-checkpoint (kafka.server.LogDirFailureChannel)
+java.nio.file.NoSuchFileException: /tmp/kafka-logs/cleaner-offset-checkpoint
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:116)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:219)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:371)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:422)
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:420)
+	at java.base/java.nio.file.Files.newInputStream(Files.java:156)
+	at java.base/java.nio.file.Files.newBufferedReader(Files.java:2839)
+	at java.base/java.nio.file.Files.newBufferedReader(Files.java:2871)
+	at kafka.server.checkpoints.CheckpointFile.liftedTree2$1(CheckpointFile.scala:127)
+	at kafka.server.checkpoints.CheckpointFile.read(CheckpointFile.scala:126)
+	at kafka.server.checkpoints.OffsetCheckpointFile.read(OffsetCheckpointFile.scala:61)
+	at kafka.log.LogCleanerManager.$anonfun$allCleanerCheckpoints$2(LogCleanerManager.scala:134)
+	at scala.collection.TraversableLike.$anonfun$flatMap$1(TraversableLike.scala:280)
+	at scala.collection.Iterator.foreach(Iterator.scala:943)
+	at scala.collection.Iterator.foreach$(Iterator.scala:943)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1431)
+	at scala.collection.MapLike$DefaultValuesIterable.foreach(MapLike.scala:213)
+	at scala.collection.TraversableLike.flatMap(TraversableLike.scala:280)
+	at scala.collection.TraversableLike.flatMap$(TraversableLike.scala:277)
+	at scala.collection.AbstractTraversable.flatMap(Traversable.scala:108)
+	at kafka.log.LogCleanerManager.$anonfun$allCleanerCheckpoints$1(LogCleanerManager.scala:132)
+	at kafka.log.LogCleanerManager.allCleanerCheckpoints(LogCleanerManager.scala:140)
+	at kafka.log.LogCleanerManager.$anonfun$grabFilthiestCompactedLog$1(LogCleanerManager.scala:171)
+	at kafka.log.LogCleanerManager.grabFilthiestCompactedLog(LogCleanerManager.scala:168)
+	at kafka.log.LogCleaner$CleanerThread.cleanFilthiestLog(LogCleaner.scala:338)
+	at kafka.log.LogCleaner$CleanerThread.tryCleanFilthiestLog(LogCleaner.scala:325)
+	at kafka.log.LogCleaner$CleanerThread.doWork(LogCleaner.scala:314)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:96)
+[2022-05-14 12:27:06,529] WARN [ReplicaManager broker=0] Stopping serving replicas in dir /tmp/kafka-logs (kafka.server.ReplicaManager)
+[2022-05-14 12:27:06,533] WARN [ReplicaManager broker=0] Broker 0 stopped fetcher for partitions  and stopped moving logs for partitions  because they are in the failed log directory /tmp/kafka-logs. (kafka.server.ReplicaManager)
+[2022-05-14 12:27:06,533] WARN Stopping serving logs in dir /tmp/kafka-logs (kafka.log.LogManager)
+[2022-05-14 12:27:06,535] ERROR Shutdown broker because all log dirs in /tmp/kafka-logs have failed (kafka.log.LogManager)
+[2022-05-14 12:27:07,354] INFO Reading configuration from: kafka/config/zookeeper.properties (org.apache.zookeeper.server.quorum.QuorumPeerConfig)
+[2022-05-14 12:27:07,355] WARN kafka/config/zookeeper.properties is relative. Prepend ./ to indicate that you're sure! (org.apache.zookeeper.server.quorum.QuorumPeerConfig)
+[2022-05-14 12:27:07,358] INFO clientPortAddress is 0.0.0.0:2181 (org.apache.zookeeper.server.quorum.QuorumPeerConfig)
+[2022-05-14 12:27:07,358] INFO secureClientPort is not set (org.apache.zookeeper.server.quorum.QuorumPeerConfig)
+[2022-05-14 12:27:07,359] INFO autopurge.snapRetainCount set to 3 (org.apache.zookeeper.server.DatadirCleanupManager)
+[2022-05-14 12:27:07,359] INFO autopurge.purgeInterval set to 0 (org.apache.zookeeper.server.DatadirCleanupManager)
+[2022-05-14 12:27:07,359] INFO Purge task is not scheduled. (org.apache.zookeeper.server.DatadirCleanupManager)
+[2022-05-14 12:27:07,359] WARN Either no config or no quorum defined in config, running  in standalone mode (org.apache.zookeeper.server.quorum.QuorumPeerMain)
+[2022-05-14 12:27:07,361] INFO Log4j 1.2 jmx support found and enabled. (org.apache.zookeeper.jmx.ManagedUtil)
+[2022-05-14 12:27:07,367] INFO Reading configuration from: kafka/config/zookeeper.properties (org.apache.zookeeper.server.quorum.QuorumPeerConfig)
+[2022-05-14 12:27:07,367] WARN kafka/config/zookeeper.properties is relative. Prepend ./ to indicate that you're sure! (org.apache.zookeeper.server.quorum.QuorumPeerConfig)
+[2022-05-14 12:27:07,368] INFO clientPortAddress is 0.0.0.0:2181 (org.apache.zookeeper.server.quorum.QuorumPeerConfig)
+[2022-05-14 12:27:07,368] INFO secureClientPort is not set (org.apache.zookeeper.server.quorum.QuorumPeerConfig)
+[2022-05-14 12:27:07,368] INFO Starting server (org.apache.zookeeper.server.ZooKeeperServerMain)
+[2022-05-14 12:27:07,369] INFO zookeeper.snapshot.trust.empty : false (org.apache.zookeeper.server.persistence.FileTxnSnapLog)
+[2022-05-14 12:27:07,374] INFO Server environment:zookeeper.version=3.5.9-83df9301aa5c2a5d284a9940177808c01bc35cef, built on 01/06/2021 20:03 GMT (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:27:07,374] INFO Server environment:host.name=copia-ml (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:27:07,374] INFO Server environment:java.version=11.0.15 (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:27:07,374] INFO Server environment:java.vendor=Private Build (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:27:07,374] INFO Server environment:java.home=/usr/lib/jvm/java-11-openjdk-amd64 (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:27:07,374] INFO Server environment:java.class.path=/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/activation-1.1.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/aopalliance-repackaged-2.6.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/argparse4j-0.7.0.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/audience-annotations-0.5.0.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/commons-cli-1.4.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/commons-lang3-3.8.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/connect-api-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/connect-basic-auth-extension-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/connect-file-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/connect-json-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/connect-mirror-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/connect-mirror-client-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/connect-runtime-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/connect-transforms-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/hk2-api-2.6.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/hk2-locator-2.6.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/hk2-utils-2.6.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jackson-annotations-2.10.5.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jackson-core-2.10.5.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jackson-databind-2.10.5.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jackson-dataformat-csv-2.10.5.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jackson-datatype-jdk8-2.10.5.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jackson-jaxrs-base-2.10.5.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jackson-jaxrs-json-provider-2.10.5.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jackson-module-jaxb-annotations-2.10.5.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jackson-module-paranamer-2.10.5.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jackson-module-scala_2.12-2.10.5.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jakarta.activation-api-1.2.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jakarta.annotation-api-1.3.5.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jakarta.inject-2.6.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jakarta.validation-api-2.0.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jakarta.ws.rs-api-2.1.6.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jakarta.xml.bind-api-2.3.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/javassist-3.25.0-GA.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/javassist-3.26.0-GA.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/javax.servlet-api-3.1.0.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/javax.ws.rs-api-2.1.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jaxb-api-2.3.0.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jersey-client-2.31.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jersey-common-2.31.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jersey-container-servlet-2.31.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jersey-container-servlet-core-2.31.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jersey-hk2-2.31.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jersey-media-jaxb-2.31.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jersey-server-2.31.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jetty-client-9.4.38.v20210224.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jetty-continuation-9.4.38.v20210224.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jetty-http-9.4.38.v20210224.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jetty-io-9.4.38.v20210224.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jetty-security-9.4.38.v20210224.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jetty-server-9.4.38.v20210224.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jetty-servlet-9.4.38.v20210224.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jetty-servlets-9.4.38.v20210224.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jetty-util-9.4.38.v20210224.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jetty-util-ajax-9.4.38.v20210224.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/jopt-simple-5.0.4.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/kafka_2.12-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/kafka_2.12-2.6.2-sources.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/kafka-clients-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/kafka-log4j-appender-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/kafka-streams-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/kafka-streams-examples-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/kafka-streams-scala_2.12-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/kafka-streams-test-utils-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/kafka-tools-2.6.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/log4j-1.2.17.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/lz4-java-1.7.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/maven-artifact-3.6.3.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/metrics-core-2.2.0.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/netty-buffer-4.1.59.Final.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/netty-codec-4.1.59.Final.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/netty-common-4.1.59.Final.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/netty-handler-4.1.59.Final.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/netty-resolver-4.1.59.Final.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/netty-transport-4.1.59.Final.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/netty-transport-native-epoll-4.1.59.Final.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/netty-transport-native-unix-common-4.1.59.Final.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/osgi-resource-locator-1.0.3.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/paranamer-2.8.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/plexus-utils-3.2.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/reflections-0.9.12.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/rocksdbjni-5.18.4.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/scala-collection-compat_2.12-2.1.6.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/scala-java8-compat_2.12-0.9.1.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/scala-library-2.12.11.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/scala-logging_2.12-3.9.2.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/scala-reflect-2.12.11.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/slf4j-api-1.7.30.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/slf4j-log4j12-1.7.30.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/snappy-java-1.1.7.3.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/zookeeper-3.5.9.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/zookeeper-jute-3.5.9.jar:/home/copia-ml/GitHub/cloud_computing/proj1/kafka/bin/../libs/zstd-jni-1.4.4-7.jar (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:27:07,374] INFO Server environment:java.library.path=/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:27:07,374] INFO Server environment:java.io.tmpdir=/tmp (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:27:07,374] INFO Server environment:java.compiler=<NA> (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:27:07,374] INFO Server environment:os.name=Linux (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:27:07,374] INFO Server environment:os.arch=amd64 (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:27:07,375] INFO Server environment:os.version=5.15.0-27-generic (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:27:07,375] INFO Server environment:user.name=root (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:27:07,375] INFO Server environment:user.home=/root (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:27:07,375] INFO Server environment:user.dir=/home/copia-ml/GitHub/cloud_computing/proj1 (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:27:07,375] INFO Server environment:os.memory.free=494MB (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:27:07,375] INFO Server environment:os.memory.max=512MB (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:27:07,375] INFO Server environment:os.memory.total=512MB (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:27:07,375] INFO minSessionTimeout set to 6000 (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:27:07,375] INFO maxSessionTimeout set to 60000 (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:27:07,376] INFO Created server with tickTime 3000 minSessionTimeout 6000 maxSessionTimeout 60000 datadir /tmp/zookeeper/version-2 snapdir /tmp/zookeeper/version-2 (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:27:07,380] INFO Using org.apache.zookeeper.server.NIOServerCnxnFactory as server connection factory (org.apache.zookeeper.server.ServerCnxnFactory)
+[2022-05-14 12:27:07,381] INFO Configuring NIO connection handler with 10s sessionless connection timeout, 4 selector thread(s), 96 worker threads, and 64 kB direct buffers. (org.apache.zookeeper.server.NIOServerCnxnFactory)
+[2022-05-14 12:27:07,383] INFO binding to port 0.0.0.0/0.0.0.0:2181 (org.apache.zookeeper.server.NIOServerCnxnFactory)
+[2022-05-14 12:27:07,391] INFO zookeeper.snapshotSizeFactor = 0.33 (org.apache.zookeeper.server.ZKDatabase)
+[2022-05-14 12:27:07,392] INFO Reading snapshot /tmp/zookeeper/version-2/snapshot.0 (org.apache.zookeeper.server.persistence.FileSnap)
+[2022-05-14 12:27:07,401] INFO Snapshotting: 0x1c to /tmp/zookeeper/version-2/snapshot.1c (org.apache.zookeeper.server.persistence.FileTxnSnapLog)
+[2022-05-14 12:27:07,407] INFO PrepRequestProcessor (sid:0) started, reconfigEnabled=false (org.apache.zookeeper.server.PrepRequestProcessor)
+[2022-05-14 12:27:07,410] INFO Using checkIntervalMs=60000 maxPerMinute=10000 (org.apache.zookeeper.server.ContainerManager)
+[2022-05-14 12:27:26,297] INFO Expiring session 0x10008eb93fc0000, timeout of 18000ms exceeded (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-05-14 12:27:26,299] INFO Creating new log file: log.1d (org.apache.zookeeper.server.persistence.FileTxnLog)
 [2022-05-14 12:27:27,400] INFO Registered kafka:type=kafka.Log4jController MBean (kafka.utils.Log4jControllerRegistration$)
 [2022-05-14 12:27:27,649] INFO Setting -D jdk.tls.rejectClientInitiatedRenegotiation=true to disable client-initiated TLS renegotiation (org.apache.zookeeper.common.X509Util)
 [2022-05-14 12:27:27,672] INFO Registered signal handlers for TERM, INT, HUP (org.apache.kafka.common.utils.LoggingSignalHandler)
@@ -809,7 +1794,3 @@
 [2022-05-14 12:37:28,286] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 3 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
 [2022-05-14 12:47:28,283] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
 [2022-05-14 12:57:28,283] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
-[2022-05-14 13:07:28,283] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
-[2022-05-14 13:17:28,283] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
-[2022-05-14 13:27:28,283] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
-[2022-05-14 13:37:28,283] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)

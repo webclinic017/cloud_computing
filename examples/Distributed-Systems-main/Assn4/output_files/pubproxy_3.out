@@ -1,0 +1,84 @@
+Registering: humidity/10.0.0.4
+Creating node of key: humidity/10.0.0.4 - value: 5400:10
+Registering: temperature/10.0.0.4
+Creating node of key: temperature/10.0.0.4 - value: 5400:10
+Registering: pressure/10.0.0.4
+Creating node of key: pressure/10.0.0.4 - value: 5400:10
+Registering: location/10.0.0.4
+Creating node of key: location/10.0.0.4 - value: 5400:10
+Registering: light/10.0.0.4
+Creating node of key: light/10.0.0.4 - value: 5400:10
+Registering: sound/10.0.0.4
+Creating node of key: sound/10.0.0.4 - value: 5400:10
+Registering: weather/10.0.0.4
+Creating node of key: weather/10.0.0.4 - value: 5400:10
+Registering: airquality/10.0.0.4
+Creating node of key: airquality/10.0.0.4 - value: 5400:10
+Publishing~humidity 10.0.0.4~1648841992.4643724
+Publishing~weather 10.0.0.4~1648841994.466496
+Publishing~sound 10.0.0.4~1648841996.4701989
+Publishing~location 10.0.0.4~1648841998.4744916
+Topic location not owned by 10.0.0.4
+Publishing~humidity 10.0.0.4~1648842000.4784956
+Publishing~light 10.0.0.4~1648842002.482485
+Publishing~light 10.0.0.4~1648842004.4864285
+Publishing~humidity 10.0.0.4~1648842006.490482
+Publishing~light 10.0.0.4~1648842008.4944875
+Publishing~humidity 10.0.0.4~1648842010.4972606
+Publishing~light 10.0.0.4~1648842012.499811
+Publishing~sound 10.0.0.4~1648842014.5032854
+Publishing~light 10.0.0.4~1648842016.5065084
+Publishing~humidity 10.0.0.4~1648842018.5105329
+Publishing~humidity 10.0.0.4~1648842020.514529
+Publishing~pressure 10.0.0.4~1648842022.518347
+Topic pressure not owned by 10.0.0.4
+Publishing~humidity 10.0.0.4~1648842024.522259
+Publishing~humidity 10.0.0.4~1648842026.5265155
+Publishing~humidity 10.0.0.4~1648842028.53052
+Publishing~temperature 10.0.0.4~1648842030.534258
+Publishing~temperature 10.0.0.4~1648842032.5383887
+Publishing~light 10.0.0.4~1648842034.5422328
+Publishing~pressure 10.0.0.4~1648842036.5465512
+Topic pressure not owned by 10.0.0.4
+Publishing~pressure 10.0.0.4~1648842038.5503478
+Topic pressure not owned by 10.0.0.4
+Publishing~pressure 10.0.0.4~1648842040.5545137
+Topic pressure not owned by 10.0.0.4
+Publishing~humidity 10.0.0.4~1648842042.55714
+Publishing~temperature 10.0.0.4~1648842044.561117
+Publishing~weather 10.0.0.4~1648842046.5648186
+Publishing~location 10.0.0.4~1648842048.5692673
+Topic location not owned by 10.0.0.4
+Publishing~temperature 10.0.0.4~1648842050.573424
+Publishing~location 10.0.0.4~1648842052.5773644
+Topic location not owned by 10.0.0.4
+Publishing~light 10.0.0.4~1648842054.5812147
+Publishing~pressure 10.0.0.4~1648842056.5850446
+Topic pressure not owned by 10.0.0.4
+Publishing~humidity 10.0.0.4~1648842058.5885699
+Publishing~temperature 10.0.0.4~1648842060.592813
+Publishing~pressure 10.0.0.4~1648842062.5966344
+Topic pressure not owned by 10.0.0.4
+Publishing~location 10.0.0.4~1648842064.6006064
+Topic location not owned by 10.0.0.4
+Publishing~airquality 10.0.0.4~1648842066.6025007
+Topic airquality not owned by 10.0.0.4
+Publishing~weather 10.0.0.4~1648842068.6064982
+Publishing~pressure 10.0.0.4~1648842070.6101143
+Topic pressure not owned by 10.0.0.4
+Publishing~pressure 10.0.0.4~1648842072.614122
+Topic pressure not owned by 10.0.0.4
+Publishing~temperature 10.0.0.4~1648842074.617973
+Publishing~light 10.0.0.4~1648842076.6215823
+Publishing~location 10.0.0.4~1648842078.6239052
+Topic location not owned by 10.0.0.4
+Publishing~sound 10.0.0.4~1648842080.6278436
+Publishing~humidity 10.0.0.4~1648842082.6317344
+Publishing~sound 10.0.0.4~1648842084.6356006
+Publishing~weather 10.0.0.4~1648842086.639661
+Publishing~pressure 10.0.0.4~1648842088.643547
+Topic pressure not owned by 10.0.0.4
+Publishing~weather 10.0.0.4~1648842090.647136
+Publishing~light 10.0.0.4~1648842092.65051
+Publishing~humidity 10.0.0.4~1648842094.6540916
+Publishing~sound 10.0.0.4~1648842096.656572

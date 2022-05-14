@@ -1,0 +1,720 @@
+['sound', 'pressure', 'humidity']
+Did not receive reply for msg id b'EgxqCr6FRuzaZ2+SEw/2bijPbR8=' within 5 seconds
+2022-02-21 12:18:40,859 - kademlia.protocol - WARNING - no response from 10.0.0.6:4511, removing from router
+Did not receive reply for msg id b'C8CsvhqKpJGhd0D91BrWzzQAvd4=' within 5 seconds
+2022-02-21 12:18:45,870 - kademlia.protocol - WARNING - no response from 10.0.0.6:4511, removing from router
+Not registered for sound
+Did not receive reply for msg id b'PUJz6+++bVqu+j+UD79RxyQQBmo=' within 5 seconds
+Did not receive reply for msg id b'T1HyhtWKI+b7mXw49XpmPaaPQXQ=' within 5 seconds
+2022-02-21 12:18:50,922 - kademlia.protocol - WARNING - no response from 10.0.0.6:4511, removing from router
+2022-02-21 12:18:50,922 - kademlia.protocol - WARNING - no response from 10.0.0.5:9482, removing from router
+Did not receive reply for msg id b'pcdn3YYbvK38cNDyT3HEiTSLPls=' within 5 seconds
+2022-02-21 12:18:55,928 - kademlia.protocol - WARNING - no response from 10.0.0.4:2239, removing from router
+Did not receive reply for msg id b'ebuHylMZ9Lsmtj6TyzCpf5mP5ek=' within 5 seconds
+Did not receive reply for msg id b'cuzBPUvzr0M6XB9Mw7p9/RqtYFU=' within 5 seconds
+2022-02-21 12:19:00,930 - kademlia.protocol - WARNING - no response from 10.0.0.7:9787, removing from router
+2022-02-21 12:19:00,930 - kademlia.protocol - WARNING - no response from 10.0.0.6:4729, removing from router
+Did not receive reply for msg id b'awLP0jIJFsNUKh6fCRyttVsoMtY=' within 5 seconds
+Did not receive reply for msg id b'wnicwDO58fnLdbY4WoINybVdjto=' within 5 seconds
+Did not receive reply for msg id b'vLtzWN7VbDWMywDG/nBo5ABByhM=' within 5 seconds
+2022-02-21 12:19:05,939 - kademlia.protocol - WARNING - no response from 10.0.0.6:4729, removing from router
+2022-02-21 12:19:05,939 - kademlia.protocol - WARNING - no response from 10.0.0.7:9787, removing from router
+2022-02-21 12:19:05,939 - kademlia.protocol - WARNING - no response from 10.0.0.4:2239, removing from router
+Did not receive reply for msg id b'VpHnyjAQmeaX2UXZQ2GlnWe9NV4=' within 5 seconds
+Did not receive reply for msg id b'ViNGb7+93RPyG06PgjicmWKZ2o8=' within 5 seconds
+2022-02-21 12:19:10,945 - kademlia.protocol - WARNING - no response from 10.0.0.5:9482, removing from router
+2022-02-21 12:19:10,945 - kademlia.protocol - WARNING - no response from 10.0.0.8:1046, removing from router
+Did not receive reply for msg id b'tRjEoHEt24hSqgDQCtGZeYtiVY4=' within 5 seconds
+2022-02-21 12:19:15,951 - kademlia.protocol - WARNING - no response from 10.0.0.6:4511, removing from router
+Did not receive reply for msg id b'xWFWVeGmbFdVnmrjlUTjuvxfdoE=' within 5 seconds
+2022-02-21 12:19:21,007 - kademlia.protocol - WARNING - no response from 10.0.0.4:2239, removing from router
+Did not receive reply for msg id b'rtzk6rZ2nXb6q0cyoZYgKLFNNPI=' within 5 seconds
+Did not receive reply for msg id b'w8e6kVZeup5eVvhzhP1Q0f8QQ44=' within 5 seconds
+Did not receive reply for msg id b'y1TACJfXiw0QOrQW9nAR0elacC4=' within 5 seconds
+2022-02-21 12:19:26,013 - kademlia.protocol - WARNING - no response from 10.0.0.8:1046, removing from router
+2022-02-21 12:19:26,013 - kademlia.protocol - WARNING - no response from 10.0.0.5:9482, removing from router
+2022-02-21 12:19:26,013 - kademlia.protocol - WARNING - no response from 10.0.0.5:6875, removing from router
+Did not receive reply for msg id b'OfNRq11rJ2ZauWrNMdfRtXXqxCo=' within 5 seconds
+2022-02-21 12:19:31,019 - kademlia.protocol - WARNING - no response from 10.0.0.7:7781, removing from router
+Did not receive reply for msg id b'XzxHyMwCf4gKePuyd+tx1VYqZ4o=' within 5 seconds
+Did not receive reply for msg id b'kDS7oJD5KWACUL6GsRcgGyg3/yY=' within 5 seconds
+2022-02-21 12:19:36,023 - kademlia.protocol - WARNING - no response from 10.0.0.6:4511, removing from router
+2022-02-21 12:19:36,023 - kademlia.protocol - WARNING - no response from 10.0.0.6:4729, removing from router
+Did not receive reply for msg id b'Sa4YAQAEdiL+9WJj5qgl9umFH48=' within 5 seconds
+2022-02-21 12:19:41,024 - kademlia.protocol - WARNING - no response from 10.0.0.7:9787, removing from router
+Did not receive reply for msg id b'HD/wQc5hok62cUjoEw2VNuTVfmg=' within 5 seconds
+2022-02-21 12:19:46,031 - kademlia.protocol - WARNING - no response from 10.0.0.6:7171, removing from router
+Did not receive reply for msg id b'2cVn0x3y4aBp/MI/jpyIVT8AiQY=' within 5 seconds
+Did not receive reply for msg id b't29ZKEl6gFMWP9b7E76vtkd1Upw=' within 5 seconds
+Did not receive reply for msg id b'zv2llA86xjZtsrJGOM33Psg2XC8=' within 5 seconds
+2022-02-21 12:19:51,043 - kademlia.protocol - WARNING - no response from 10.0.0.6:4729, removing from router
+2022-02-21 12:19:51,043 - kademlia.protocol - WARNING - no response from 10.0.0.7:9787, removing from router
+2022-02-21 12:19:51,043 - kademlia.protocol - WARNING - no response from 10.0.0.4:2239, removing from router
+Did not receive reply for msg id b'8Ug1cfy3HB5iqdTyMi5wLSvKhqU=' within 5 seconds
+2022-02-21 12:19:56,055 - kademlia.protocol - WARNING - no response from 10.0.0.5:6875, removing from router
+Did not receive reply for msg id b'GlvpRDaWmGcgc1btJ4dUeaaTAoE=' within 5 seconds
+Did not receive reply for msg id b'IZYS7tVluh8kPEz+/FhOk7P9KoE=' within 5 seconds
+2022-02-21 12:20:01,067 - kademlia.protocol - WARNING - no response from 10.0.0.5:9482, removing from router
+2022-02-21 12:20:01,067 - kademlia.protocol - WARNING - no response from 10.0.0.8:1046, removing from router
+Did not receive reply for msg id b'giRcGT0kzm0Vp8/b/M0xpj9rpSU=' within 5 seconds
+Did not receive reply for msg id b'lFKL1XHOeOiOiqeB8ltcD6K5MWo=' within 5 seconds
+2022-02-21 12:20:06,079 - kademlia.protocol - WARNING - no response from 10.0.0.7:7781, removing from router
+2022-02-21 12:20:06,079 - kademlia.protocol - WARNING - no response from 10.0.0.6:4511, removing from router
+Did not receive reply for msg id b'4EOelYyJ2t3eeMRPCIMLYI8cENY=' within 5 seconds
+Did not receive reply for msg id b'sULoviJaS0cnEiUkY3lhzQdPYpM=' within 5 seconds
+2022-02-21 12:20:11,086 - kademlia.protocol - WARNING - no response from 10.0.0.6:7181, removing from router
+2022-02-21 12:20:11,086 - kademlia.protocol - WARNING - no response from 10.0.0.8:9166, removing from router
+Did not receive reply for msg id b'W+43mzDdrW2ERWykHaLLcrpjijc=' within 5 seconds
+Did not receive reply for msg id b'UyqX6v1S25kucSTCd2MHZZOf93M=' within 5 seconds
+Did not receive reply for msg id b'Dj/SH+SN0QWi1nIbQpXDRroOnYE=' within 5 seconds
+Did not receive reply for msg id b'cbUNg0Ibyixz+8u8AS/gw58w1BM=' within 5 seconds
+Did not receive reply for msg id b'7L5LbZSkW+tIcQDDUZcFrRybjqo=' within 5 seconds
+Did not receive reply for msg id b'8KRtb0Uct0D0aos++vqtCrUSMvA=' within 5 seconds
+2022-02-21 12:20:16,099 - kademlia.protocol - WARNING - no response from 10.0.0.6:4729, removing from router
+2022-02-21 12:20:16,099 - kademlia.protocol - WARNING - no response from 10.0.0.7:9787, removing from router
+2022-02-21 12:20:16,099 - kademlia.protocol - WARNING - no response from 10.0.0.5:1635, removing from router
+2022-02-21 12:20:16,099 - kademlia.protocol - WARNING - no response from 10.0.0.6:7171, removing from router
+2022-02-21 12:20:16,099 - kademlia.protocol - WARNING - no response from 10.0.0.4:2239, removing from router
+2022-02-21 12:20:16,099 - kademlia.protocol - WARNING - no response from 10.0.0.6:8364, removing from router
+Main: parse command line arguments
+Main: Instantiate the Kademlia DHT object
+Main: Initialize the Kademlia DHT object
+Kademlia_DHT::initialize - My port = 2938, Bootstrap port = 8468, Bootstrap IP Addr = 10.0.0.1
+Main: Bootstrap and set key-val
+Did not receive reply for msg id b'xdinD7krr5jq92cukrult1SmM4E=' within 5 seconds
+Did not receive reply for msg id b'sXsp2/nyXh7Fk2REsOwNWtDKEEs=' within 5 seconds
+2022-02-21 12:20:22,161 - kademlia.protocol - WARNING - no response from 10.0.0.6:4729, removing from router
+2022-02-21 12:20:22,161 - kademlia.protocol - WARNING - no response from 10.0.0.8:3411, removing from router
+Did not receive reply for msg id b'/z/iK0xLae54eUMACbfbt0hQdQM=' within 5 seconds
+Did not receive reply for msg id b'IFlOVHQiuN9C5tJ6m3GNhPmr2Kg=' within 5 seconds
+2022-02-21 12:20:27,167 - kademlia.protocol - WARNING - no response from 10.0.0.7:9787, removing from router
+2022-02-21 12:20:27,167 - kademlia.protocol - WARNING - no response from 10.0.0.5:1635, removing from router
+Did not receive reply for msg id b'8dlAuRVnk+8F3BtZIWA19DFBY9c=' within 5 seconds
+Did not receive reply for msg id b'ArAk3sAb9jyeAIaOjrv2ZSnkPUk=' within 5 seconds
+Did not receive reply for msg id b'N3a68lWj2lZvWD0j145JYmezF8I=' within 5 seconds
+2022-02-21 12:20:32,168 - kademlia.protocol - WARNING - no response from 10.0.0.7:2938, removing from router
+2022-02-21 12:20:32,168 - kademlia.protocol - WARNING - no response from 10.0.0.6:7171, removing from router
+2022-02-21 12:20:32,168 - kademlia.protocol - WARNING - no response from 10.0.0.4:2239, removing from router
+Did not receive reply for msg id b'j1lWzo9Q3mUFIk0UOZDG1cCGBWE=' within 5 seconds
+Did not receive reply for msg id b'TPFXj0nz2V9PJwoGPih2qpTSMv0=' within 5 seconds
+2022-02-21 12:20:37,175 - kademlia.protocol - WARNING - no response from 10.0.0.5:9482, removing from router
+2022-02-21 12:20:37,175 - kademlia.protocol - WARNING - no response from 10.0.0.8:1046, removing from router
+Did not receive reply for msg id b'NCncyuA0P8l+4Nd8PXNXiv0wN0k=' within 5 seconds
+Did not receive reply for msg id b'FnmohZiUQ+BLeIZzn6IlgeTunDk=' within 5 seconds
+Did not receive reply for msg id b'0nUrl5QfD7CRYpR9zj6Fm4OTxOE=' within 5 seconds
+2022-02-21 12:20:42,180 - kademlia.protocol - WARNING - no response from 10.0.0.5:3356, removing from router
+2022-02-21 12:20:42,180 - kademlia.protocol - WARNING - no response from 10.0.0.5:6875, removing from router
+2022-02-21 12:20:42,180 - kademlia.protocol - WARNING - no response from 10.0.0.6:8364, removing from router
+Did not receive reply for msg id b'vit2WsVdTHFvhpgw1yi23w8Srns=' within 5 seconds
+Did not receive reply for msg id b'z2T5bHyIQ2W+MBCAlvUfvsFfkCw=' within 5 seconds
+Did not receive reply for msg id b'jn2LlK4tavP9X78HsRBlCvLLU1w=' within 5 seconds
+2022-02-21 12:20:47,185 - kademlia.protocol - WARNING - no response from 10.0.0.6:4511, removing from router
+2022-02-21 12:20:47,185 - kademlia.protocol - WARNING - no response from 10.0.0.7:7781, removing from router
+2022-02-21 12:20:47,186 - kademlia.protocol - WARNING - no response from 10.0.0.6:7181, removing from router
+Did not receive reply for msg id b'uyZOIfx5L/A0gmZtPpqME8yV3Ko=' within 5 seconds
+2022-02-21 12:20:52,191 - kademlia.protocol - WARNING - no response from 10.0.0.8:9166, removing from router
+Did not receive reply for msg id b'MVi3CplnDC7GjgafcIDQBHB5oC8=' within 5 seconds
+2022-02-21 12:20:57,197 - kademlia.protocol - WARNING - no response from 10.0.0.6:6010, removing from router
+registered for sound
+Did not receive reply for msg id b'796abGVjT7VZ1ZU+JkXg9S8+Ov0=' within 5 seconds
+Did not receive reply for msg id b'XFesq9dGo9kBU0/XocUs2G0G2VY=' within 5 seconds
+Did not receive reply for msg id b'j8AjMtmgwQApPM+uVKHuhRZKSTE=' within 5 seconds
+2022-02-21 12:21:02,258 - kademlia.protocol - WARNING - no response from 10.0.0.6:8364, removing from router
+2022-02-21 12:21:02,258 - kademlia.protocol - WARNING - no response from 10.0.0.5:9482, removing from router
+2022-02-21 12:21:02,259 - kademlia.protocol - WARNING - no response from 10.0.0.5:3356, removing from router
+Did not receive reply for msg id b'4ZblDQxVzE+UdH7UoQtHbFO5v1E=' within 5 seconds
+Did not receive reply for msg id b'dQtkxZ75yh/OtNgs4jhjHjgDiSo=' within 5 seconds
+Did not receive reply for msg id b'LcbVGOdTihGS1C8ccux5ZdzEcIQ=' within 5 seconds
+2022-02-21 12:21:07,265 - kademlia.protocol - WARNING - no response from 10.0.0.8:1046, removing from router
+2022-02-21 12:21:07,265 - kademlia.protocol - WARNING - no response from 10.0.0.5:6875, removing from router
+2022-02-21 12:21:07,265 - kademlia.protocol - WARNING - no response from 10.0.0.8:9166, removing from router
+Did not receive reply for msg id b'K817IiBmPomsAq8uw8pL/C+AbQs=' within 5 seconds
+Did not receive reply for msg id b'BgcBDT1apM2Pv1NIa7v9NritYHg=' within 5 seconds
+Did not receive reply for msg id b'nctxbgQk1uW9Dl6lR3HJiGWrScQ=' within 5 seconds
+2022-02-21 12:21:12,267 - kademlia.protocol - WARNING - no response from 10.0.0.6:7181, removing from router
+2022-02-21 12:21:12,267 - kademlia.protocol - WARNING - no response from 10.0.0.7:7781, removing from router
+2022-02-21 12:21:12,267 - kademlia.protocol - WARNING - no response from 10.0.0.6:4511, removing from router
+Did not receive reply for msg id b'tYFmOGngq74pZOP9YD6EAJHsNoA=' within 5 seconds
+Did not receive reply for msg id b'hUySaPdAPPhS2rtgvVfcAOk6nlI=' within 5 seconds
+2022-02-21 12:21:17,274 - kademlia.protocol - WARNING - no response from 10.0.0.7:2938, removing from router
+2022-02-21 12:21:17,274 - kademlia.protocol - WARNING - no response from 10.0.0.6:7171, removing from router
+Did not receive reply for msg id b'OJgfDIXMcwGWKq/UyFsmwX4Zla8=' within 5 seconds
+Did not receive reply for msg id b'1Fj6MVGaX61otr9c0n3bIPImMq4=' within 5 seconds
+2022-02-21 12:21:22,280 - kademlia.protocol - WARNING - no response from 10.0.0.5:1635, removing from router
+2022-02-21 12:21:22,280 - kademlia.protocol - WARNING - no response from 10.0.0.4:2239, removing from router
+Did not receive reply for msg id b'II0rzQS+46HTV9hIWTwIu8ufpIo=' within 5 seconds
+Did not receive reply for msg id b'VXf3Z0/4BG/gSYSRf9n6Lxax4zI=' within 5 seconds
+2022-02-21 12:21:27,286 - kademlia.protocol - WARNING - no response from 10.0.0.6:6010, removing from router
+2022-02-21 12:21:27,286 - kademlia.protocol - WARNING - no response from 10.0.0.7:5334, removing from router
+Did not receive reply for msg id b'GlJ1xu0jZDYZz2wcvYrZYLyBEe0=' within 5 seconds
+Did not receive reply for msg id b'/Dtlrz7o0Ad+VStiHsbN8Y7nr30=' within 5 seconds
+2022-02-21 12:21:32,292 - kademlia.protocol - WARNING - no response from 10.0.0.8:3411, removing from router
+2022-02-21 12:21:32,292 - kademlia.protocol - WARNING - no response from 10.0.0.6:4729, removing from router
+Not registered for pressure
+Did not receive reply for msg id b'aPlccos4Xeqb/B8ridzD8oF44l4=' within 5 seconds
+Did not receive reply for msg id b'VJiU0HlOPMlLG6luepMQD8364D8=' within 5 seconds
+2022-02-21 12:21:37,353 - kademlia.protocol - WARNING - no response from 10.0.0.7:5334, removing from router
+2022-02-21 12:21:37,353 - kademlia.protocol - WARNING - no response from 10.0.0.6:4729, removing from router
+Did not receive reply for msg id b'1BrDvNsmVP8c5kD1kKo2oYyjiA4=' within 5 seconds
+Did not receive reply for msg id b'NeH4ukSz8Sia/rSAjTVoCeZh/LI=' within 5 seconds
+2022-02-21 12:21:42,356 - kademlia.protocol - WARNING - no response from 10.0.0.8:3411, removing from router
+2022-02-21 12:21:42,356 - kademlia.protocol - WARNING - no response from 10.0.0.6:6010, removing from router
+Did not receive reply for msg id b'PktjZvD8WPMoB177+EqCHWOoNCo=' within 5 seconds
+Did not receive reply for msg id b'eo5fsxJ4jrAsKgAyyhkFsPYzl8E=' within 5 seconds
+2022-02-21 12:21:47,359 - kademlia.protocol - WARNING - no response from 10.0.0.7:9787, removing from router
+2022-02-21 12:21:47,359 - kademlia.protocol - WARNING - no response from 10.0.0.5:1635, removing from router
+Did not receive reply for msg id b'tmOvsB3q9Xsd/KaWa3c3IPk5VCo=' within 5 seconds
+Did not receive reply for msg id b'h8th4PgGncpkEAtm6a5ndDUXkrc=' within 5 seconds
+Did not receive reply for msg id b'Un13keu49ELtats8ulHf0ikX4LI=' within 5 seconds
+2022-02-21 12:21:52,361 - kademlia.protocol - WARNING - no response from 10.0.0.7:2938, removing from router
+2022-02-21 12:21:52,361 - kademlia.protocol - WARNING - no response from 10.0.0.6:7171, removing from router
+2022-02-21 12:21:52,361 - kademlia.protocol - WARNING - no response from 10.0.0.4:2239, removing from router
+Did not receive reply for msg id b'JgqFo90ac7TGQyAawU7afsTlhW4=' within 5 seconds
+Did not receive reply for msg id b'BYoN+w2dK1ldtpdDAbuwLMDIx4o=' within 5 seconds
+2022-02-21 12:21:57,367 - kademlia.protocol - WARNING - no response from 10.0.0.8:1046, removing from router
+2022-02-21 12:21:57,367 - kademlia.protocol - WARNING - no response from 10.0.0.5:3356, removing from router
+Did not receive reply for msg id b'f61tD/d3HWxsy8pDJy6dpUHGago=' within 5 seconds
+Did not receive reply for msg id b'lku3b3ajR5u9oXbAkUMAPA6+O3s=' within 5 seconds
+Did not receive reply for msg id b'wRsmqLdQ2oN9YDgcXPK7PBAge9o=' within 5 seconds
+2022-02-21 12:22:02,372 - kademlia.protocol - WARNING - no response from 10.0.0.5:9482, removing from router
+2022-02-21 12:22:02,372 - kademlia.protocol - WARNING - no response from 10.0.0.5:6875, removing from router
+2022-02-21 12:22:02,372 - kademlia.protocol - WARNING - no response from 10.0.0.6:8364, removing from router
+Did not receive reply for msg id b'dtaFUtCWZdLqBPhfBu7sGGNN9vM=' within 5 seconds
+Did not receive reply for msg id b'B9F+acV+zMdzK9J8i9Nk4mimGqg=' within 5 seconds
+Did not receive reply for msg id b'0axaG3DylR+A9GJzzoVLlri9XR0=' within 5 seconds
+2022-02-21 12:22:07,378 - kademlia.protocol - WARNING - no response from 10.0.0.7:7439, removing from router
+2022-02-21 12:22:07,378 - kademlia.protocol - WARNING - no response from 10.0.0.7:7781, removing from router
+2022-02-21 12:22:07,378 - kademlia.protocol - WARNING - no response from 10.0.0.6:7181, removing from router
+Did not receive reply for msg id b'/r7G2pE+o1I7xkf7u5dS8HL8gzE=' within 5 seconds
+2022-02-21 12:22:12,384 - kademlia.protocol - WARNING - no response from 10.0.0.8:9166, removing from router
+Did not receive reply for msg id b'1UvE/ODjTs4IOjFyIYELSBPE6hw=' within 5 seconds
+Did not receive reply for msg id b'SKSJUxfIR3CejDxvdF1WJIBUflo=' within 5 seconds
+Did not receive reply for msg id b'Yqxo/JwC6yVXZ4biHJyxLWRhCv0=' within 5 seconds
+2022-02-21 12:22:17,443 - kademlia.protocol - WARNING - no response from 10.0.0.6:4511, removing from router
+2022-02-21 12:22:17,443 - kademlia.protocol - WARNING - no response from 10.0.0.7:7781, removing from router
+2022-02-21 12:22:17,443 - kademlia.protocol - WARNING - no response from 10.0.0.6:7181, removing from router
+Did not receive reply for msg id b's36ef4+EB4bcVhK/amqMRGnUSEc=' within 5 seconds
+Did not receive reply for msg id b'iqvwLzguxLWOTA7cecI1PgDmUX4=' within 5 seconds
+Did not receive reply for msg id b'VpQYcGlGG8k9q5R8OujCZ8EziME=' within 5 seconds
+2022-02-21 12:22:22,449 - kademlia.protocol - WARNING - no response from 10.0.0.8:9166, removing from router
+2022-02-21 12:22:22,449 - kademlia.protocol - WARNING - no response from 10.0.0.5:9482, removing from router
+2022-02-21 12:22:22,449 - kademlia.protocol - WARNING - no response from 10.0.0.8:1046, removing from router
+Did not receive reply for msg id b'YfMtmyVTXXXGq5Tgx1Ocp1pjlms=' within 5 seconds
+Did not receive reply for msg id b'DM/jYLqa6fhbRUAGk4NzXuL90HA=' within 5 seconds
+Did not receive reply for msg id b'kZPUVwxxWvrOiWA7wY/LTkinAO8=' within 5 seconds
+2022-02-21 12:22:27,455 - kademlia.protocol - WARNING - no response from 10.0.0.5:3356, removing from router
+2022-02-21 12:22:27,455 - kademlia.protocol - WARNING - no response from 10.0.0.5:6875, removing from router
+2022-02-21 12:22:27,455 - kademlia.protocol - WARNING - no response from 10.0.0.7:7439, removing from router
+Did not receive reply for msg id b'5UrtNoXWk0eFLjQmcpzNtTV2syQ=' within 5 seconds
+Did not receive reply for msg id b'm8FLALf/FbZuU7h1R9KwtHasVI0=' within 5 seconds
+2022-02-21 12:22:32,460 - kademlia.protocol - WARNING - no response from 10.0.0.6:8364, removing from router
+2022-02-21 12:22:32,460 - kademlia.protocol - WARNING - no response from 10.0.0.4:2239, removing from router
+Did not receive reply for msg id b'a1TOMESLxYnehToViEr0Ds+FDLQ=' within 5 seconds
+Did not receive reply for msg id b'M9eRWs5fCLOSL2BWwnEX30vNjrk=' within 5 seconds
+Did not receive reply for msg id b'vyc4BAb7dRaX7ZpruUGKOlk/Fqk=' within 5 seconds
+2022-02-21 12:22:37,463 - kademlia.protocol - WARNING - no response from 10.0.0.5:1170, removing from router
+2022-02-21 12:22:37,463 - kademlia.protocol - WARNING - no response from 10.0.0.5:1635, removing from router
+2022-02-21 12:22:37,463 - kademlia.protocol - WARNING - no response from 10.0.0.7:2938, removing from router
+Did not receive reply for msg id b'aRIVTGoVey80UG7KuVZFKTiuiDs=' within 5 seconds
+Did not receive reply for msg id b'RHHxm5SeHu77+4Wzgyx7XtaA9as=' within 5 seconds
+Did not receive reply for msg id b'e8gHJBXFRDUYC0qo8uGkY3xqQVs=' within 5 seconds
+2022-02-21 12:22:42,469 - kademlia.protocol - WARNING - no response from 10.0.0.6:7171, removing from router
+2022-02-21 12:22:42,469 - kademlia.protocol - WARNING - no response from 10.0.0.6:8934, removing from router
+2022-02-21 12:22:42,469 - kademlia.protocol - WARNING - no response from 10.0.0.6:6010, removing from router
+Did not receive reply for msg id b'/z5gXbtjW5BLlMVa8uznPthSEVg=' within 5 seconds
+Did not receive reply for msg id b'0+5jP3DC7/mNc1zW/BEyXf9FQN0=' within 5 seconds
+2022-02-21 12:22:47,471 - kademlia.protocol - WARNING - no response from 10.0.0.6:1498, removing from router
+2022-02-21 12:22:47,471 - kademlia.protocol - WARNING - no response from 10.0.0.7:3325, removing from router
+Did not receive reply for msg id b'cpsptIuoBjLwdg83LLzs/6AvqbI=' within 5 seconds
+Did not receive reply for msg id b'MqUamm6czFngiLKgch9RMMT7hp0=' within 5 seconds
+Did not receive reply for msg id b'J5W6PQGyPOCFQWuVwNuLwcHMJ9g=' within 5 seconds
+2022-02-21 12:22:52,482 - kademlia.protocol - WARNING - no response from 10.0.0.6:8934, removing from router
+2022-02-21 12:22:52,482 - kademlia.protocol - WARNING - no response from 10.0.0.7:9787, removing from router
+2022-02-21 12:22:52,482 - kademlia.protocol - WARNING - no response from 10.0.0.6:6010, removing from router
+Did not receive reply for msg id b'bxhPZ5+IBK6tfXDYlAhIaOMySUk=' within 5 seconds
+Did not receive reply for msg id b'Otyj/eFOg/Vf75oXFMxAd6/uCvw=' within 5 seconds
+Did not receive reply for msg id b'hC4L2J//3Hvg7P+1mxDtBxf/xdI=' within 5 seconds
+2022-02-21 12:22:57,487 - kademlia.protocol - WARNING - no response from 10.0.0.6:4729, removing from router
+2022-02-21 12:22:57,488 - kademlia.protocol - WARNING - no response from 10.0.0.6:1498, removing from router
+2022-02-21 12:22:57,488 - kademlia.protocol - WARNING - no response from 10.0.0.8:3411, removing from router
+Did not receive reply for msg id b'gVRo3Lziwao/I0u2F3Bdx3XNEiA=' within 5 seconds
+Did not receive reply for msg id b'rOxymiBtvh97MbH0bjRyP4N1OR0=' within 5 seconds
+Did not receive reply for msg id b'6GjzK8MWj/c1ztRsD22/sH2ioLM=' within 5 seconds
+2022-02-21 12:23:02,493 - kademlia.protocol - WARNING - no response from 10.0.0.7:3325, removing from router
+2022-02-21 12:23:02,494 - kademlia.protocol - WARNING - no response from 10.0.0.7:5334, removing from router
+2022-02-21 12:23:02,494 - kademlia.protocol - WARNING - no response from 10.0.0.7:7781, removing from router
+Did not receive reply for msg id b'lv+7UYQZVOXkyiuxNY/dlQbbKSg=' within 5 seconds
+Did not receive reply for msg id b'JV5goQb1RumVYaRj9xOF7vpbFVQ=' within 5 seconds
+Did not receive reply for msg id b't2TFJ3nj7CJCfH5gRwDpG/rU3Xc=' within 5 seconds
+2022-02-21 12:23:07,500 - kademlia.protocol - WARNING - no response from 10.0.0.6:7181, removing from router
+2022-02-21 12:23:07,500 - kademlia.protocol - WARNING - no response from 10.0.0.8:9166, removing from router
+2022-02-21 12:23:07,500 - kademlia.protocol - WARNING - no response from 10.0.0.5:6875, removing from router
+Did not receive reply for msg id b'vPvh/KngkU9RGHD55xwkinhuKUo=' within 5 seconds
+Did not receive reply for msg id b'BTpg9lcGQtiM/jFusColcpFcBKg=' within 5 seconds
+Did not receive reply for msg id b'OYt/cO8p9zXN1StF0tQb9vQVM0I=' within 5 seconds
+2022-02-21 12:23:12,506 - kademlia.protocol - WARNING - no response from 10.0.0.5:3356, removing from router
+2022-02-21 12:23:12,506 - kademlia.protocol - WARNING - no response from 10.0.0.6:8364, removing from router
+2022-02-21 12:23:12,506 - kademlia.protocol - WARNING - no response from 10.0.0.7:7439, removing from router
+Did not receive reply for msg id b'bLVS3ykk6RdOFkmqSF38hZ03w3U=' within 5 seconds
+Did not receive reply for msg id b'kj4kPJJNXF+DDr5+LK6NGuqPKgY=' within 5 seconds
+2022-02-21 12:23:17,509 - kademlia.protocol - WARNING - no response from 10.0.0.5:1635, removing from router
+2022-02-21 12:23:17,509 - kademlia.protocol - WARNING - no response from 10.0.0.5:1170, removing from router
+Did not receive reply for msg id b'CyjwLxj1F+Ee6wMXCGZ79KRxFUo=' within 5 seconds
+Did not receive reply for msg id b'Se82SNOT9qkyiJLssB/J1wrlYbE=' within 5 seconds
+2022-02-21 12:23:22,515 - kademlia.protocol - WARNING - no response from 10.0.0.6:7171, removing from router
+2022-02-21 12:23:22,515 - kademlia.protocol - WARNING - no response from 10.0.0.7:2938, removing from router
+Did not receive reply for msg id b'Rw69j11uItYqwR/k6RjKi1LRXS4=' within 5 seconds
+Did not receive reply for msg id b'lssh8PrTjOVRrjbgcsApx6B+x38=' within 5 seconds
+Did not receive reply for msg id b'ArcIHdULSIDkgw6UNbGkHcnCS4A=' within 5 seconds
+Did not receive reply for msg id b'vHFKPfrKmR/UVuk2pJr8UCXZHzs=' within 5 seconds
+Did not receive reply for msg id b'hefcYpMNaXghSmLPdgDgCM5czXw=' within 5 seconds
+Did not receive reply for msg id b'2Qe3uAAQxF4P10KHKOSYv5NQ+5s=' within 5 seconds
+Did not receive reply for msg id b'tF/GXUsx4Vfz/TBzhp5M+XywlFU=' within 5 seconds
+Did not receive reply for msg id b'qgIyi7BvU/Lkj+QkNn6RAvwDo2U=' within 5 seconds
+Did not receive reply for msg id b'hUhj3IUIXRZHeHzWln/+SgePuQs=' within 5 seconds
+Did not receive reply for msg id b'QMnGrG1Zg7AaLGIDxAhgxVlO+Eo=' within 5 seconds
+Did not receive reply for msg id b'HYYgC+UfHSpSi+qHBB+4WlX+qCA=' within 5 seconds
+Did not receive reply for msg id b'smTtWLlGMOKym2bpxOHCHqw3OZ4=' within 5 seconds
+Did not receive reply for msg id b'9SFUUs5yNyFfq3X4czallXJNE4E=' within 5 seconds
+Did not receive reply for msg id b'dGNIeIlTxsfgosrxAkH/usou7FY=' within 5 seconds
+Did not receive reply for msg id b'OE84/4E2ks3lm1SaTIBbjPf5bjw=' within 5 seconds
+2022-02-21 12:23:27,522 - kademlia.protocol - WARNING - no response from 10.0.0.6:8934, removing from router
+2022-02-21 12:23:27,522 - kademlia.protocol - WARNING - no response from 10.0.0.7:9787, removing from router
+2022-02-21 12:23:27,522 - kademlia.protocol - WARNING - no response from 10.0.0.6:6010, removing from router
+2022-02-21 12:23:27,522 - kademlia.protocol - WARNING - no response from 10.0.0.6:4729, removing from router
+2022-02-21 12:23:27,522 - kademlia.protocol - WARNING - no response from 10.0.0.6:1498, removing from router
+2022-02-21 12:23:27,522 - kademlia.protocol - WARNING - no response from 10.0.0.8:3411, removing from router
+2022-02-21 12:23:27,522 - kademlia.protocol - WARNING - no response from 10.0.0.5:8788, removing from router
+2022-02-21 12:23:27,522 - kademlia.protocol - WARNING - no response from 10.0.0.7:3325, removing from router
+2022-02-21 12:23:27,522 - kademlia.protocol - WARNING - no response from 10.0.0.7:5334, removing from router
+2022-02-21 12:23:27,522 - kademlia.protocol - WARNING - no response from 10.0.0.7:7781, removing from router
+2022-02-21 12:23:27,522 - kademlia.protocol - WARNING - no response from 10.0.0.6:7181, removing from router
+2022-02-21 12:23:27,522 - kademlia.protocol - WARNING - no response from 10.0.0.8:9166, removing from router
+2022-02-21 12:23:27,522 - kademlia.protocol - WARNING - no response from 10.0.0.5:3356, removing from router
+2022-02-21 12:23:27,522 - kademlia.protocol - WARNING - no response from 10.0.0.6:8364, removing from router
+2022-02-21 12:23:27,522 - kademlia.protocol - WARNING - no response from 10.0.0.7:7439, removing from router
+Main: parse command line arguments
+Main: Instantiate the Kademlia DHT object
+Main: Initialize the Kademlia DHT object
+Kademlia_DHT::initialize - My port = 1628, Bootstrap port = 8468, Bootstrap IP Addr = 10.0.0.1
+Main: Bootstrap and set key-val
+Did not receive reply for msg id b'8JZpNkStgCNCM+/vN1J1nffV+jA=' within 5 seconds
+Did not receive reply for msg id b'C+fH8p43mCEXLAzOiQrlILSli4g=' within 5 seconds
+Did not receive reply for msg id b'ktJH/Vjo9XFjJ9807NnpTBwVCy4=' within 5 seconds
+2022-02-21 12:23:36,583 - kademlia.protocol - WARNING - no response from 10.0.0.7:3325, removing from router
+2022-02-21 12:23:36,583 - kademlia.protocol - WARNING - no response from 10.0.0.7:5334, removing from router
+2022-02-21 12:23:36,583 - kademlia.protocol - WARNING - no response from 10.0.0.6:4729, removing from router
+Did not receive reply for msg id b'Ssi0OKdX+hTB5JURm5H90/zHm44=' within 5 seconds
+Did not receive reply for msg id b'MM0MCJJjpuk+r3A8qDYWBHvVwc4=' within 5 seconds
+2022-02-21 12:23:41,588 - kademlia.protocol - WARNING - no response from 10.0.0.6:1498, removing from router
+2022-02-21 12:23:41,588 - kademlia.protocol - WARNING - no response from 10.0.0.5:8788, removing from router
+Did not receive reply for msg id b'M6NaLAAudhNfwORoMOMjrBuHp14=' within 5 seconds
+Did not receive reply for msg id b'C4N8JNnAUyOaM4CA1cd4Z4u6XN4=' within 5 seconds
+Did not receive reply for msg id b'YDU3ojfziYsBXC3UmBsKHlwxtio=' within 5 seconds
+2022-02-21 12:23:46,594 - kademlia.protocol - WARNING - no response from 10.0.0.8:3411, removing from router
+2022-02-21 12:23:46,595 - kademlia.protocol - WARNING - no response from 10.0.0.6:8934, removing from router
+2022-02-21 12:23:46,595 - kademlia.protocol - WARNING - no response from 10.0.0.7:9787, removing from router
+Did not receive reply for msg id b'mheq98oGOndvqAfNXlU46kEGZ6o=' within 5 seconds
+Did not receive reply for msg id b'a8bwZMz+Pt4vUiO0xKe3icH2ZBk=' within 5 seconds
+2022-02-21 12:23:51,601 - kademlia.protocol - WARNING - no response from 10.0.0.6:6010, removing from router
+2022-02-21 12:23:51,601 - kademlia.protocol - WARNING - no response from 10.0.0.5:1635, removing from router
+Did not receive reply for msg id b'Pf0YmkN8B0cOvZsbWHI85p+O7U0=' within 5 seconds
+Did not receive reply for msg id b'2EKMf1V/JT0wJJEt8eWYH/vWhO0=' within 5 seconds
+Did not receive reply for msg id b'Xkfwx7/jTAkT9NOP1AJ7UqpB7Uw=' within 5 seconds
+2022-02-21 12:23:56,607 - kademlia.protocol - WARNING - no response from 10.0.0.5:1170, removing from router
+2022-02-21 12:23:56,607 - kademlia.protocol - WARNING - no response from 10.0.0.6:7171, removing from router
+2022-02-21 12:23:56,607 - kademlia.protocol - WARNING - no response from 10.0.0.7:2938, removing from router
+Did not receive reply for msg id b'deaaniiIGxvAzCgQ2bRXj7q2HDI=' within 5 seconds
+Did not receive reply for msg id b'VOOqxvpebRijxXNe2uO608bd/b8=' within 5 seconds
+Did not receive reply for msg id b'gwI9j3GYlKy6RMv5fiiEXCTcWHU=' within 5 seconds
+2022-02-21 12:24:01,613 - kademlia.protocol - WARNING - no response from 10.0.0.5:3356, removing from router
+2022-02-21 12:24:01,613 - kademlia.protocol - WARNING - no response from 10.0.0.7:7439, removing from router
+2022-02-21 12:24:01,613 - kademlia.protocol - WARNING - no response from 10.0.0.6:8364, removing from router
+Did not receive reply for msg id b'+cOHaNl+1oZcnBG+c2ExBn4ZUsE=' within 5 seconds
+Did not receive reply for msg id b't0tfdP4pzecrnTwkeFA7q9Kontw=' within 5 seconds
+Did not receive reply for msg id b'Qpqe7vXTRYiTIiimUAoI4BX1aJQ=' within 5 seconds
+2022-02-21 12:24:06,619 - kademlia.protocol - WARNING - no response from 10.0.0.7:1628, removing from router
+2022-02-21 12:24:06,619 - kademlia.protocol - WARNING - no response from 10.0.0.6:7181, removing from router
+2022-02-21 12:24:06,619 - kademlia.protocol - WARNING - no response from 10.0.0.8:9166, removing from router
+registered for pressure
+Did not receive reply for msg id b'9Yvp+uC4puESrcq6Pi9yBRU6DVw=' within 5 seconds
+Did not receive reply for msg id b'P5LhI24Fj6oDa2jul0AmxBupPv8=' within 5 seconds
+2022-02-21 12:24:11,679 - kademlia.protocol - WARNING - no response from 10.0.0.7:9787, removing from router
+2022-02-21 12:24:11,679 - kademlia.protocol - WARNING - no response from 10.0.0.6:6010, removing from router
+Did not receive reply for msg id b'jp8Flh1zX7y1FUbqxlg1dl4o8F0=' within 5 seconds
+Did not receive reply for msg id b'gUS0W4tnSwcTTXi8IbUjSDvSM0U=' within 5 seconds
+Did not receive reply for msg id b'UCWYdIVQHx/NccI0xDjBLc9Niwk=' within 5 seconds
+2022-02-21 12:24:16,685 - kademlia.protocol - WARNING - no response from 10.0.0.6:8934, removing from router
+2022-02-21 12:24:16,685 - kademlia.protocol - WARNING - no response from 10.0.0.7:4302, removing from router
+2022-02-21 12:24:16,685 - kademlia.protocol - WARNING - no response from 10.0.0.7:3325, removing from router
+Did not receive reply for msg id b'JEI2QVm9zsQyfF62cqSDqyFaQag=' within 5 seconds
+Did not receive reply for msg id b'MwK266BfpjQBurO1SOjkKSCHLrM=' within 5 seconds
+2022-02-21 12:24:21,691 - kademlia.protocol - WARNING - no response from 10.0.0.7:5334, removing from router
+2022-02-21 12:24:21,691 - kademlia.protocol - WARNING - no response from 10.0.0.6:1498, removing from router
+Did not receive reply for msg id b'tNL+cuIytbuQ/kKdPzilMnUu04U=' within 5 seconds
+Did not receive reply for msg id b'8B7aOL/6Y1wtQI0ZCEDHFfD5Dac=' within 5 seconds
+Did not receive reply for msg id b'AxgTv2txJNtnpbI6DDYIL6/BMDA=' within 5 seconds
+2022-02-21 12:24:26,698 - kademlia.protocol - WARNING - no response from 10.0.0.8:3411, removing from router
+2022-02-21 12:24:26,698 - kademlia.protocol - WARNING - no response from 10.0.0.5:8788, removing from router
+2022-02-21 12:24:26,698 - kademlia.protocol - WARNING - no response from 10.0.0.6:4729, removing from router
+Did not receive reply for msg id b'Y2z6B5TKo58ZbaKUqQFvoLpjUpQ=' within 5 seconds
+Did not receive reply for msg id b'FfqjDuqrTtDCeQiC9+iMzxqsmdQ=' within 5 seconds
+Did not receive reply for msg id b'9evkDsnc4r8UbJ4tkyGLoBAqBaY=' within 5 seconds
+2022-02-21 12:24:31,704 - kademlia.protocol - WARNING - no response from 10.0.0.6:8364, removing from router
+2022-02-21 12:24:31,704 - kademlia.protocol - WARNING - no response from 10.0.0.7:7439, removing from router
+2022-02-21 12:24:31,704 - kademlia.protocol - WARNING - no response from 10.0.0.5:3356, removing from router
+Did not receive reply for msg id b'rGQgGRXTUp4wSJKTY5qyjeo6I8Q=' within 5 seconds
+Did not receive reply for msg id b'h4ocDYvgpQZC97pQeDQrwXlcavM=' within 5 seconds
+Did not receive reply for msg id b'KtjcNejJmTx/cdgKJ1DKgWbWSL0=' within 5 seconds
+2022-02-21 12:24:36,710 - kademlia.protocol - WARNING - no response from 10.0.0.8:9166, removing from router
+2022-02-21 12:24:36,710 - kademlia.protocol - WARNING - no response from 10.0.0.7:1628, removing from router
+2022-02-21 12:24:36,710 - kademlia.protocol - WARNING - no response from 10.0.0.6:7171, removing from router
+Did not receive reply for msg id b'IDdD0aSB3kqwI49JrotzIWFAbqw=' within 5 seconds
+Did not receive reply for msg id b'VSlrr9N2BrrNClHZ8sNPK07gZM8=' within 5 seconds
+Did not receive reply for msg id b'J+HGKN80yxidkWlfXHae4dPqTaA=' within 5 seconds
+2022-02-21 12:24:41,716 - kademlia.protocol - WARNING - no response from 10.0.0.7:2938, removing from router
+2022-02-21 12:24:41,716 - kademlia.protocol - WARNING - no response from 10.0.0.5:1635, removing from router
+2022-02-21 12:24:41,716 - kademlia.protocol - WARNING - no response from 10.0.0.5:1170, removing from router
+Did not receive reply for msg id b'4TCvQe88T3iN35Dszkndz0DQe38=' within 5 seconds
+Did not receive reply for msg id b'TEIGqzzdKEVN2QrScLvE20TIZgA=' within 5 seconds
+Did not receive reply for msg id b'UaDdGcgXf4CFCyVCPjE+mJQA7Z4=' within 5 seconds
+2022-02-21 12:24:46,723 - kademlia.protocol - WARNING - no response from 10.0.0.6:7181, removing from router
+2022-02-21 12:24:46,723 - kademlia.protocol - WARNING - no response from 10.0.0.8:9166, removing from router
+2022-02-21 12:24:46,723 - kademlia.protocol - WARNING - no response from 10.0.0.7:7781, removing from router
+Did not receive reply for msg id b'8bqA9Z45dgCHFqvuTHKAX+2NCZU=' within 5 seconds
+Did not receive reply for msg id b'2jUB2MMQiXkYmMKes6KWpP5WbjY=' within 5 seconds
+Did not receive reply for msg id b'hWbX1nHMV559K09h/9qIH57RtJY=' within 5 seconds
+2022-02-21 12:24:51,729 - kademlia.protocol - WARNING - no response from 10.0.0.7:1628, removing from router
+2022-02-21 12:24:51,729 - kademlia.protocol - WARNING - no response from 10.0.0.6:4511, removing from router
+2022-02-21 12:24:51,729 - kademlia.protocol - WARNING - no response from 10.0.0.6:8364, removing from router
+Did not receive reply for msg id b'3zFkaXhcTRrSRU9TpFDltLooWPI=' within 5 seconds
+Did not receive reply for msg id b'SIzSC3w4MZiD+r7Nudj51JzbGBw=' within 5 seconds
+Did not receive reply for msg id b'xWYvsVraXZGR6zHT535BLC3R5YQ=' within 5 seconds
+2022-02-21 12:24:56,735 - kademlia.protocol - WARNING - no response from 10.0.0.7:7439, removing from router
+2022-02-21 12:24:56,743 - kademlia.protocol - WARNING - no response from 10.0.0.5:6875, removing from router
+2022-02-21 12:24:56,743 - kademlia.protocol - WARNING - no response from 10.0.0.8:1046, removing from router
+Did not receive reply for msg id b'CcHi2+MJ7eLpYqYZVdUvYhm/HQ8=' within 5 seconds
+Did not receive reply for msg id b'HS6kSLezg6FAaw41cbmsxtMOJ3Y=' within 5 seconds
+2022-02-21 12:25:01,755 - kademlia.protocol - WARNING - no response from 10.0.0.5:3356, removing from router
+2022-02-21 12:25:01,755 - kademlia.protocol - WARNING - no response from 10.0.0.5:9482, removing from router
+Did not receive reply for msg id b'6vfLgc0gpj6GGZGA2Mg4xaCCQb4=' within 5 seconds
+Did not receive reply for msg id b'CJOQpcWmknPX/WvOlM6z1g2R/E0=' within 5 seconds
+Did not receive reply for msg id b'zBzFRXTF2H/S+0ia3/X9GcifG94=' within 5 seconds
+2022-02-21 12:25:06,769 - kademlia.protocol - WARNING - no response from 10.0.0.4:2239, removing from router
+2022-02-21 12:25:06,769 - kademlia.protocol - WARNING - no response from 10.0.0.6:7171, removing from router
+2022-02-21 12:25:06,769 - kademlia.protocol - WARNING - no response from 10.0.0.7:2938, removing from router
+Did not receive reply for msg id b'jHkwq06gEw80e/+4GwhKi9yhq7M=' within 5 seconds
+Did not receive reply for msg id b'6W61jGKYdqQJe9lwjvyeF+NHOw0=' within 5 seconds
+Did not receive reply for msg id b'NHNc7tSJcPm9MRz0YEWnXIMFQhc=' within 5 seconds
+2022-02-21 12:25:11,783 - kademlia.protocol - WARNING - no response from 10.0.0.5:1635, removing from router
+2022-02-21 12:25:11,783 - kademlia.protocol - WARNING - no response from 10.0.0.5:1170, removing from router
+2022-02-21 12:25:11,783 - kademlia.protocol - WARNING - no response from 10.0.0.6:8934, removing from router
+Did not receive reply for msg id b'u+7NOm06DPkLlDz4IB0CHEc5v10=' within 5 seconds
+Did not receive reply for msg id b'WFXtwdy2IZJ6r4vHPKxHmhiIYIE=' within 5 seconds
+Did not receive reply for msg id b'7u6b1hco3eUUMZ6BJM+fs9sBWrs=' within 5 seconds
+2022-02-21 12:25:16,792 - kademlia.protocol - WARNING - no response from 10.0.0.5:1403, removing from router
+2022-02-21 12:25:16,792 - kademlia.protocol - WARNING - no response from 10.0.0.5:8788, removing from router
+2022-02-21 12:25:16,792 - kademlia.protocol - WARNING - no response from 10.0.0.7:4302, removing from router
+Did not receive reply for msg id b'Vd5IVj/8KJAZna8Fpltb1QYwkE4=' within 5 seconds
+2022-02-21 12:25:21,797 - kademlia.protocol - WARNING - no response from 10.0.0.7:3325, removing from router
+Not registered for humidity
+Did not receive reply for msg id b'SJh7Or4zPtPbU+XXNoyXjNK+7mg=' within 5 seconds
+Did not receive reply for msg id b'jfVrdFtoS/pqKbtvRxomTE1xnAo=' within 5 seconds
+2022-02-21 12:25:26,865 - kademlia.protocol - WARNING - no response from 10.0.0.4:2239, removing from router
+2022-02-21 12:25:26,865 - kademlia.protocol - WARNING - no response from 10.0.0.5:1635, removing from router
+Did not receive reply for msg id b'8AWfiQSelalNBzZBo5y97q4LSX0=' within 5 seconds
+Did not receive reply for msg id b'JyUKgxhbO5EpAiTOuqHvVt6znVE=' within 5 seconds
+Did not receive reply for msg id b'yhrDrHJHnpoYuROwWzj1/ZM9uzg=' within 5 seconds
+2022-02-21 12:25:31,871 - kademlia.protocol - WARNING - no response from 10.0.0.5:1170, removing from router
+2022-02-21 12:25:31,871 - kademlia.protocol - WARNING - no response from 10.0.0.6:7171, removing from router
+2022-02-21 12:25:31,871 - kademlia.protocol - WARNING - no response from 10.0.0.7:2938, removing from router
+Did not receive reply for msg id b'MZ6ojEV0vCp3MKTIFz0QAb/gM54=' within 5 seconds
+Did not receive reply for msg id b'UTKDIWUTt85rqm7ZDD9jHlhyNR0=' within 5 seconds
+Did not receive reply for msg id b'8vDM0hobYTzN8fuDtxkuXmVbIR0=' within 5 seconds
+2022-02-21 12:25:36,877 - kademlia.protocol - WARNING - no response from 10.0.0.7:1628, removing from router
+2022-02-21 12:25:36,877 - kademlia.protocol - WARNING - no response from 10.0.0.6:4511, removing from router
+2022-02-21 12:25:36,877 - kademlia.protocol - WARNING - no response from 10.0.0.7:7781, removing from router
+Did not receive reply for msg id b'T5xZbKjelTNdh/Mb+LCzjyf5VQI=' within 5 seconds
+Did not receive reply for msg id b'ZALTtf6yoBw0lWMVbibzYsZW/yM=' within 5 seconds
+Did not receive reply for msg id b'E+uhHFi0HsjY6kj9wfYxhG4QCbY=' within 5 seconds
+2022-02-21 12:25:41,884 - kademlia.protocol - WARNING - no response from 10.0.0.6:7181, removing from router
+2022-02-21 12:25:41,884 - kademlia.protocol - WARNING - no response from 10.0.0.8:9166, removing from router
+2022-02-21 12:25:41,884 - kademlia.protocol - WARNING - no response from 10.0.0.5:6875, removing from router
+Did not receive reply for msg id b'2NI320ujofEBd6L1bdH2YicVb4c=' within 5 seconds
+Did not receive reply for msg id b'7Vvvp4siA3p1yJLn7I1c4pOMjZE=' within 5 seconds
+Did not receive reply for msg id b'kNuwCdb/ZPILhEvS+cPqIq9mS14=' within 5 seconds
+2022-02-21 12:25:46,890 - kademlia.protocol - WARNING - no response from 10.0.0.5:9482, removing from router
+2022-02-21 12:25:46,890 - kademlia.protocol - WARNING - no response from 10.0.0.8:1046, removing from router
+2022-02-21 12:25:46,890 - kademlia.protocol - WARNING - no response from 10.0.0.5:3356, removing from router
+Did not receive reply for msg id b'JrrTw3rFQRY/edkfJ/wrQl/qB2c=' within 5 seconds
+Did not receive reply for msg id b'hvhdxm89Qol44dnxji5fuznIp2g=' within 5 seconds
+Did not receive reply for msg id b'+M8iYh/TYJjSEFcZIC1VtpMm1OQ=' within 5 seconds
+2022-02-21 12:25:51,895 - kademlia.protocol - WARNING - no response from 10.0.0.7:7439, removing from router
+2022-02-21 12:25:51,896 - kademlia.protocol - WARNING - no response from 10.0.0.6:8364, removing from router
+2022-02-21 12:25:51,896 - kademlia.protocol - WARNING - no response from 10.0.0.5:8788, removing from router
+Did not receive reply for msg id b'rcccarJq+3Qqon/Fu+KhvFwXcIM=' within 5 seconds
+Did not receive reply for msg id b'xCddtzVGFhliVdN3zXDbRhJeq7Q=' within 5 seconds
+2022-02-21 12:25:56,902 - kademlia.protocol - WARNING - no response from 10.0.0.5:8370, removing from router
+2022-02-21 12:25:56,902 - kademlia.protocol - WARNING - no response from 10.0.0.6:8934, removing from router
+Did not receive reply for msg id b'vyia+mTPIeqFtoPN0HJRfw7Ia+k=' within 5 seconds
+2022-02-21 12:26:01,908 - kademlia.protocol - WARNING - no response from 10.0.0.7:4767, removing from router
+Did not receive reply for msg id b'XfLrARfcYEhdtumzvexrfky3Iuw=' within 5 seconds
+Did not receive reply for msg id b'3u3k1CK18qB+kHHOj4lR6ZsRBVM=' within 5 seconds
+Did not receive reply for msg id b'isa5Zl6J645M4RAYst4+WZx1We4=' within 5 seconds
+2022-02-21 12:26:06,917 - kademlia.protocol - WARNING - no response from 10.0.0.6:7181, removing from router
+2022-02-21 12:26:06,917 - kademlia.protocol - WARNING - no response from 10.0.0.8:9166, removing from router
+2022-02-21 12:26:06,917 - kademlia.protocol - WARNING - no response from 10.0.0.7:7781, removing from router
+Did not receive reply for msg id b'muSVxgxtqvBtcUJDx4/JTuDUhuw=' within 5 seconds
+Did not receive reply for msg id b'RJTgTKR516mpDep9SKvQwOKkssI=' within 5 seconds
+Did not receive reply for msg id b'C06IcJApLN7qeAJVCYZJEYas0h0=' within 5 seconds
+2022-02-21 12:26:11,923 - kademlia.protocol - WARNING - no response from 10.0.0.7:1628, removing from router
+2022-02-21 12:26:11,923 - kademlia.protocol - WARNING - no response from 10.0.0.6:4511, removing from router
+2022-02-21 12:26:11,923 - kademlia.protocol - WARNING - no response from 10.0.0.6:8364, removing from router
+Did not receive reply for msg id b'pAw+Bk+3VHM/KPUsQSGlfFYITXg=' within 5 seconds
+Did not receive reply for msg id b'7mjCNV1UhqxgWz4O4boCvffAaBM=' within 5 seconds
+Did not receive reply for msg id b'iPcTGtuBn9BAcW1xsw9/Tg8ASW4=' within 5 seconds
+2022-02-21 12:26:16,928 - kademlia.protocol - WARNING - no response from 10.0.0.7:7439, removing from router
+2022-02-21 12:26:16,928 - kademlia.protocol - WARNING - no response from 10.0.0.5:6875, removing from router
+2022-02-21 12:26:16,928 - kademlia.protocol - WARNING - no response from 10.0.0.8:1046, removing from router
+Did not receive reply for msg id b'8A8k1tHSLV10UUKcy8y+PUtydS8=' within 5 seconds
+Did not receive reply for msg id b'vrG/iDjF5bzCcn/9Bx8ppLvgNmg=' within 5 seconds
+Did not receive reply for msg id b'z0MABWFP6t+cpxuz/ADBYrwNfTU=' within 5 seconds
+2022-02-21 12:26:21,934 - kademlia.protocol - WARNING - no response from 10.0.0.5:3356, removing from router
+2022-02-21 12:26:21,934 - kademlia.protocol - WARNING - no response from 10.0.0.5:9482, removing from router
+2022-02-21 12:26:21,935 - kademlia.protocol - WARNING - no response from 10.0.0.4:2239, removing from router
+Did not receive reply for msg id b'1+UoLsoRV+UyvWP9M0zjAuwxRkg=' within 5 seconds
+Did not receive reply for msg id b'UwJqSb8cZlgUq5ByXCun91uIHoQ=' within 5 seconds
+Did not receive reply for msg id b'4+utKALx6EZDfSNV4x5v14Wf4uA=' within 5 seconds
+2022-02-21 12:26:26,941 - kademlia.protocol - WARNING - no response from 10.0.0.6:7171, removing from router
+2022-02-21 12:26:26,941 - kademlia.protocol - WARNING - no response from 10.0.0.7:2938, removing from router
+2022-02-21 12:26:26,941 - kademlia.protocol - WARNING - no response from 10.0.0.5:1635, removing from router
+Did not receive reply for msg id b'teH0zFZSkQPAGC+H2ZCHt+6phy0=' within 5 seconds
+Did not receive reply for msg id b'Xe2jDJlpH6I+mpdV7kH6mIYJTYk=' within 5 seconds
+Did not receive reply for msg id b'UK8FDDNx+9ACo5wG9f7nzw7pQ1U=' within 5 seconds
+2022-02-21 12:26:31,946 - kademlia.protocol - WARNING - no response from 10.0.0.5:1170, removing from router
+2022-02-21 12:26:31,947 - kademlia.protocol - WARNING - no response from 10.0.0.7:4767, removing from router
+2022-02-21 12:26:31,947 - kademlia.protocol - WARNING - no response from 10.0.0.6:8934, removing from router
+Did not receive reply for msg id b'Tg9tPM85ufPMfS7rIrAmz2c8p+0=' within 5 seconds
+Did not receive reply for msg id b'X4iJsaLyFl3vwzB11+/8zsgf2Ao=' within 5 seconds
+2022-02-21 12:26:36,952 - kademlia.protocol - WARNING - no response from 10.0.0.5:8370, removing from router
+2022-02-21 12:26:36,952 - kademlia.protocol - WARNING - no response from 10.0.0.5:3009, removing from router
+Did not receive reply for msg id b'EmrZSSvEBs+Hp/utERQcnzzZHPo=' within 5 seconds
+Did not receive reply for msg id b'9SyG7TDx9uCXfBZeuaEBgWJRi3I=' within 5 seconds
+Did not receive reply for msg id b'gwEfHEnNupE/7eS/uaF1LLl1xPA=' within 5 seconds
+2022-02-21 12:26:42,008 - kademlia.protocol - WARNING - no response from 10.0.0.6:4729, removing from router
+2022-02-21 12:26:42,008 - kademlia.protocol - WARNING - no response from 10.0.0.8:3411, removing from router
+2022-02-21 12:26:42,008 - kademlia.protocol - WARNING - no response from 10.0.0.5:8788, removing from router
+Did not receive reply for msg id b'RI/V7FOmBL7y+BuRnrMgnMWTQOE=' within 5 seconds
+Did not receive reply for msg id b'ML90jeAQXh5KXZfjWOu2ye/JNy4=' within 5 seconds
+Did not receive reply for msg id b'vQ9duM5s2IROOtJJtRSXaakFJAc=' within 5 seconds
+2022-02-21 12:26:47,013 - kademlia.protocol - WARNING - no response from 10.0.0.6:1498, removing from router
+2022-02-21 12:26:47,014 - kademlia.protocol - WARNING - no response from 10.0.0.5:1403, removing from router
+2022-02-21 12:26:47,014 - kademlia.protocol - WARNING - no response from 10.0.0.7:4302, removing from router
+Did not receive reply for msg id b'5sgbVoX3ADRSDVIQN7uOZRjBxW0=' within 5 seconds
+Did not receive reply for msg id b'MPnhp1/OOwRYqGeE+j7v5+BjkwY=' within 5 seconds
+Did not receive reply for msg id b'iqVo6Qsqmb5pN4q+F1+LOjCyNYA=' within 5 seconds
+2022-02-21 12:26:52,019 - kademlia.protocol - WARNING - no response from 10.0.0.7:5334, removing from router
+2022-02-21 12:26:52,019 - kademlia.protocol - WARNING - no response from 10.0.0.7:3325, removing from router
+2022-02-21 12:26:52,019 - kademlia.protocol - WARNING - no response from 10.0.0.5:3009, removing from router
+Did not receive reply for msg id b'nWIKKFEhZClvmY8G3uhN1tzx+ZY=' within 5 seconds
+Did not receive reply for msg id b'WJanI0A6BELRPgYg6jRAvc/miz8=' within 5 seconds
+Did not receive reply for msg id b'RY88R4iBKmowDyleX9oYTRauRJc=' within 5 seconds
+2022-02-21 12:26:57,025 - kademlia.protocol - WARNING - no response from 10.0.0.5:8370, removing from router
+2022-02-21 12:26:57,025 - kademlia.protocol - WARNING - no response from 10.0.0.6:8934, removing from router
+2022-02-21 12:26:57,026 - kademlia.protocol - WARNING - no response from 10.0.0.7:9787, removing from router
+Did not receive reply for msg id b'AjnVR+7sXRFbCP9dxktjjiCSv2g=' within 5 seconds
+Did not receive reply for msg id b'rlAsXwQUI7p1bm76nelZsAStoO0=' within 5 seconds
+2022-02-21 12:27:02,032 - kademlia.protocol - WARNING - no response from 10.0.0.7:4767, removing from router
+2022-02-21 12:27:02,032 - kademlia.protocol - WARNING - no response from 10.0.0.6:6010, removing from router
+Did not receive reply for msg id b'LZxerYFXd3nQGFnm9f9LgGKjFeg=' within 5 seconds
+Did not receive reply for msg id b'3dUo4cf9fiUBJ9SIkb9HtZRts1g=' within 5 seconds
+2022-02-21 12:27:07,038 - kademlia.protocol - WARNING - no response from 10.0.0.7:8986, removing from router
+2022-02-21 12:27:07,038 - kademlia.protocol - WARNING - no response from 10.0.0.5:1170, removing from router
+Did not receive reply for msg id b'+yWivwEo8cZxCZkwt/TvaUcVVXw=' within 5 seconds
+Did not receive reply for msg id b'EICKMMyIgdaCmytv0khJzaaOykI=' within 5 seconds
+2022-02-21 12:27:12,044 - kademlia.protocol - WARNING - no response from 10.0.0.7:1628, removing from router
+2022-02-21 12:27:12,044 - kademlia.protocol - WARNING - no response from 10.0.0.5:3356, removing from router
+Did not receive reply for msg id b'm1w1GyrFDiyjBMH0cFWhnX8dzZo=' within 5 seconds
+Did not receive reply for msg id b'8BGdxHMEIL06TX7o+vb9KipQqio=' within 5 seconds
+Did not receive reply for msg id b'U1nXmUqJngausptbolNxqZYDW3g=' within 5 seconds
+2022-02-21 12:27:17,052 - kademlia.protocol - WARNING - no response from 10.0.0.6:7181, removing from router
+2022-02-21 12:27:17,052 - kademlia.protocol - WARNING - no response from 10.0.0.8:9166, removing from router
+2022-02-21 12:27:17,052 - kademlia.protocol - WARNING - no response from 10.0.0.7:7781, removing from router
+Did not receive reply for msg id b'sYpOxyuH+p7FgahqXxoUlLjMbBA=' within 5 seconds
+Did not receive reply for msg id b'/GBbqzKL3wH+j5rMB+Z5RWvhcpc=' within 5 seconds
+Did not receive reply for msg id b'ybzBJZmnHbpNKEh8/C6pe5eP93I=' within 5 seconds
+2022-02-21 12:27:22,058 - kademlia.protocol - WARNING - no response from 10.0.0.7:1628, removing from router
+2022-02-21 12:27:22,058 - kademlia.protocol - WARNING - no response from 10.0.0.6:4511, removing from router
+2022-02-21 12:27:22,058 - kademlia.protocol - WARNING - no response from 10.0.0.6:8364, removing from router
+Did not receive reply for msg id b'NISfv2AeatxMdOL0sCS0OtkFwOE=' within 5 seconds
+Did not receive reply for msg id b'v6BkKOiu5VaAjzbDTaVkXFv//kY=' within 5 seconds
+Did not receive reply for msg id b'aS7nhlAM/EMpQghRVjG4881M0Xg=' within 5 seconds
+2022-02-21 12:27:27,064 - kademlia.protocol - WARNING - no response from 10.0.0.7:7439, removing from router
+2022-02-21 12:27:27,064 - kademlia.protocol - WARNING - no response from 10.0.0.5:6875, removing from router
+2022-02-21 12:27:27,064 - kademlia.protocol - WARNING - no response from 10.0.0.8:1046, removing from router
+Did not receive reply for msg id b'4GeGBkC6GyMM2nbfj2a7Ts0KqB8=' within 5 seconds
+Did not receive reply for msg id b'Q4FFOB3RZssVonx9RPj7LYTakUY=' within 5 seconds
+Did not receive reply for msg id b'kKoblmVXgvGiGzVL+2cGrg2NKUE=' within 5 seconds
+2022-02-21 12:27:32,070 - kademlia.protocol - WARNING - no response from 10.0.0.5:3356, removing from router
+2022-02-21 12:27:32,070 - kademlia.protocol - WARNING - no response from 10.0.0.5:9482, removing from router
+2022-02-21 12:27:32,070 - kademlia.protocol - WARNING - no response from 10.0.0.7:8986, removing from router
+Did not receive reply for msg id b'BCvADSd8Fo1S4ohNTxyt76MiQ1Q=' within 5 seconds
+Did not receive reply for msg id b'admZE7hSUTHdt9Gcjmu0UyrNrsc=' within 5 seconds
+Did not receive reply for msg id b'Axtb/v3O8sF0MHtqzABoUqMK0AQ=' within 5 seconds
+2022-02-21 12:27:37,076 - kademlia.protocol - WARNING - no response from 10.0.0.4:2239, removing from router
+2022-02-21 12:27:37,076 - kademlia.protocol - WARNING - no response from 10.0.0.6:7171, removing from router
+2022-02-21 12:27:37,076 - kademlia.protocol - WARNING - no response from 10.0.0.7:2938, removing from router
+Did not receive reply for msg id b'olGNIwiJujR8+jlWYOJei3WzvXY=' within 5 seconds
+Did not receive reply for msg id b'Cygby/G2XPX0KDARfOypKpICd9A=' within 5 seconds
+2022-02-21 12:27:42,081 - kademlia.protocol - WARNING - no response from 10.0.0.5:1635, removing from router
+2022-02-21 12:27:42,081 - kademlia.protocol - WARNING - no response from 10.0.0.5:1170, removing from router
+Did not receive reply for msg id b'fPqwZVOo3shM4t1LB+D7DvyBu74=' within 5 seconds
+2022-02-21 12:27:47,087 - kademlia.protocol - WARNING - no response from 10.0.0.5:3009, removing from router
+Did not receive reply for msg id b'0G4pOQrFBOc9GB9efVUoiFGmj/4=' within 5 seconds
+Did not receive reply for msg id b'Y4vRWIctGobv4b9JRcnn39hpWS0=' within 5 seconds
+Did not receive reply for msg id b'MwHsx8Xkqis/nMggJbrw4IXUMLk=' within 5 seconds
+Did not receive reply for msg id b'r+bgS+ictV0uqgr3L0tly/IygDM=' within 5 seconds
+Did not receive reply for msg id b'Y5OrrP3Us4GJlgYPQzNmg/xZyMA=' within 5 seconds
+Did not receive reply for msg id b'VRZNeGVTxTyDQXfxPuS9ygThnAM=' within 5 seconds
+Did not receive reply for msg id b'p3crRKfgN2/o1XlOJu61Ih3AmEA=' within 5 seconds
+Did not receive reply for msg id b'f4O5uc4ZDAS5XPNKKO2Y7FlCd3k=' within 5 seconds
+Did not receive reply for msg id b'xYYLOS9Uf0bWR0wb+QoPiaQ1R6c=' within 5 seconds
+Did not receive reply for msg id b'UG7Xxxmvo2NUCB+JktM5pdKpk/w=' within 5 seconds
+Did not receive reply for msg id b'+lzhVNzh33JTX4ExMLKJ5EJ2QzY=' within 5 seconds
+Did not receive reply for msg id b'Pu78F7oEKC/naU7j2IQ4otLS0Y8=' within 5 seconds
+Did not receive reply for msg id b'xS2lzvDow5yTvKE2IJrnBUye25w=' within 5 seconds
+Did not receive reply for msg id b'b6vPo7W+dO8mFDyO4Up2eM7/IZw=' within 5 seconds
+Did not receive reply for msg id b'yPGzUJ8arlCAVAPPPPkOAJdc/Jc=' within 5 seconds
+Did not receive reply for msg id b'F4L1NrmasEOqfzJtC5Tr9MnyUwE=' within 5 seconds
+2022-02-21 12:27:52,101 - kademlia.protocol - WARNING - no response from 10.0.0.6:7181, removing from router
+2022-02-21 12:27:52,101 - kademlia.protocol - WARNING - no response from 10.0.0.8:9166, removing from router
+2022-02-21 12:27:52,101 - kademlia.protocol - WARNING - no response from 10.0.0.7:7781, removing from router
+2022-02-21 12:27:52,101 - kademlia.protocol - WARNING - no response from 10.0.0.7:1628, removing from router
+2022-02-21 12:27:52,101 - kademlia.protocol - WARNING - no response from 10.0.0.6:4511, removing from router
+2022-02-21 12:27:52,101 - kademlia.protocol - WARNING - no response from 10.0.0.6:8364, removing from router
+2022-02-21 12:27:52,101 - kademlia.protocol - WARNING - no response from 10.0.0.7:7439, removing from router
+2022-02-21 12:27:52,102 - kademlia.protocol - WARNING - no response from 10.0.0.5:6875, removing from router
+2022-02-21 12:27:52,102 - kademlia.protocol - WARNING - no response from 10.0.0.8:1046, removing from router
+2022-02-21 12:27:52,102 - kademlia.protocol - WARNING - no response from 10.0.0.5:3356, removing from router
+2022-02-21 12:27:52,102 - kademlia.protocol - WARNING - no response from 10.0.0.5:9482, removing from router
+2022-02-21 12:27:52,102 - kademlia.protocol - WARNING - no response from 10.0.0.5:5845, removing from router
+2022-02-21 12:27:52,102 - kademlia.protocol - WARNING - no response from 10.0.0.7:8986, removing from router
+2022-02-21 12:27:52,102 - kademlia.protocol - WARNING - no response from 10.0.0.4:2239, removing from router
+2022-02-21 12:27:52,102 - kademlia.protocol - WARNING - no response from 10.0.0.6:7171, removing from router
+2022-02-21 12:27:52,102 - kademlia.protocol - WARNING - no response from 10.0.0.7:2938, removing from router
+Main: parse command line arguments
+Main: Instantiate the Kademlia DHT object
+Main: Initialize the Kademlia DHT object
+Kademlia_DHT::initialize - My port = 6990, Bootstrap port = 8468, Bootstrap IP Addr = 10.0.0.1
+Main: Bootstrap and set key-val
+Did not receive reply for msg id b'TU97Cg82FK+LLc62LhYo4g2TUQs=' within 5 seconds
+Did not receive reply for msg id b'+Rz8zuKT1Nrrk776KUafn0bulYY=' within 5 seconds
+Did not receive reply for msg id b'Ln6xmu2QlB7QIUPsQhrrMEarwWw=' within 5 seconds
+2022-02-21 12:28:02,168 - kademlia.protocol - WARNING - no response from 10.0.0.7:5334, removing from router
+2022-02-21 12:28:02,168 - kademlia.protocol - WARNING - no response from 10.0.0.7:3325, removing from router
+2022-02-21 12:28:02,168 - kademlia.protocol - WARNING - no response from 10.0.0.7:4302, removing from router
+Did not receive reply for msg id b'BcGtYxrCJufRinvicHgjyiNoK8Q=' within 5 seconds
+Did not receive reply for msg id b'L0/+vOhF03a/UqiH7SwXU/sy2Lk=' within 5 seconds
+Did not receive reply for msg id b'xWmKkvhllV21Bp2cq6wgSm599Ng=' within 5 seconds
+2022-02-21 12:28:07,174 - kademlia.protocol - WARNING - no response from 10.0.0.5:3009, removing from router
+2022-02-21 12:28:07,174 - kademlia.protocol - WARNING - no response from 10.0.0.7:6990, removing from router
+2022-02-21 12:28:07,174 - kademlia.protocol - WARNING - no response from 10.0.0.6:4729, removing from router
+Did not receive reply for msg id b'9nKTnP+mfas8Rs3NqU/1THpRKMo=' within 5 seconds
+Did not receive reply for msg id b'TGfIl5cXEtX7IQ18O4Ysy+MaOGU=' within 5 seconds
+Did not receive reply for msg id b'yCIaZK43SDD2PzDeOINDfcDmykg=' within 5 seconds
+2022-02-21 12:28:12,180 - kademlia.protocol - WARNING - no response from 10.0.0.5:8788, removing from router
+2022-02-21 12:28:12,180 - kademlia.protocol - WARNING - no response from 10.0.0.8:3411, removing from router
+2022-02-21 12:28:12,180 - kademlia.protocol - WARNING - no response from 10.0.0.6:1498, removing from router
+Did not receive reply for msg id b'Ogzt0OXwi0Qml8E553Rv9FHp7Tw=' within 5 seconds
+Did not receive reply for msg id b'mD3IcY+pQW922cO14iWFu80OTyo=' within 5 seconds
+Did not receive reply for msg id b'OK6wP0zihvQhOF9+Kzv+mHWyXQ8=' within 5 seconds
+2022-02-21 12:28:17,186 - kademlia.protocol - WARNING - no response from 10.0.0.5:1403, removing from router
+2022-02-21 12:28:17,186 - kademlia.protocol - WARNING - no response from 10.0.0.5:8370, removing from router
+2022-02-21 12:28:17,186 - kademlia.protocol - WARNING - no response from 10.0.0.6:8934, removing from router
+Did not receive reply for msg id b'tWiR/pdOHkr53qNt5jVGgsB1lrA=' within 5 seconds
+Did not receive reply for msg id b'Kz69pwhTuaSY+s2Bh49nCeqeexs=' within 5 seconds
+2022-02-21 12:28:22,193 - kademlia.protocol - WARNING - no response from 10.0.0.6:6010, removing from router
+2022-02-21 12:28:22,193 - kademlia.protocol - WARNING - no response from 10.0.0.7:9787, removing from router
+Did not receive reply for msg id b'6CT/+i1plpLqZbKmCcBFRC8UORY=' within 5 seconds
+Did not receive reply for msg id b'Ivhs/fSFg6c7drVw4+3xEEEcdyw=' within 5 seconds
+2022-02-21 12:28:27,198 - kademlia.protocol - WARNING - no response from 10.0.0.7:4767, removing from router
+2022-02-21 12:28:27,198 - kademlia.protocol - WARNING - no response from 10.0.0.7:8986, removing from router
+Did not receive reply for msg id b'q6KZnaizOUjj+Hunpaqmf4lDQBo=' within 5 seconds
+Did not receive reply for msg id b'HNK82VtTKvb5HC39os2ueCc1yWQ=' within 5 seconds
+2022-02-21 12:28:32,204 - kademlia.protocol - WARNING - no response from 10.0.0.5:5845, removing from router
+2022-02-21 12:28:32,204 - kademlia.protocol - WARNING - no response from 10.0.0.7:7439, removing from router
+Did not receive reply for msg id b'2tiJcVdcnVtOVWfMnAZSug7DSY0=' within 5 seconds
+2022-02-21 12:28:37,210 - kademlia.protocol - WARNING - no response from 10.0.0.5:1170, removing from router
+registered for humidity
+Publishing~pressure 10.0.0.7~1645464517.2219582
+Publishing~pressure 10.0.0.7~1645464519.2241027
+Publishing~humidity 10.0.0.7~1645464521.226228
+Publishing~humidity 10.0.0.7~1645464523.2283638
+Publishing~sound 10.0.0.7~1645464525.2304862
+Publishing~pressure 10.0.0.7~1645464527.2327905
+Publishing~humidity 10.0.0.7~1645464529.234918
+Publishing~pressure 10.0.0.7~1645464531.2370455
+Publishing~humidity 10.0.0.7~1645464533.2391956
+Publishing~pressure 10.0.0.7~1645464535.24134
+Publishing~sound 10.0.0.7~1645464537.2436204
+Publishing~sound 10.0.0.7~1645464539.245743
+Publishing~pressure 10.0.0.7~1645464541.247838
+Publishing~pressure 10.0.0.7~1645464543.2499683
+Publishing~humidity 10.0.0.7~1645464545.252082
+Publishing~humidity 10.0.0.7~1645464547.2542
+Publishing~humidity 10.0.0.7~1645464549.2563324
+Publishing~pressure 10.0.0.7~1645464551.2584348
+Publishing~pressure 10.0.0.7~1645464553.2605355
+Publishing~humidity 10.0.0.7~1645464555.2626593
+Publishing~sound 10.0.0.7~1645464557.2647564
+Publishing~pressure 10.0.0.7~1645464559.2668464
+Publishing~sound 10.0.0.7~1645464561.2689512
+Publishing~humidity 10.0.0.7~1645464563.2710826
+Publishing~sound 10.0.0.7~1645464565.273202
+Publishing~sound 10.0.0.7~1645464567.2753165
+Publishing~humidity 10.0.0.7~1645464569.2774527
+Publishing~humidity 10.0.0.7~1645464571.2795687
+Publishing~humidity 10.0.0.7~1645464573.281678
+Publishing~pressure 10.0.0.7~1645464575.2838144
+Publishing~pressure 10.0.0.7~1645464577.285958
+Publishing~sound 10.0.0.7~1645464579.2880933
+Publishing~humidity 10.0.0.7~1645464581.290222
+Publishing~humidity 10.0.0.7~1645464583.2923071
+Publishing~pressure 10.0.0.7~1645464585.2944143
+Publishing~sound 10.0.0.7~1645464587.296528
+Publishing~pressure 10.0.0.7~1645464589.2986138
+Publishing~pressure 10.0.0.7~1645464591.3007295
+Publishing~sound 10.0.0.7~1645464593.3028543
+Publishing~sound 10.0.0.7~1645464595.3049605
+Publishing~sound 10.0.0.7~1645464597.3070855
+Publishing~humidity 10.0.0.7~1645464599.3091984
+Publishing~pressure 10.0.0.7~1645464601.311321
+Publishing~humidity 10.0.0.7~1645464603.3134344
+Publishing~sound 10.0.0.7~1645464605.3155582
+Publishing~pressure 10.0.0.7~1645464607.317671
+Publishing~humidity 10.0.0.7~1645464609.3197906
+Publishing~pressure 10.0.0.7~1645464611.3218775
+Publishing~humidity 10.0.0.7~1645464613.323963
+Publishing~humidity 10.0.0.7~1645464615.3260663
+Publishing~pressure 10.0.0.7~1645464617.3281906
+Publishing~sound 10.0.0.7~1645464619.3302765
+Publishing~sound 10.0.0.7~1645464621.3323941
+Publishing~sound 10.0.0.7~1645464623.3345275
+Publishing~humidity 10.0.0.7~1645464625.3366282
+Publishing~sound 10.0.0.7~1645464627.3387427
+Publishing~humidity 10.0.0.7~1645464629.3408284
+Publishing~sound 10.0.0.7~1645464631.3429337
+Publishing~sound 10.0.0.7~1645464633.34506
+Publishing~sound 10.0.0.7~1645464635.347162
+Publishing~humidity 10.0.0.7~1645464637.3493059
+Publishing~humidity 10.0.0.7~1645464639.3514721
+Publishing~sound 10.0.0.7~1645464641.3535614
+Publishing~pressure 10.0.0.7~1645464643.3556726
+Publishing~pressure 10.0.0.7~1645464645.3578448
+Publishing~sound 10.0.0.7~1645464647.3600082
+Publishing~humidity 10.0.0.7~1645464649.3621519
+Publishing~sound 10.0.0.7~1645464651.3634367
+Publishing~sound 10.0.0.7~1645464653.3650796
+Publishing~humidity 10.0.0.7~1645464655.3672059
+Publishing~humidity 10.0.0.7~1645464657.367423
+Publishing~pressure 10.0.0.7~1645464659.3695545

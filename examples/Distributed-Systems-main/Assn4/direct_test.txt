@@ -1,0 +1,5 @@
+h1 rm output_files/*; python3 clear_zk_server.py
+h2 sleep 3; python3 -u pubapp.py direct 10.0.0.1 2181 5200 20 &> output_files/pubproxy_1.out &
+h3 sleep 3; python3 -u pubapp.py direct 10.0.0.1 2181 5300 10 &> output_files/pubproxy_2.out &
+h4 sleep 3; python3 -u pubapp.py direct 10.0.0.1 2181 5400 10 &> output_files/pubproxy_3.out &
+h5 sleep 3; python3 -u subapp.py direct 10.0.0.1 2181 pressure 20 &> output_files/subproxy_1.out &

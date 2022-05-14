@@ -1,0 +1,15 @@
+Did not receive reply for msg id b'yTNWuJ53UoWlZB/Di5H2ml+9fjs=' within 5 seconds
+2022-02-21 13:13:57,495 - kademlia.protocol - WARNING - no response from 10.0.0.4:3283, removing from router
+Did not receive reply for msg id b'b2KGxK1JPUugPQAE4wAxH4opORk=' within 5 seconds
+2022-02-21 13:14:02,503 - kademlia.protocol - WARNING - no response from 10.0.0.7:6600, removing from router
+Did not receive reply for msg id b'wDyphaTUDx7A5xA0GyIDMYdjfyo=' within 5 seconds
+2022-02-21 13:14:07,507 - kademlia.protocol - WARNING - no response from 10.0.0.5:7017, removing from router
+Recieved-pressure 10.0.0.5-1645467252.4625745
+Recieved-pressure 10.0.0.5-1645467254.4650865
+Recieved-pressure 10.0.0.5-1645467256.4675994
+Recieved-pressure 10.0.0.5-1645467260.4720023
+Recieved-pressure 10.0.0.5-1645467264.4771821
+Recieved-pressure 10.0.0.5-1645467276.4894044
+Recieved-pressure 10.0.0.5-1645467308.5235014
+Recieved-pressure 10.0.0.5-1645467314.5311177
+Recieved-pressure 10.0.0.5-1645467328.5467162

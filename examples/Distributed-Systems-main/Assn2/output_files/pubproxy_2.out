@@ -1,0 +1,516 @@
+['airquality', 'pressure']
+Not registered for airquality
+Did not receive reply for msg id b'y2J998vbYAphDl+QX55qFto/yA4=' within 5 seconds
+2022-02-21 12:18:40,909 - kademlia.protocol - WARNING - no response from 10.0.0.6:4511, removing from router
+Did not receive reply for msg id b'7EiMbpNDBSguHahJ2e5FFmJNN8w=' within 5 seconds
+2022-02-21 12:18:45,912 - kademlia.protocol - WARNING - no response from 10.0.0.6:4511, removing from router
+Did not receive reply for msg id b'35WkZGS4hMn/+GwTBeusq63p9c8=' within 5 seconds
+2022-02-21 12:18:50,913 - kademlia.protocol - WARNING - no response from 10.0.0.7:9787, removing from router
+Did not receive reply for msg id b'Rz7AxakTfqsUgM7DB4DzkUIfOnE=' within 5 seconds
+Did not receive reply for msg id b'ACq593bRopns3jaYPFsLT7nFAMc=' within 5 seconds
+2022-02-21 12:18:55,967 - kademlia.protocol - WARNING - no response from 10.0.0.6:4511, removing from router
+2022-02-21 12:18:55,968 - kademlia.protocol - WARNING - no response from 10.0.0.5:9482, removing from router
+Did not receive reply for msg id b'u/13pS6VveGmvAn5ps+1VfDxNxE=' within 5 seconds
+Did not receive reply for msg id b'r7lVCqlI4h+2vOOIAkQTCp5l3qI=' within 5 seconds
+2022-02-21 12:19:00,970 - kademlia.protocol - WARNING - no response from 10.0.0.4:2239, removing from router
+2022-02-21 12:19:00,970 - kademlia.protocol - WARNING - no response from 10.0.0.7:9787, removing from router
+Did not receive reply for msg id b'r0soqV9ZSDrEa7vsS1JOyC8hC8A=' within 5 seconds
+2022-02-21 12:19:05,976 - kademlia.protocol - WARNING - no response from 10.0.0.6:4729, removing from router
+Did not receive reply for msg id b'R6bbHSwQlBfIJGLIFpbQGJ6q4uo=' within 5 seconds
+2022-02-21 12:19:10,978 - kademlia.protocol - WARNING - no response from 10.0.0.8:1046, removing from router
+Did not receive reply for msg id b'QSPiVl+R0nu4ly69pfb8QfX+pTM=' within 5 seconds
+Did not receive reply for msg id b'Srlg+JnMUbuj76Q3RZwJiqRRVUs=' within 5 seconds
+Did not receive reply for msg id b'RvAUkAdyahHSBxEwRpeR3io7ZUA=' within 5 seconds
+2022-02-21 12:19:15,981 - kademlia.protocol - WARNING - no response from 10.0.0.4:2239, removing from router
+2022-02-21 12:19:15,981 - kademlia.protocol - WARNING - no response from 10.0.0.5:9482, removing from router
+2022-02-21 12:19:15,981 - kademlia.protocol - WARNING - no response from 10.0.0.5:6875, removing from router
+Did not receive reply for msg id b'rnbDibtWi79uNiDBhgiSExRJHr4=' within 5 seconds
+Did not receive reply for msg id b'MAKl8ixNws+HU78P7c3x37zqsOE=' within 5 seconds
+2022-02-21 12:19:20,982 - kademlia.protocol - WARNING - no response from 10.0.0.7:7781, removing from router
+2022-02-21 12:19:20,982 - kademlia.protocol - WARNING - no response from 10.0.0.6:4511, removing from router
+Did not receive reply for msg id b'PzBN7puZbfWbkx5nuuIFv2eKNtc=' within 5 seconds
+Did not receive reply for msg id b'xNQJsEM0yE1o7Y6O8HFCQDWAw8Q=' within 5 seconds
+2022-02-21 12:19:25,988 - kademlia.protocol - WARNING - no response from 10.0.0.6:4729, removing from router
+2022-02-21 12:19:25,988 - kademlia.protocol - WARNING - no response from 10.0.0.7:9787, removing from router
+Did not receive reply for msg id b'V90favC4a1gscthsuXEXNvdqPZU=' within 5 seconds
+Did not receive reply for msg id b'SlYAfp1DFyFoyBZSc3JkoT9lS2Q=' within 5 seconds
+Did not receive reply for msg id b'Fq7qjkaGcephdWVlUoc6QL47Ei4=' within 5 seconds
+Did not receive reply for msg id b'KGpLsRicVCQ1PKOuapZWx7zP8Sc=' within 5 seconds
+Did not receive reply for msg id b'A+X5Z1LdTRLMEmQ+mxr7ubpQcg4=' within 5 seconds
+Did not receive reply for msg id b'eHjelyeG+PqsdOTgHeuPjlsgogs=' within 5 seconds
+2022-02-21 12:19:30,991 - kademlia.protocol - WARNING - no response from 10.0.0.4:2239, removing from router
+2022-02-21 12:19:30,991 - kademlia.protocol - WARNING - no response from 10.0.0.8:1046, removing from router
+2022-02-21 12:19:30,991 - kademlia.protocol - WARNING - no response from 10.0.0.5:9482, removing from router
+2022-02-21 12:19:30,991 - kademlia.protocol - WARNING - no response from 10.0.0.5:6875, removing from router
+2022-02-21 12:19:30,991 - kademlia.protocol - WARNING - no response from 10.0.0.7:7781, removing from router
+2022-02-21 12:19:30,991 - kademlia.protocol - WARNING - no response from 10.0.0.6:4511, removing from router
+Main: parse command line arguments
+Main: Instantiate the Kademlia DHT object
+Main: Initialize the Kademlia DHT object
+Kademlia_DHT::initialize - My port = 7181, Bootstrap port = 8468, Bootstrap IP Addr = 10.0.0.1
+Main: Bootstrap and set key-val
+Did not receive reply for msg id b'6MNSwtI7pD791UmHQRC9LdWuGLQ=' within 5 seconds
+Did not receive reply for msg id b'5uPYIVW96z/i6yfuCFYcC5d9r6w=' within 5 seconds
+Did not receive reply for msg id b'xT/i9Bf2auiOhp3sgGzzNUI+QBY=' within 5 seconds
+Did not receive reply for msg id b'9WksyLlipZrA9s3z+gFziWrkVSQ=' within 5 seconds
+Did not receive reply for msg id b'hqJ7sZ6fdlmZOyK3kmKdx4LxWk8=' within 5 seconds
+Did not receive reply for msg id b'/ZtMJDcxtoiK/ihJGgyWzT0w64o=' within 5 seconds
+Did not receive reply for msg id b'rFkoxXXYp/Yp0z51HMYE/3vY560=' within 5 seconds
+Did not receive reply for msg id b'/mL4dcgM7G/aVwfj1Qdwp4Y4l64=' within 5 seconds
+Did not receive reply for msg id b'AqqoeavI4xdV7FOKEN+f5oujXrg=' within 5 seconds
+2022-02-21 12:19:38,053 - kademlia.protocol - WARNING - no response from 10.0.0.4:2239, removing from router
+2022-02-21 12:19:38,053 - kademlia.protocol - WARNING - no response from 10.0.0.5:6875, removing from router
+2022-02-21 12:19:38,054 - kademlia.protocol - WARNING - no response from 10.0.0.5:9482, removing from router
+2022-02-21 12:19:38,054 - kademlia.protocol - WARNING - no response from 10.0.0.8:1046, removing from router
+2022-02-21 12:19:38,054 - kademlia.protocol - WARNING - no response from 10.0.0.6:7181, removing from router
+2022-02-21 12:19:38,054 - kademlia.protocol - WARNING - no response from 10.0.0.6:4511, removing from router
+2022-02-21 12:19:38,054 - kademlia.protocol - WARNING - no response from 10.0.0.7:7781, removing from router
+2022-02-21 12:19:38,054 - kademlia.protocol - WARNING - no response from 10.0.0.6:4729, removing from router
+2022-02-21 12:19:38,054 - kademlia.protocol - WARNING - no response from 10.0.0.7:9787, removing from router
+registered for airquality
+Did not receive reply for msg id b'UzjzhQ7qE7FEhDNuq/btVEpFX+k=' within 5 seconds
+Did not receive reply for msg id b'W0aSJdkCKK5Afhc0hetMz5yocRY=' within 5 seconds
+Did not receive reply for msg id b'8isH1hjLm0wTRFJoXkt19d87j38=' within 5 seconds
+2022-02-21 12:19:43,111 - kademlia.protocol - WARNING - no response from 10.0.0.5:9482, removing from router
+2022-02-21 12:19:43,111 - kademlia.protocol - WARNING - no response from 10.0.0.8:1046, removing from router
+2022-02-21 12:19:43,111 - kademlia.protocol - WARNING - no response from 10.0.0.5:6875, removing from router
+Did not receive reply for msg id b'BTDlFC2U4sg5rj15XYz9TdXZ2qM=' within 5 seconds
+Did not receive reply for msg id b'zC+8M5j3bmeYo1OI06BWYW1j2Qc=' within 5 seconds
+2022-02-21 12:19:48,117 - kademlia.protocol - WARNING - no response from 10.0.0.6:7181, removing from router
+2022-02-21 12:19:48,117 - kademlia.protocol - WARNING - no response from 10.0.0.7:7781, removing from router
+Did not receive reply for msg id b'W6T1Jq7ECoRUtw3VGJXggPa2a48=' within 5 seconds
+Did not receive reply for msg id b'kpJogTqzdTJtSN0sCj0m6UcV8Kw=' within 5 seconds
+2022-02-21 12:19:53,120 - kademlia.protocol - WARNING - no response from 10.0.0.6:4511, removing from router
+2022-02-21 12:19:53,120 - kademlia.protocol - WARNING - no response from 10.0.0.6:7171, removing from router
+Did not receive reply for msg id b'jv0KNNMXDYm0Sxbsio7uDW+zYuo=' within 5 seconds
+2022-02-21 12:19:58,124 - kademlia.protocol - WARNING - no response from 10.0.0.4:2239, removing from router
+Did not receive reply for msg id b'kpgnyAmSxJ2ck7FhRPCXY1xWml0=' within 5 seconds
+2022-02-21 12:20:03,127 - kademlia.protocol - WARNING - no response from 10.0.0.7:9787, removing from router
+Did not receive reply for msg id b'zIPgbsA74N2VF1QKMeDrBiUQECQ=' within 5 seconds
+2022-02-21 12:20:08,130 - kademlia.protocol - WARNING - no response from 10.0.0.6:4729, removing from router
+Not registered for pressure
+Did not receive reply for msg id b'wGulgp+r6SuiTXDtHOhAOscG1Rg=' within 5 seconds
+2022-02-21 12:20:13,188 - kademlia.protocol - WARNING - no response from 10.0.0.7:9787, removing from router
+Did not receive reply for msg id b'h6PkySkjuujqqlBIqJN0GSMs5RU=' within 5 seconds
+Did not receive reply for msg id b'PerOohr06Z2WjHchGL9fpn3RcQQ=' within 5 seconds
+Did not receive reply for msg id b'9wb8m7qyuyOdl2uWv7gljeRFfx0=' within 5 seconds
+2022-02-21 12:20:18,191 - kademlia.protocol - WARNING - no response from 10.0.0.6:4729, removing from router
+2022-02-21 12:20:18,191 - kademlia.protocol - WARNING - no response from 10.0.0.6:8364, removing from router
+2022-02-21 12:20:18,191 - kademlia.protocol - WARNING - no response from 10.0.0.5:9482, removing from router
+Did not receive reply for msg id b'vNUyagcDwh+1oESrl8W0xFlEj8Y=' within 5 seconds
+Did not receive reply for msg id b'3fZL51/Fw3HJXLtOgw1pEkArJT8=' within 5 seconds
+2022-02-21 12:20:23,198 - kademlia.protocol - WARNING - no response from 10.0.0.8:1046, removing from router
+2022-02-21 12:20:23,198 - kademlia.protocol - WARNING - no response from 10.0.0.5:6875, removing from router
+Did not receive reply for msg id b'umuRNxNlcUNVzqswVLvRQU3g4CA=' within 5 seconds
+Did not receive reply for msg id b'dkFDoiXy5HZns+yajQfdCGSQKB8=' within 5 seconds
+Did not receive reply for msg id b'g1PjnU7SfKu0WFUMp3iON5Fw7kc=' within 5 seconds
+2022-02-21 12:20:28,199 - kademlia.protocol - WARNING - no response from 10.0.0.6:7181, removing from router
+2022-02-21 12:20:28,199 - kademlia.protocol - WARNING - no response from 10.0.0.8:9166, removing from router
+2022-02-21 12:20:28,199 - kademlia.protocol - WARNING - no response from 10.0.0.7:7781, removing from router
+Did not receive reply for msg id b'4236vJW6JlamnZOD8HYYhLbTivM=' within 5 seconds
+Did not receive reply for msg id b'/6+PjPqi9fJ6j/68zeVblLOpbOg=' within 5 seconds
+Did not receive reply for msg id b'hcScr4oEGPpHDI6tKmtnZrmcIEY=' within 5 seconds
+2022-02-21 12:20:33,201 - kademlia.protocol - WARNING - no response from 10.0.0.6:4511, removing from router
+2022-02-21 12:20:33,201 - kademlia.protocol - WARNING - no response from 10.0.0.7:2938, removing from router
+2022-02-21 12:20:33,201 - kademlia.protocol - WARNING - no response from 10.0.0.6:7171, removing from router
+Did not receive reply for msg id b'PB5Hn7KMaBG0vBvIuQUm1hNJMZw=' within 5 seconds
+Did not receive reply for msg id b'6GSwip2O3O6dobBDQq7c2G3/fPM=' within 5 seconds
+2022-02-21 12:20:38,207 - kademlia.protocol - WARNING - no response from 10.0.0.5:1635, removing from router
+2022-02-21 12:20:38,207 - kademlia.protocol - WARNING - no response from 10.0.0.4:2239, removing from router
+Did not receive reply for msg id b'QM3ocuHrfehgWZkaRnnA35Jw6K4=' within 5 seconds
+Did not receive reply for msg id b'52ECnB4jvaydi4wRG/kfOhyao/E=' within 5 seconds
+2022-02-21 12:20:43,265 - kademlia.protocol - WARNING - no response from 10.0.0.8:3411, removing from router
+2022-02-21 12:20:43,265 - kademlia.protocol - WARNING - no response from 10.0.0.6:4729, removing from router
+Did not receive reply for msg id b'pgfMQVggTchHHqhMYZdueJ/8BJs=' within 5 seconds
+Did not receive reply for msg id b'8ehu27ntIS7GXDlBbCq0F5HeZDA=' within 5 seconds
+2022-02-21 12:20:48,279 - kademlia.protocol - WARNING - no response from 10.0.0.6:6010, removing from router
+2022-02-21 12:20:48,279 - kademlia.protocol - WARNING - no response from 10.0.0.7:9787, removing from router
+Did not receive reply for msg id b'sDkcqBhc3r44QnPbuNMP+qH0MFs=' within 5 seconds
+Did not receive reply for msg id b'miKaG9mgMYzmomG9Om8QK8pwJr0=' within 5 seconds
+2022-02-21 12:20:53,289 - kademlia.protocol - WARNING - no response from 10.0.0.4:2239, removing from router
+2022-02-21 12:20:53,289 - kademlia.protocol - WARNING - no response from 10.0.0.7:2938, removing from router
+Did not receive reply for msg id b'CBzAxd5lWXsY/bs5aFSjjDYwc2A=' within 5 seconds
+Did not receive reply for msg id b'Gbr64t5vyLQT3rXPvRkbngXvURY=' within 5 seconds
+2022-02-21 12:20:58,299 - kademlia.protocol - WARNING - no response from 10.0.0.6:7171, removing from router
+2022-02-21 12:20:58,299 - kademlia.protocol - WARNING - no response from 10.0.0.5:1635, removing from router
+Did not receive reply for msg id b'WQMx/9jkFxXFiDpSA47/IY19SAE=' within 5 seconds
+Did not receive reply for msg id b'XATHZzOc/GTJFj9L0XKMeFHR7ZY=' within 5 seconds
+Did not receive reply for msg id b'omfgw3aoZ2tPfX6SmDbL9ZoOKEA=' within 5 seconds
+2022-02-21 12:21:03,311 - kademlia.protocol - WARNING - no response from 10.0.0.6:7181, removing from router
+2022-02-21 12:21:03,311 - kademlia.protocol - WARNING - no response from 10.0.0.8:9166, removing from router
+2022-02-21 12:21:03,311 - kademlia.protocol - WARNING - no response from 10.0.0.6:4511, removing from router
+Did not receive reply for msg id b'XyrqiZaFq/V7TWCha+7TzC24bNk=' within 5 seconds
+Did not receive reply for msg id b'/qeL72VdTTx+XgcfxSzbax1ujlo=' within 5 seconds
+Did not receive reply for msg id b'4Ds2K2Dt41WQNr3GEuuAhL7QAug=' within 5 seconds
+2022-02-21 12:21:08,314 - kademlia.protocol - WARNING - no response from 10.0.0.7:7781, removing from router
+2022-02-21 12:21:08,314 - kademlia.protocol - WARNING - no response from 10.0.0.6:8364, removing from router
+2022-02-21 12:21:08,314 - kademlia.protocol - WARNING - no response from 10.0.0.5:9482, removing from router
+Did not receive reply for msg id b'tJedmo0pQoR37gqkdMMq7W282dU=' within 5 seconds
+Did not receive reply for msg id b'czkPcp0gDkI5viKpbM5I5euVzCo=' within 5 seconds
+Did not receive reply for msg id b'FojalYnOfuO7nuRc+/qdiyFCT00=' within 5 seconds
+2022-02-21 12:21:13,320 - kademlia.protocol - WARNING - no response from 10.0.0.8:1046, removing from router
+2022-02-21 12:21:13,320 - kademlia.protocol - WARNING - no response from 10.0.0.5:3356, removing from router
+2022-02-21 12:21:13,320 - kademlia.protocol - WARNING - no response from 10.0.0.5:6875, removing from router
+Did not receive reply for msg id b'JynVhBPEDufgdTC188uIwh/7MoA=' within 5 seconds
+2022-02-21 12:21:18,326 - kademlia.protocol - WARNING - no response from 10.0.0.7:5334, removing from router
+Did not receive reply for msg id b'STCCdU+rGvo19z4CP/ToyMoZZSU=' within 5 seconds
+Did not receive reply for msg id b'g+wMWEyE5eDhN8zOdcfCeqBwRHc=' within 5 seconds
+Did not receive reply for msg id b'c18a3q0rpQ/7YMd0XPztAYdAbiY=' within 5 seconds
+2022-02-21 12:21:23,331 - kademlia.protocol - WARNING - no response from 10.0.0.7:9787, removing from router
+2022-02-21 12:21:23,331 - kademlia.protocol - WARNING - no response from 10.0.0.6:6010, removing from router
+2022-02-21 12:21:23,331 - kademlia.protocol - WARNING - no response from 10.0.0.6:4729, removing from router
+Did not receive reply for msg id b'M5Vpf5tUDAihYkwaaP4WPm9qsOs=' within 5 seconds
+Did not receive reply for msg id b'lcs0XLfcNHpGZLCqRRqCA/ngYQA=' within 5 seconds
+Did not receive reply for msg id b'vUHYUF1zfCL13i/nPPgSr0SB7fw=' within 5 seconds
+2022-02-21 12:21:28,334 - kademlia.protocol - WARNING - no response from 10.0.0.8:3411, removing from router
+2022-02-21 12:21:28,334 - kademlia.protocol - WARNING - no response from 10.0.0.6:4511, removing from router
+2022-02-21 12:21:28,334 - kademlia.protocol - WARNING - no response from 10.0.0.7:7781, removing from router
+Did not receive reply for msg id b'4WK2qkkVLHJwrYJR4EsGTddTvuY=' within 5 seconds
+Did not receive reply for msg id b'Wxx4F2c1OS+ljO2K85Y/gWfU47c=' within 5 seconds
+Did not receive reply for msg id b'tGhrJGK4LY4TEJgFSFau9KPaDn4=' within 5 seconds
+2022-02-21 12:21:33,336 - kademlia.protocol - WARNING - no response from 10.0.0.6:7181, removing from router
+2022-02-21 12:21:33,336 - kademlia.protocol - WARNING - no response from 10.0.0.8:9166, removing from router
+2022-02-21 12:21:33,336 - kademlia.protocol - WARNING - no response from 10.0.0.5:6875, removing from router
+Did not receive reply for msg id b'rXNpl5d2V8aBzpKbJ3JKH1Qi5KM=' within 5 seconds
+Did not receive reply for msg id b'y+6A33mJ3vh4gsDKqVpN69Hmbec=' within 5 seconds
+Did not receive reply for msg id b'Ri7pZbTYIpPy3cYITAOy7Hu3Bto=' within 5 seconds
+2022-02-21 12:21:38,342 - kademlia.protocol - WARNING - no response from 10.0.0.5:9482, removing from router
+2022-02-21 12:21:38,342 - kademlia.protocol - WARNING - no response from 10.0.0.8:1046, removing from router
+2022-02-21 12:21:38,342 - kademlia.protocol - WARNING - no response from 10.0.0.5:3356, removing from router
+Did not receive reply for msg id b'3vITXnL4QIHa/m7+a2lUTNNpUP0=' within 5 seconds
+Did not receive reply for msg id b'zh6hKhFAJseCtiqTiUmlSdv73tM=' within 5 seconds
+Did not receive reply for msg id b'6OMdXr4YMSlHKT1EsF3JQkZxEvU=' within 5 seconds
+2022-02-21 12:21:43,348 - kademlia.protocol - WARNING - no response from 10.0.0.6:8364, removing from router
+2022-02-21 12:21:43,348 - kademlia.protocol - WARNING - no response from 10.0.0.7:7439, removing from router
+2022-02-21 12:21:43,348 - kademlia.protocol - WARNING - no response from 10.0.0.4:2239, removing from router
+Did not receive reply for msg id b'mFRMZ+RZmnD1zwkN7Q7H9g+SiN0=' within 5 seconds
+2022-02-21 12:21:48,351 - kademlia.protocol - WARNING - no response from 10.0.0.5:1635, removing from router
+Did not receive reply for msg id b'RRJmUB4THoeuROGpmkkYj4r1V6k=' within 5 seconds
+Did not receive reply for msg id b'SR0xqvc5O1OIwo+BVcu8/Uve+DM=' within 5 seconds
+Did not receive reply for msg id b'b4XWJDTzJ+JRP/sCsP5wW75VFEY=' within 5 seconds
+Did not receive reply for msg id b'oxYMa4wagiDyJoYRTROa+EqR0VM=' within 5 seconds
+Did not receive reply for msg id b'yqtOriG+ixuFkBdX4fhN0inv4r8=' within 5 seconds
+Did not receive reply for msg id b'kIhfjyeS61Qe5DnWzCQuav4Gnm4=' within 5 seconds
+Did not receive reply for msg id b'H+Rqr3OtUiEsZdAGQw3VjAZvxrc=' within 5 seconds
+Did not receive reply for msg id b'e8LpiC8DXndh37oMurp+cpi3ptU=' within 5 seconds
+Did not receive reply for msg id b'PUVZ4HQzcdEKBuIMfBXOqRzi6kI=' within 5 seconds
+Did not receive reply for msg id b'iMV7HI+hwfV/UdoXO3mESIExg9w=' within 5 seconds
+Did not receive reply for msg id b'CmBNyHoHWsm7E6pa8b7lkIS7szk=' within 5 seconds
+Did not receive reply for msg id b'/JqYpX2J/1L+o61c75k7nRoC0S8=' within 5 seconds
+Did not receive reply for msg id b'S6LZJAwkeXFBtPOtqNipEF5pUSY=' within 5 seconds
+Did not receive reply for msg id b'X1+U+g07RAA25iK/oE/ddf7Xs7s=' within 5 seconds
+Did not receive reply for msg id b'7654rgMCdXXDjW9IIuyV+FcmUEs=' within 5 seconds
+Did not receive reply for msg id b'tnL+CYy/WtGu1F7WvKq6+rshvNs=' within 5 seconds
+2022-02-21 12:21:53,359 - kademlia.protocol - WARNING - no response from 10.0.0.7:9787, removing from router
+2022-02-21 12:21:53,359 - kademlia.protocol - WARNING - no response from 10.0.0.6:6010, removing from router
+2022-02-21 12:21:53,359 - kademlia.protocol - WARNING - no response from 10.0.0.6:4729, removing from router
+2022-02-21 12:21:53,359 - kademlia.protocol - WARNING - no response from 10.0.0.8:3411, removing from router
+2022-02-21 12:21:53,359 - kademlia.protocol - WARNING - no response from 10.0.0.7:5334, removing from router
+2022-02-21 12:21:53,359 - kademlia.protocol - WARNING - no response from 10.0.0.7:7781, removing from router
+2022-02-21 12:21:53,359 - kademlia.protocol - WARNING - no response from 10.0.0.6:7181, removing from router
+2022-02-21 12:21:53,359 - kademlia.protocol - WARNING - no response from 10.0.0.8:9166, removing from router
+2022-02-21 12:21:53,359 - kademlia.protocol - WARNING - no response from 10.0.0.5:6875, removing from router
+2022-02-21 12:21:53,359 - kademlia.protocol - WARNING - no response from 10.0.0.5:9482, removing from router
+2022-02-21 12:21:53,359 - kademlia.protocol - WARNING - no response from 10.0.0.8:1046, removing from router
+2022-02-21 12:21:53,359 - kademlia.protocol - WARNING - no response from 10.0.0.5:3356, removing from router
+2022-02-21 12:21:53,359 - kademlia.protocol - WARNING - no response from 10.0.0.6:8364, removing from router
+2022-02-21 12:21:53,359 - kademlia.protocol - WARNING - no response from 10.0.0.7:7439, removing from router
+2022-02-21 12:21:53,359 - kademlia.protocol - WARNING - no response from 10.0.0.4:2239, removing from router
+2022-02-21 12:21:53,359 - kademlia.protocol - WARNING - no response from 10.0.0.5:1170, removing from router
+Main: parse command line arguments
+Main: Instantiate the Kademlia DHT object
+Main: Initialize the Kademlia DHT object
+Kademlia_DHT::initialize - My port = 1498, Bootstrap port = 8468, Bootstrap IP Addr = 10.0.0.1
+Main: Bootstrap and set key-val
+Did not receive reply for msg id b'fcYgHT2qSrI0NmZ9Wy5yyZZyMHM=' within 5 seconds
+Did not receive reply for msg id b'EQYvXcPw4GxPPU3qkX1KFFQU6lA=' within 5 seconds
+2022-02-21 12:21:59,421 - kademlia.protocol - WARNING - no response from 10.0.0.6:6010, removing from router
+2022-02-21 12:21:59,421 - kademlia.protocol - WARNING - no response from 10.0.0.7:9787, removing from router
+Did not receive reply for msg id b'Bq5eCtbKl1LTKXarby80j1ihjSQ=' within 5 seconds
+Did not receive reply for msg id b'iL4fjLQzCxQyxu1IQzDDgN1Mkpw=' within 5 seconds
+2022-02-21 12:22:04,427 - kademlia.protocol - WARNING - no response from 10.0.0.7:5334, removing from router
+2022-02-21 12:22:04,427 - kademlia.protocol - WARNING - no response from 10.0.0.6:4729, removing from router
+Did not receive reply for msg id b'6n1WUaofaq058WUVsnjjjDNVkzU=' within 5 seconds
+Did not receive reply for msg id b'/9weg7JSNxzzesAc2VI1LL0tDH0=' within 5 seconds
+2022-02-21 12:22:09,433 - kademlia.protocol - WARNING - no response from 10.0.0.6:1498, removing from router
+2022-02-21 12:22:09,433 - kademlia.protocol - WARNING - no response from 10.0.0.8:3411, removing from router
+Did not receive reply for msg id b'EsPlXz5c1eyHREesre3+DGq5/Es=' within 5 seconds
+Did not receive reply for msg id b'u0hIwse+6oJV1P00mJBp9VuhtZM=' within 5 seconds
+Did not receive reply for msg id b'phRcFoAOFgOHMFdE2ikcxPN9pZ8=' within 5 seconds
+2022-02-21 12:22:14,439 - kademlia.protocol - WARNING - no response from 10.0.0.8:1046, removing from router
+2022-02-21 12:22:14,439 - kademlia.protocol - WARNING - no response from 10.0.0.5:3356, removing from router
+2022-02-21 12:22:14,439 - kademlia.protocol - WARNING - no response from 10.0.0.5:6875, removing from router
+Did not receive reply for msg id b'O+BFrBZ0H3xeKa0nS0l8ISXIsIY=' within 5 seconds
+Did not receive reply for msg id b'E+DkZtPVmPPuw1g2721FTSZ/a7M=' within 5 seconds
+Did not receive reply for msg id b'UTpT32jhV944fFCPj3YUe0nwlm0=' within 5 seconds
+2022-02-21 12:22:19,445 - kademlia.protocol - WARNING - no response from 10.0.0.6:8364, removing from router
+2022-02-21 12:22:19,445 - kademlia.protocol - WARNING - no response from 10.0.0.7:7439, removing from router
+2022-02-21 12:22:19,445 - kademlia.protocol - WARNING - no response from 10.0.0.7:7781, removing from router
+Did not receive reply for msg id b'W5OS+XYMtXdZDdsWBx3aAg3MxFI=' within 5 seconds
+Did not receive reply for msg id b'+oZx+LIyZmh8ol+WfudoIt32ztA=' within 5 seconds
+Did not receive reply for msg id b'HkHJWMUnNvyxcFAdQ5X0U7H3It8=' within 5 seconds
+2022-02-21 12:22:24,451 - kademlia.protocol - WARNING - no response from 10.0.0.6:7181, removing from router
+2022-02-21 12:22:24,451 - kademlia.protocol - WARNING - no response from 10.0.0.8:9166, removing from router
+2022-02-21 12:22:24,451 - kademlia.protocol - WARNING - no response from 10.0.0.5:1170, removing from router
+Did not receive reply for msg id b'awwbi7d0q9hxadSJjFkwogUKDlw=' within 5 seconds
+Did not receive reply for msg id b'2n7lXXAnqiQ8LGG55pMORxF1ohs=' within 5 seconds
+Did not receive reply for msg id b'6TTtBjWF+ljZcJHjsPhusF94BHA=' within 5 seconds
+2022-02-21 12:22:29,454 - kademlia.protocol - WARNING - no response from 10.0.0.5:1635, removing from router
+2022-02-21 12:22:29,454 - kademlia.protocol - WARNING - no response from 10.0.0.7:2938, removing from router
+2022-02-21 12:22:29,454 - kademlia.protocol - WARNING - no response from 10.0.0.6:7171, removing from router
+Did not receive reply for msg id b'dUok/td40QHCBqOBfNcvO7SFzYg=' within 5 seconds
+2022-02-21 12:22:34,463 - kademlia.protocol - WARNING - no response from 10.0.0.7:3325, removing from router
+registered for pressure
+Publishing~pressure 10.0.0.6~1645464154.4747436
+Publishing~pressure 10.0.0.6~1645464156.476873
+Publishing~airquality 10.0.0.6~1645464158.4789646
+Publishing~airquality 10.0.0.6~1645464160.481057
+Publishing~pressure 10.0.0.6~1645464162.483166
+Publishing~pressure 10.0.0.6~1645464164.4852726
+Publishing~airquality 10.0.0.6~1645464166.4874032
+Publishing~pressure 10.0.0.6~1645464168.4894888
+Publishing~pressure 10.0.0.6~1645464170.4915879
+Publishing~pressure 10.0.0.6~1645464172.493703
+Publishing~airquality 10.0.0.6~1645464174.4957905
+Publishing~pressure 10.0.0.6~1645464176.4979289
+Publishing~pressure 10.0.0.6~1645464178.500024
+Publishing~pressure 10.0.0.6~1645464180.502146
+Publishing~airquality 10.0.0.6~1645464182.5042934
+Publishing~airquality 10.0.0.6~1645464184.506434
+Publishing~airquality 10.0.0.6~1645464186.5085611
+Publishing~airquality 10.0.0.6~1645464188.5106509
+Publishing~pressure 10.0.0.6~1645464190.5127442
+Publishing~airquality 10.0.0.6~1645464192.5148118
+Publishing~pressure 10.0.0.6~1645464194.5169017
+Publishing~airquality 10.0.0.6~1645464196.5189872
+Publishing~airquality 10.0.0.6~1645464198.5210786
+Publishing~airquality 10.0.0.6~1645464200.5231683
+Publishing~pressure 10.0.0.6~1645464202.5233994
+Publishing~airquality 10.0.0.6~1645464204.5255225
+Publishing~airquality 10.0.0.6~1645464206.527663
+Publishing~pressure 10.0.0.6~1645464208.5297542
+Publishing~airquality 10.0.0.6~1645464210.5318258
+Publishing~airquality 10.0.0.6~1645464212.5339158
+Publishing~pressure 10.0.0.6~1645464214.5360096
+Publishing~airquality 10.0.0.6~1645464216.5381072
+Publishing~pressure 10.0.0.6~1645464218.540195
+Publishing~pressure 10.0.0.6~1645464220.5422852
+Publishing~airquality 10.0.0.6~1645464222.5434134
+Publishing~pressure 10.0.0.6~1645464224.545474
+Publishing~airquality 10.0.0.6~1645464226.5475733
+Publishing~pressure 10.0.0.6~1645464228.5496676
+Publishing~airquality 10.0.0.6~1645464230.5517576
+Publishing~airquality 10.0.0.6~1645464232.5523777
+Publishing~airquality 10.0.0.6~1645464234.5544705
+Publishing~airquality 10.0.0.6~1645464236.5565622
+Publishing~pressure 10.0.0.6~1645464238.5586503
+Publishing~airquality 10.0.0.6~1645464240.5607703
+Publishing~pressure 10.0.0.6~1645464242.5631638
+Publishing~pressure 10.0.0.6~1645464244.5653195
+Publishing~pressure 10.0.0.6~1645464246.5674725
+Publishing~airquality 10.0.0.6~1645464248.5695837
+Publishing~airquality 10.0.0.6~1645464250.5716944
+Publishing~pressure 10.0.0.6~1645464252.573796
+Publishing~airquality 10.0.0.6~1645464254.5754294
+Publishing~pressure 10.0.0.6~1645464256.5775516
+Publishing~pressure 10.0.0.6~1645464258.5794206
+Publishing~pressure 10.0.0.6~1645464260.581527
+Publishing~airquality 10.0.0.6~1645464262.5836377
+Publishing~pressure 10.0.0.6~1645464264.5857222
+Publishing~pressure 10.0.0.6~1645464266.5878544
+Publishing~airquality 10.0.0.6~1645464268.5899832
+Publishing~airquality 10.0.0.6~1645464270.592132
+Publishing~pressure 10.0.0.6~1645464272.5942535
+Publishing~airquality 10.0.0.6~1645464274.596344
+Publishing~pressure 10.0.0.6~1645464276.5984657
+Publishing~pressure 10.0.0.6~1645464278.6005838
+Publishing~airquality 10.0.0.6~1645464280.6026864
+Publishing~pressure 10.0.0.6~1645464282.6048038
+Publishing~pressure 10.0.0.6~1645464284.6069045
+Publishing~airquality 10.0.0.6~1645464286.6090076
+Publishing~airquality 10.0.0.6~1645464288.6111188
+Publishing~airquality 10.0.0.6~1645464290.6132245
+Publishing~pressure 10.0.0.6~1645464292.615347
+Publishing~airquality 10.0.0.6~1645464294.617466
+Publishing~airquality 10.0.0.6~1645464296.6195734
+Publishing~airquality 10.0.0.6~1645464298.6217227
+Publishing~pressure 10.0.0.6~1645464300.623869
+Publishing~pressure 10.0.0.6~1645464302.6260178
+Publishing~pressure 10.0.0.6~1645464304.628155
+Publishing~pressure 10.0.0.6~1645464306.6302705
+Publishing~pressure 10.0.0.6~1645464308.6324027
+Publishing~pressure 10.0.0.6~1645464310.634515
+Publishing~airquality 10.0.0.6~1645464312.6366804
+Publishing~pressure 10.0.0.6~1645464314.6388106
+Publishing~airquality 10.0.0.6~1645464316.6409318
+Publishing~airquality 10.0.0.6~1645464318.6430776
+Publishing~airquality 10.0.0.6~1645464320.645189
+Publishing~airquality 10.0.0.6~1645464322.6473222
+Publishing~airquality 10.0.0.6~1645464324.6494484
+Publishing~airquality 10.0.0.6~1645464326.6515684
+Publishing~pressure 10.0.0.6~1645464328.6536887
+Publishing~pressure 10.0.0.6~1645464330.6558003
+Publishing~pressure 10.0.0.6~1645464332.6579318
+Publishing~pressure 10.0.0.6~1645464334.6600416
+Publishing~pressure 10.0.0.6~1645464336.662163
+Publishing~pressure 10.0.0.6~1645464338.6643033
+Publishing~pressure 10.0.0.6~1645464340.666427
+Publishing~airquality 10.0.0.6~1645464342.668568
+Publishing~pressure 10.0.0.6~1645464344.6706696
+Publishing~pressure 10.0.0.6~1645464346.6727726
+Publishing~airquality 10.0.0.6~1645464348.6748896
+Publishing~pressure 10.0.0.6~1645464350.6769843
+Publishing~airquality 10.0.0.6~1645464352.6790838
+Publishing~airquality 10.0.0.6~1645464354.6811736
+Publishing~pressure 10.0.0.6~1645464356.6832807
+Publishing~pressure 10.0.0.6~1645464358.685425
+Publishing~airquality 10.0.0.6~1645464360.6875417
+Publishing~airquality 10.0.0.6~1645464362.689664
+Publishing~airquality 10.0.0.6~1645464364.691764
+Publishing~airquality 10.0.0.6~1645464366.693861
+Publishing~airquality 10.0.0.6~1645464368.6959746
+Publishing~airquality 10.0.0.6~1645464370.6980944
+Publishing~airquality 10.0.0.6~1645464372.700216
+Publishing~airquality 10.0.0.6~1645464374.7023356
+Publishing~pressure 10.0.0.6~1645464376.704466
+Publishing~pressure 10.0.0.6~1645464378.7066164
+Publishing~pressure 10.0.0.6~1645464380.7087255
+Publishing~airquality 10.0.0.6~1645464382.7108648
+Publishing~airquality 10.0.0.6~1645464384.712984
+Publishing~pressure 10.0.0.6~1645464386.7151058
+Publishing~pressure 10.0.0.6~1645464388.717236
+Publishing~pressure 10.0.0.6~1645464390.719387
+Publishing~pressure 10.0.0.6~1645464392.7215357
+Publishing~pressure 10.0.0.6~1645464394.7236733
+Publishing~pressure 10.0.0.6~1645464396.7257686
+Publishing~pressure 10.0.0.6~1645464398.72791
+Publishing~pressure 10.0.0.6~1645464400.7300324
+Publishing~pressure 10.0.0.6~1645464402.7321851
+Publishing~pressure 10.0.0.6~1645464404.734327
+Publishing~airquality 10.0.0.6~1645464406.736451
+Publishing~pressure 10.0.0.6~1645464408.7385972
+Publishing~airquality 10.0.0.6~1645464410.7407203
+Publishing~pressure 10.0.0.6~1645464412.7428586
+Publishing~airquality 10.0.0.6~1645464414.745001
+Publishing~pressure 10.0.0.6~1645464416.74712
+Publishing~pressure 10.0.0.6~1645464418.7492836
+Publishing~pressure 10.0.0.6~1645464420.7514226
+Publishing~airquality 10.0.0.6~1645464422.753533
+Publishing~pressure 10.0.0.6~1645464424.7556791
+Publishing~airquality 10.0.0.6~1645464426.7578034
+Publishing~pressure 10.0.0.6~1645464428.7599647
+Publishing~pressure 10.0.0.6~1645464430.7621083
+Publishing~airquality 10.0.0.6~1645464432.7642283
+Publishing~airquality 10.0.0.6~1645464434.766362
+Publishing~pressure 10.0.0.6~1645464436.768487
+Publishing~pressure 10.0.0.6~1645464438.7706516
+Publishing~airquality 10.0.0.6~1645464440.7727845
+Publishing~airquality 10.0.0.6~1645464442.7748976
+Publishing~airquality 10.0.0.6~1645464444.7770562
+Publishing~pressure 10.0.0.6~1645464446.7791913
+Publishing~pressure 10.0.0.6~1645464448.7813435
+Publishing~pressure 10.0.0.6~1645464450.7834604
+Publishing~pressure 10.0.0.6~1645464452.7855773
+Publishing~pressure 10.0.0.6~1645464454.7877202
+Publishing~pressure 10.0.0.6~1645464456.789832
+Publishing~airquality 10.0.0.6~1645464458.79199
+Publishing~pressure 10.0.0.6~1645464460.7941077
+Publishing~airquality 10.0.0.6~1645464462.7962186
+Publishing~airquality 10.0.0.6~1645464464.798364
+Publishing~airquality 10.0.0.6~1645464466.8004835
+Publishing~pressure 10.0.0.6~1645464468.8026443
+Publishing~airquality 10.0.0.6~1645464470.8047805
+Publishing~pressure 10.0.0.6~1645464472.8068962
+Publishing~airquality 10.0.0.6~1645464474.809039
+Publishing~pressure 10.0.0.6~1645464476.8111336
+Publishing~pressure 10.0.0.6~1645464478.813286
+Publishing~pressure 10.0.0.6~1645464480.8154135
+Publishing~pressure 10.0.0.6~1645464482.8175266
+Publishing~pressure 10.0.0.6~1645464484.8196702
+Publishing~airquality 10.0.0.6~1645464486.8217819
+Publishing~airquality 10.0.0.6~1645464488.8239355
+Publishing~pressure 10.0.0.6~1645464490.8260708
+Publishing~airquality 10.0.0.6~1645464492.8281894
+Publishing~airquality 10.0.0.6~1645464494.8303406
+Publishing~airquality 10.0.0.6~1645464496.8324578
+Publishing~airquality 10.0.0.6~1645464498.8346083
+Publishing~airquality 10.0.0.6~1645464500.8367455
+Publishing~pressure 10.0.0.6~1645464502.838871
+Publishing~airquality 10.0.0.6~1645464504.8410203
+Publishing~pressure 10.0.0.6~1645464506.843132
+Publishing~airquality 10.0.0.6~1645464508.8452725
+Publishing~pressure 10.0.0.6~1645464510.847414
+Publishing~airquality 10.0.0.6~1645464512.8495243
+Publishing~pressure 10.0.0.6~1645464514.8516693
+Publishing~pressure 10.0.0.6~1645464516.8537447
+Publishing~airquality 10.0.0.6~1645464518.8558903
+Publishing~airquality 10.0.0.6~1645464520.8580291
+Publishing~airquality 10.0.0.6~1645464522.8601394
+Publishing~airquality 10.0.0.6~1645464524.8622851
+Publishing~airquality 10.0.0.6~1645464526.8643956
+Publishing~pressure 10.0.0.6~1645464528.8665404
+Publishing~airquality 10.0.0.6~1645464530.8686762
+Publishing~pressure 10.0.0.6~1645464532.8707843
+Publishing~airquality 10.0.0.6~1645464534.8729374
+Publishing~airquality 10.0.0.6~1645464536.8750567
+Publishing~airquality 10.0.0.6~1645464538.877193
+Publishing~pressure 10.0.0.6~1645464540.879289
+Publishing~pressure 10.0.0.6~1645464542.881388
+Publishing~airquality 10.0.0.6~1645464544.8835037
+Publishing~pressure 10.0.0.6~1645464546.8856163
+Publishing~airquality 10.0.0.6~1645464548.8877194
+Publishing~airquality 10.0.0.6~1645464550.8898406
+Publishing~pressure 10.0.0.6~1645464552.8919427
+Publishing~pressure 10.0.0.6~1645464554.8940644
+Publishing~pressure 10.0.0.6~1645464556.8961582
+Publishing~pressure 10.0.0.6~1645464558.8982644
+Publishing~airquality 10.0.0.6~1645464560.9004052
+Publishing~pressure 10.0.0.6~1645464562.9025016
+Publishing~pressure 10.0.0.6~1645464564.9046025
+Publishing~pressure 10.0.0.6~1645464566.9066958
+Publishing~airquality 10.0.0.6~1645464568.9088178
+Publishing~pressure 10.0.0.6~1645464570.9109576
+Publishing~pressure 10.0.0.6~1645464572.9130638
+Publishing~airquality 10.0.0.6~1645464574.9152055
+Publishing~airquality 10.0.0.6~1645464576.9172943
+Publishing~pressure 10.0.0.6~1645464578.9194071
+Publishing~airquality 10.0.0.6~1645464580.9215217
+Publishing~pressure 10.0.0.6~1645464582.923609
+Publishing~pressure 10.0.0.6~1645464584.9257042
+Publishing~pressure 10.0.0.6~1645464586.9265444
+Publishing~pressure 10.0.0.6~1645464588.928107
+Publishing~pressure 10.0.0.6~1645464590.9301922
+Publishing~pressure 10.0.0.6~1645464592.9322844
+Publishing~pressure 10.0.0.6~1645464594.934373
+Publishing~pressure 10.0.0.6~1645464596.9364767
+Publishing~airquality 10.0.0.6~1645464598.9385884
+Publishing~pressure 10.0.0.6~1645464600.9407206
+Publishing~pressure 10.0.0.6~1645464602.94283
+Publishing~pressure 10.0.0.6~1645464604.9449277
+Publishing~airquality 10.0.0.6~1645464606.947018
+Publishing~pressure 10.0.0.6~1645464608.949106
+Publishing~airquality 10.0.0.6~1645464610.9511938
+Publishing~airquality 10.0.0.6~1645464612.953282
+Publishing~airquality 10.0.0.6~1645464614.9553883
+Publishing~pressure 10.0.0.6~1645464616.9575057
+Publishing~pressure 10.0.0.6~1645464618.9595985
+Publishing~airquality 10.0.0.6~1645464620.961687
+Publishing~airquality 10.0.0.6~1645464622.9638114
+Publishing~airquality 10.0.0.6~1645464624.9658961
+Publishing~airquality 10.0.0.6~1645464626.967985
+Publishing~pressure 10.0.0.6~1645464628.9700723
+Publishing~airquality 10.0.0.6~1645464630.9721725
+Publishing~airquality 10.0.0.6~1645464632.9742734
+Publishing~pressure 10.0.0.6~1645464634.9763618
+Publishing~pressure 10.0.0.6~1645464636.978459
+Publishing~airquality 10.0.0.6~1645464638.9805598
+Publishing~pressure 10.0.0.6~1645464640.9826498
+Publishing~airquality 10.0.0.6~1645464642.984769
+Publishing~airquality 10.0.0.6~1645464644.9869251
+Publishing~airquality 10.0.0.6~1645464646.9891262
+Publishing~airquality 10.0.0.6~1645464648.9912694
+Publishing~pressure 10.0.0.6~1645464650.9914427
+Publishing~airquality 10.0.0.6~1645464652.9935746
+Publishing~airquality 10.0.0.6~1645464654.9954238
+Publishing~airquality 10.0.0.6~1645464656.9975657
+Publishing~pressure 10.0.0.6~1645464658.9997199

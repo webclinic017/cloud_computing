@@ -1,0 +1,14 @@
+20
+waiting for new pubs
+Connecting to because of pub change: 10.0.0.2: 5200
+Not connecting to because history is too small: 10.0.0.4: 5400
+Not connecting to because history is too small: 10.0.0.3: 5300
+Recieved-pressure 10.0.0.2-1648842012.5042152
+Recieved-pressure 10.0.0.2-1648842014.5085714
+Recieved-pressure 10.0.0.2-1648842020.5188146
+Recieved-pressure 10.0.0.2-1648842028.5344803
+Recieved-pressure 10.0.0.2-1648842054.5831232
+Recieved-pressure 10.0.0.2-1648842056.5869124
+Recieved-pressure 10.0.0.2-1648842062.5986068
+Recieved-pressure 10.0.0.2-1648842084.6378932
+Recieved-pressure 10.0.0.2-1648842090.6479974

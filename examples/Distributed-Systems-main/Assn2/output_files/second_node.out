@@ -1,0 +1,5 @@
+Main: parse command line arguments
+Main: Instantiate the Kademlia DHT object
+Main: Initialize the Kademlia DHT object
+Kademlia_DHT::initialize - My port = 8468, Bootstrap port = 8468, Bootstrap IP Addr = 10.0.0.1
+Main: join some DHT node

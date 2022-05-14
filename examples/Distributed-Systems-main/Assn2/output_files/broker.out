@@ -1,0 +1,192 @@
+broker
+In Broker
+Main: parse command line arguments
+Main: Instantiate the Kademlia DHT object
+Main: Initialize the Kademlia DHT object
+Kademlia_DHT::initialize - My port = 3283, Bootstrap port = 8468, Bootstrap IP Addr = 10.0.0.1
+Main: Bootstrap and set key-val
+waiting
+RegistrationMessage(type='PUB', topics=['pressure', 'weather', 'airquality', 'humidity'], id='tcp://10.0.0.5:None')
+['10.0.0.4', '5100']
+waiting
+RegistrationMessage(type='SUB', topics='humidity', id='tcp://None: None')
+['10.0.0.4', '5100']
+waiting
+sending start message
+START
+started
+waiting
+DissMessage(topic='pressure', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='weather', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='airquality', value='10.0.0.5')
+dessiminated
+waiting
+RegistrationMessage(type='SUB', topics='pressure', id='tcp://None: None')
+['10.0.0.4', '5100']
+waiting
+DissMessage(topic='weather', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='humidity', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='pressure', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='pressure', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='pressure', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='weather', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='pressure', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='airquality', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='pressure', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='airquality', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='weather', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='humidity', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='airquality', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='weather', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='pressure', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='humidity', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='airquality', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='airquality', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='weather', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='weather', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='weather', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='weather', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='weather', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='humidity', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='weather', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='humidity', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='humidity', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='weather', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='airquality', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='humidity', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='pressure', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='airquality', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='humidity', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='pressure', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='humidity', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='weather', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='humidity', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='humidity', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='airquality', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='airquality', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='pressure', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='humidity', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='weather', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='weather', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='weather', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='humidity', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='airquality', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='airquality', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='weather', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='airquality', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='weather', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='humidity', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='weather', value='10.0.0.5')
+dessiminated
+waiting
+DissMessage(topic='humidity', value='10.0.0.5')
+dessiminated
+waiting

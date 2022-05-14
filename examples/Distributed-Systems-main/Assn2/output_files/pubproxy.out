@@ -1,0 +1,174 @@
+Did not receive reply for msg id b'2KU9Tj3mMjWWHP9s2N9jl492jAs=' within 5 seconds
+2022-02-21 13:13:57,493 - kademlia.protocol - WARNING - no response from 10.0.0.4:3283, removing from router
+Recieved start
+Publishing~pressure 10.0.0.5~1645467242.4520812
+pressure
+10.0.0.5
+Publishing~weather 10.0.0.5~1645467244.4544706
+weather
+10.0.0.5
+Publishing~airquality 10.0.0.5~1645467246.455417
+airquality
+10.0.0.5
+Publishing~weather 10.0.0.5~1645467248.4578822
+weather
+10.0.0.5
+Publishing~humidity 10.0.0.5~1645467250.4594283
+humidity
+10.0.0.5
+Publishing~pressure 10.0.0.5~1645467252.461991
+pressure
+10.0.0.5
+Publishing~pressure 10.0.0.5~1645467254.4645317
+pressure
+10.0.0.5
+Publishing~pressure 10.0.0.5~1645467256.467086
+pressure
+10.0.0.5
+Publishing~weather 10.0.0.5~1645467258.4695709
+weather
+10.0.0.5
+Publishing~pressure 10.0.0.5~1645467260.4714336
+pressure
+10.0.0.5
+Publishing~airquality 10.0.0.5~1645467262.4739993
+airquality
+10.0.0.5
+Publishing~pressure 10.0.0.5~1645467264.4765453
+pressure
+10.0.0.5
+Publishing~airquality 10.0.0.5~1645467266.4791331
+airquality
+10.0.0.5
+Publishing~weather 10.0.0.5~1645467268.4817042
+weather
+10.0.0.5
+Publishing~humidity 10.0.0.5~1645467270.48427
+humidity
+10.0.0.5
+Publishing~airquality 10.0.0.5~1645467272.486833
+airquality
+10.0.0.5
+Publishing~weather 10.0.0.5~1645467274.4874134
+weather
+10.0.0.5
+Publishing~pressure 10.0.0.5~1645467276.4886851
+pressure
+10.0.0.5
+Publishing~humidity 10.0.0.5~1645467278.491238
+humidity
+10.0.0.5
+Publishing~airquality 10.0.0.5~1645467280.49379
+airquality
+10.0.0.5
+Publishing~airquality 10.0.0.5~1645467282.4963508
+airquality
+10.0.0.5
+Publishing~weather 10.0.0.5~1645467284.49692
+weather
+10.0.0.5
+Publishing~weather 10.0.0.5~1645467286.4994154
+weather
+10.0.0.5
+Publishing~weather 10.0.0.5~1645467288.4999096
+weather
+10.0.0.5
+Publishing~weather 10.0.0.5~1645467290.5024993
+weather
+10.0.0.5
+Publishing~weather 10.0.0.5~1645467292.5034354
+weather
+10.0.0.5
+Publishing~humidity 10.0.0.5~1645467294.5060067
+humidity
+10.0.0.5
+Publishing~weather 10.0.0.5~1645467296.5074117
+weather
+10.0.0.5
+Publishing~humidity 10.0.0.5~1645467298.5099502
+humidity
+10.0.0.5
+Publishing~humidity 10.0.0.5~1645467300.5125396
+humidity
+10.0.0.5
+Publishing~weather 10.0.0.5~1645467302.5151265
+weather
+10.0.0.5
+Publishing~airquality 10.0.0.5~1645467304.5177011
+airquality
+10.0.0.5
+Publishing~humidity 10.0.0.5~1645467306.5202918
+humidity
+10.0.0.5
+Publishing~pressure 10.0.0.5~1645467308.5228674
+pressure
+10.0.0.5
+Publishing~airquality 10.0.0.5~1645467310.5254617
+airquality
+10.0.0.5
+Publishing~humidity 10.0.0.5~1645467312.5280218
+humidity
+10.0.0.5
+Publishing~pressure 10.0.0.5~1645467314.53054
+pressure
+10.0.0.5
+Publishing~humidity 10.0.0.5~1645467316.5330944
+humidity
+10.0.0.5
+Publishing~weather 10.0.0.5~1645467318.535418
+weather
+10.0.0.5
+Publishing~humidity 10.0.0.5~1645467320.5372298
+humidity
+10.0.0.5
+Publishing~humidity 10.0.0.5~1645467322.5397735
+humidity
+10.0.0.5
+Publishing~airquality 10.0.0.5~1645467324.5423152
+airquality
+10.0.0.5
+Publishing~airquality 10.0.0.5~1645467326.5434139
+airquality
+10.0.0.5
+Publishing~pressure 10.0.0.5~1645467328.5459542
+pressure
+10.0.0.5
+Publishing~humidity 10.0.0.5~1645467330.5474255
+humidity
+10.0.0.5
+Publishing~weather 10.0.0.5~1645467332.5499825
+weather
+10.0.0.5
+Publishing~weather 10.0.0.5~1645467334.5517752
+weather
+10.0.0.5
+Publishing~weather 10.0.0.5~1645467336.5526078
+weather
+10.0.0.5
+Publishing~humidity 10.0.0.5~1645467338.55516
+humidity
+10.0.0.5
+Publishing~airquality 10.0.0.5~1645467340.5577734
+airquality
+10.0.0.5
+Publishing~airquality 10.0.0.5~1645467342.5604024
+airquality
+10.0.0.5
+Publishing~weather 10.0.0.5~1645467344.5620677
+weather
+10.0.0.5
+Publishing~airquality 10.0.0.5~1645467346.5634084
+airquality
+10.0.0.5
+Publishing~weather 10.0.0.5~1645467348.5659094
+weather
+10.0.0.5
+Publishing~humidity 10.0.0.5~1645467350.5684428
+humidity
+10.0.0.5
+Publishing~weather 10.0.0.5~1645467352.570986
+weather
+10.0.0.5
+Publishing~humidity 10.0.0.5~1645467354.5735264
+humidity
+10.0.0.5

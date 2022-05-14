@@ -1,0 +1,117 @@
+Registering: pressure/10.0.0.3
+Creating node of key: pressure/10.0.0.3 - value: 5300:10
+Registering: altitude/10.0.0.3
+Creating node of key: altitude/10.0.0.3 - value: 5300:10
+Registering: location/10.0.0.3
+Creating node of key: location/10.0.0.3 - value: 5300:10
+Registering: weather/10.0.0.3
+Creating node of key: weather/10.0.0.3 - value: 5300:10
+Registering: temperature/10.0.0.3
+Creating node of key: temperature/10.0.0.3 - value: 5300:10
+Registering: humidity/10.0.0.3
+Creating node of key: humidity/10.0.0.3 - value: 5300:10
+Registering: weather/10.0.0.3
+Creating node of key: weather/10.0.0.3 - value: 5300:10
+Publishing~weather 10.0.0.3~1648841989.454871
+Publishing~location 10.0.0.3~1648841991.4582312
+Topic location not owned by 10.0.0.3
+Publishing~humidity 10.0.0.3~1648841993.4626272
+Topic humidity not owned by 10.0.0.3
+Publishing~weather 10.0.0.3~1648841995.4669845
+Topic weather not owned by 10.0.0.3
+Publishing~altitude 10.0.0.3~1648841997.4714632
+Publishing~location 10.0.0.3~1648841999.4759429
+Topic location not owned by 10.0.0.3
+Publishing~location 10.0.0.3~1648842001.480046
+Topic location not owned by 10.0.0.3
+Publishing~location 10.0.0.3~1648842003.4842172
+Topic location not owned by 10.0.0.3
+Publishing~temperature 10.0.0.3~1648842005.4885967
+Topic temperature not owned by 10.0.0.3
+Publishing~temperature 10.0.0.3~1648842007.492796
+Topic temperature not owned by 10.0.0.3
+Publishing~location 10.0.0.3~1648842009.4969497
+Topic location not owned by 10.0.0.3
+Publishing~temperature 10.0.0.3~1648842011.5009158
+Topic temperature not owned by 10.0.0.3
+Publishing~location 10.0.0.3~1648842013.504596
+Topic location not owned by 10.0.0.3
+Publishing~location 10.0.0.3~1648842015.5086198
+Topic location not owned by 10.0.0.3
+Publishing~weather 10.0.0.3~1648842017.5130072
+Topic weather not owned by 10.0.0.3
+Publishing~weather 10.0.0.3~1648842019.5171762
+Topic weather not owned by 10.0.0.3
+Publishing~weather 10.0.0.3~1648842021.5213163
+Topic weather not owned by 10.0.0.3
+Publishing~humidity 10.0.0.3~1648842023.52539
+Topic humidity not owned by 10.0.0.3
+Publishing~altitude 10.0.0.3~1648842025.5293307
+Publishing~location 10.0.0.3~1648842027.5333319
+Topic location not owned by 10.0.0.3
+Publishing~location 10.0.0.3~1648842029.5369446
+Topic location not owned by 10.0.0.3
+Publishing~weather 10.0.0.3~1648842031.5407014
+Topic weather not owned by 10.0.0.3
+Publishing~weather 10.0.0.3~1648842033.5444221
+Topic weather not owned by 10.0.0.3
+Publishing~pressure 10.0.0.3~1648842035.5487075
+Topic pressure not owned by 10.0.0.3
+Publishing~weather 10.0.0.3~1648842037.5527873
+Topic weather not owned by 10.0.0.3
+Publishing~weather 10.0.0.3~1648842039.5566297
+Topic weather not owned by 10.0.0.3
+Publishing~location 10.0.0.3~1648842041.5603623
+Topic location not owned by 10.0.0.3
+Publishing~temperature 10.0.0.3~1648842043.5625105
+Topic temperature not owned by 10.0.0.3
+Publishing~weather 10.0.0.3~1648842045.5665486
+Topic weather not owned by 10.0.0.3
+Publishing~temperature 10.0.0.3~1648842047.5693183
+Topic temperature not owned by 10.0.0.3
+Publishing~humidity 10.0.0.3~1648842049.572949
+Topic humidity not owned by 10.0.0.3
+Publishing~location 10.0.0.3~1648842051.577099
+Topic location not owned by 10.0.0.3
+Publishing~weather 10.0.0.3~1648842053.581678
+Topic weather not owned by 10.0.0.3
+Publishing~pressure 10.0.0.3~1648842055.5857937
+Topic pressure not owned by 10.0.0.3
+Publishing~location 10.0.0.3~1648842057.5893333
+Topic location not owned by 10.0.0.3
+Publishing~temperature 10.0.0.3~1648842059.5927703
+Topic temperature not owned by 10.0.0.3
+Publishing~pressure 10.0.0.3~1648842061.5960505
+Topic pressure not owned by 10.0.0.3
+Publishing~altitude 10.0.0.3~1648842063.598507
+Publishing~temperature 10.0.0.3~1648842065.6025906
+Topic temperature not owned by 10.0.0.3
+Publishing~humidity 10.0.0.3~1648842067.606801
+Topic humidity not owned by 10.0.0.3
+Publishing~location 10.0.0.3~1648842069.6103528
+Topic location not owned by 10.0.0.3
+Publishing~altitude 10.0.0.3~1648842071.6138954
+Publishing~temperature 10.0.0.3~1648842073.6178663
+Topic temperature not owned by 10.0.0.3
+Publishing~weather 10.0.0.3~1648842075.621942
+Topic weather not owned by 10.0.0.3
+Publishing~location 10.0.0.3~1648842077.6256685
+Topic location not owned by 10.0.0.3
+Publishing~temperature 10.0.0.3~1648842079.629493
+Topic temperature not owned by 10.0.0.3
+Publishing~temperature 10.0.0.3~1648842081.6332972
+Topic temperature not owned by 10.0.0.3
+Publishing~humidity 10.0.0.3~1648842083.6368933
+Topic humidity not owned by 10.0.0.3
+Publishing~pressure 10.0.0.3~1648842085.6385221
+Topic pressure not owned by 10.0.0.3
+Publishing~temperature 10.0.0.3~1648842087.642198
+Topic temperature not owned by 10.0.0.3
+Publishing~weather 10.0.0.3~1648842089.6460984
+Topic weather not owned by 10.0.0.3
+Publishing~weather 10.0.0.3~1648842091.6499906
+Topic weather not owned by 10.0.0.3
+Publishing~pressure 10.0.0.3~1648842093.6532998
+Topic pressure not owned by 10.0.0.3
+Publishing~weather 10.0.0.3~1648842095.655398
+Topic weather not owned by 10.0.0.3

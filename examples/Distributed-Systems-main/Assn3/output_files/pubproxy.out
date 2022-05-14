@@ -1,0 +1,217 @@
+['sound', 'temperature', 'light', 'weather', 'pressure', 'humidity', 'altitude', 'location', 'airquality']
+Waiting for response for broker
+Waiting for response for broker
+Got brokers information
+10.0.0.3
+6000
+start bp initialization
+finished bp initialization
+sending registration
+recieved registration
+pub app
+Publishing~location 10.0.0.4~1648822994.1173282
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~airquality 10.0.0.4~1648822999.1257343
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~humidity 10.0.0.4~1648823002.1303995
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~humidity 10.0.0.4~1648823004.1339936
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~humidity 10.0.0.4~1648823007.1385977
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~pressure 10.0.0.4~1648823010.1443796
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~weather 10.0.0.4~1648823012.1492631
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~pressure 10.0.0.4~1648823015.1565423
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~altitude 10.0.0.4~1648823018.1641026
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~airquality 10.0.0.4~1648823021.1712852
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~airquality 10.0.0.4~1648823024.178951
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~temperature 10.0.0.4~1648823027.1865335
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~weather 10.0.0.4~1648823030.194363
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~humidity 10.0.0.4~1648823033.202081
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~light 10.0.0.4~1648823036.2098565
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~airquality 10.0.0.4~1648823039.2168524
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~light 10.0.0.4~1648823042.2239432
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~weather 10.0.0.4~1648823045.2316186
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~airquality 10.0.0.4~1648823048.2394664
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~sound 10.0.0.4~1648823051.247037
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~altitude 10.0.0.4~1648823054.2549775
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~location 10.0.0.4~1648823057.2621026
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~sound 10.0.0.4~1648823060.268954
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~sound 10.0.0.4~1648823062.2730207
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~weather 10.0.0.4~1648823064.2769728
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~weather 10.0.0.4~1648823067.284094
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~airquality 10.0.0.4~1648823070.2905731
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~weather 10.0.0.4~1648823073.2985737
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~airquality 10.0.0.4~1648823076.3063092
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~humidity 10.0.0.4~1648823079.3140264
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~weather 10.0.0.4~1648823082.328523
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~humidity 10.0.0.4~1648823085.3347254
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~temperature 10.0.0.4~1648823088.3422167
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~location 10.0.0.4~1648823091.3491082
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~temperature 10.0.0.4~1648823094.3544934
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~temperature 10.0.0.4~1648823097.3690634
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~light 10.0.0.4~1648823100.3768609
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~humidity 10.0.0.4~1648823103.383432
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~pressure 10.0.0.4~1648823106.3902636
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~location 10.0.0.4~1648823109.3967175
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~pressure 10.0.0.4~1648823112.4030972
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~light 10.0.0.4~1648823115.4101346
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~temperature 10.0.0.4~1648823118.4170864
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~airquality 10.0.0.4~1648823121.422585
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~light 10.0.0.4~1648823123.4268527
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~temperature 10.0.0.4~1648823125.4316502
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~weather 10.0.0.4~1648823128.439182
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~airquality 10.0.0.4~1648823131.446538
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~humidity 10.0.0.4~1648823134.4534776
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~temperature 10.0.0.4~1648823137.459782
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~light 10.0.0.4~1648823140.4651008
+Starting Desiminating on BP
+Finished Desiminating on BP
+pub app
+Publishing~humidity 10.0.0.4~1648823143.46926
+Starting Desiminating on BP

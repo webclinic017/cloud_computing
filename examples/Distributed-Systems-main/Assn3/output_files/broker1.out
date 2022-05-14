@@ -1,0 +1,230 @@
+broker
+In Broker
+Creating node of key: 10.0.0.3 - value: 10.0.0.3:6000
+I am leader!
+waiting
+waiting
+Registering: sound/10.0.0.4
+Creating node of key: sound/10.0.0.4 - value: None
+Registering: temperature/10.0.0.4
+Creating node of key: temperature/10.0.0.4 - value: None
+Registering: light/10.0.0.4
+Creating node of key: light/10.0.0.4 - value: None
+Registering: weather/10.0.0.4
+Creating node of key: weather/10.0.0.4 - value: None
+Registering: pressure/10.0.0.4
+Creating node of key: pressure/10.0.0.4 - value: None
+Registering: humidity/10.0.0.4
+Creating node of key: humidity/10.0.0.4 - value: None
+Registering: altitude/10.0.0.4
+Creating node of key: altitude/10.0.0.4 - value: None
+Registering: location/10.0.0.4
+Creating node of key: location/10.0.0.4 - value: None
+Registering: airquality/10.0.0.4
+Creating node of key: airquality/10.0.0.4 - value: None
+RegistrationMessage(type='PUB', topics=['sound', 'temperature', 'light', 'weather', 'pressure', 'humidity', 'altitude', 'location', 'airquality'], id='tcp://10.0.0.4:None')
+['10.0.0.3', '6100']
+waiting
+RegistrationMessage(type='SUB', topics='humidity', id='tcp://10.0.0.6: None')
+['10.0.0.3', '6100']
+waiting
+RegistrationMessage(type='SUB', topics='pressure', id='tcp://10.0.0.5: None')
+['10.0.0.3', '6100']
+waiting
+DissMessage(topic='location', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='airquality', value='10.0.0.4')
+dessiminated
+waiting
+DissMessage(topic='humidity', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='humidity', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='humidity', value='10.0.0.4')
+dessiminated
+waiting
+DissMessage(topic='pressure', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='weather', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='pressure', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='altitude', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='airquality', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='airquality', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='temperature', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='weather', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='humidity', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='light', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='airquality', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='light', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='weather', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='airquality', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='sound', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='altitude', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='location', value='10.0.0.4')
+dessiminated
+waiting
+DissMessage(topic='sound', value='10.0.0.4')
+dessiminated
+waiting
+DissMessage(topic='sound', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='weather', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='weather', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='airquality', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='weather', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='airquality', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='humidity', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='weather', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='humidity', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='temperature', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='location', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='temperature', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='temperature', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='light', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='humidity', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='pressure', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='location', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='pressure', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='light', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='temperature', value='10.0.0.4')
+dessiminated
+waiting
+DissMessage(topic='airquality', value='10.0.0.4')
+dessiminated
+waiting
+DissMessage(topic='light', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='temperature', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='weather', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='airquality', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='humidity', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='temperature', value='10.0.0.4')
+dessiminated
+waiting
+waiting
+DissMessage(topic='light', value='10.0.0.4')
+dessiminated
+waiting
